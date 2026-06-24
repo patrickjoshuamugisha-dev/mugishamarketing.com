@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Get in Touch — Mugisha Marketing</title>
+<meta name="description" content="Tell us about your business and how we can help you scale with AI automations, agents, and web.">
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --background:0 0% 100%;
+    --foreground:220 20% 10%;
+    --card:0 0% 100%;
+    --primary:199 89% 48%;
+    --primary-foreground:0 0% 100%;
+    --secondary:210 20% 96%;
+    --muted:210 20% 96%;
+    --muted-foreground:215 16% 47%;
+    --accent:199 89% 48%;
+    --border:214 32% 91%;
+    --radius:.5rem;
+    --gradient-hero:linear-gradient(135deg, hsl(199 89% 48%) 0%, hsl(210 100% 50%) 100%);
+    --shadow-soft:0 4px 20px -4px hsl(220 20% 10% / .08);
+    --shadow-hover:0 8px 30px -8px hsl(199 89% 48% / .25);
+    --transition-smooth:all .3s cubic-bezier(.4,0,.2,1);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;border:0 solid hsl(var(--border));}
+  html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;}
+  body{
+    font-family:"DM Sans",system-ui,sans-serif;
+    background:hsl(var(--background));
+    color:hsl(var(--foreground));
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+  }
+  a{color:inherit;text-decoration:none;}
+  .container{max-width:760px;margin:0 auto;padding:0 24px;}
+
+  /* ---------- Nav ---------- */
+  nav{border-bottom:1px solid hsl(var(--border));padding:16px 0;}
+  .nav-inner{max-width:1100px;margin:0 auto;padding:0 28px;display:flex;align-items:center;justify-content:space-between;}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:700;font-size:1.06rem;letter-spacing:-.01em;}
+  .brand svg{width:24px;height:24px;color:hsl(var(--primary));}
+  .back{
+    display:inline-flex;align-items:center;gap:7px;font-weight:600;font-size:.85rem;
+    color:hsl(var(--foreground));border:1px solid hsl(var(--border));border-radius:var(--radius);
+    padding:8px 16px;box-shadow:var(--shadow-soft);transition:var(--transition-smooth);
+  }
+  .back:hover{box-shadow:var(--shadow-hover);transform:translateY(-1px);}
+
+  /* ---------- Header ---------- */
+  .form-head{text-align:center;padding:56px 0 8px;}
+  .form-head h1{font-size:2.5rem;font-weight:700;letter-spacing:-.02em;}
+  .form-head h1 .accent{color:hsl(var(--primary));}
+  .form-head p{color:hsl(var(--muted-foreground));font-size:1rem;margin-top:12px;}
+
+  /* ---------- Form card ---------- */
+  .form-wrap{padding:24px 0 80px;}
+  form.card{
+    background:hsl(var(--card));border:1px solid hsl(var(--border));border-radius:calc(var(--radius) + 4px);
+    box-shadow:var(--shadow-soft);padding:36px 36px 40px;
+  }
+  .field{margin-bottom:22px;}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+  label{display:block;font-size:.85rem;font-weight:600;margin-bottom:8px;}
+  label .req{color:hsl(var(--primary));}
+  label .opt{color:hsl(var(--muted-foreground));font-weight:500;}
+  input,select,textarea{
+    width:100%;font-family:inherit;font-size:.9rem;color:hsl(var(--foreground));
+    background:hsl(var(--background));border:1px solid hsl(var(--border));border-radius:var(--radius);
+    padding:11px 13px;transition:var(--transition-smooth);
+  }
+  input::placeholder,textarea::placeholder{color:hsl(var(--muted-foreground) / .8);}
+  input:focus,select:focus,textarea:focus{
+    outline:none;border-color:hsl(var(--primary));box-shadow:0 0 0 3px hsl(199 89% 48% / .15);
+  }
+  select{appearance:none;-webkit-appearance:none;cursor:pointer;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 13px center;padding-right:36px;}
+  select:invalid{color:hsl(var(--muted-foreground) / .9);}
+  textarea{min-height:118px;resize:vertical;line-height:1.5;}
+
+  /* ---------- Checkbox grid ---------- */
+  .check-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+  .check{
+    display:flex;align-items:center;gap:11px;border:1px solid hsl(var(--border));
+    border-radius:var(--radius);padding:13px 15px;cursor:pointer;transition:var(--transition-smooth);
+    font-size:.86rem;
+  }
+  .check:hover{border-color:hsl(var(--primary));}
+  .check input{width:17px;height:17px;flex:0 0 17px;accent-color:hsl(var(--primary));cursor:pointer;padding:0;}
+  .check span{margin:0;}
+
+  /* ---------- Submit ---------- */
+  .submit{
+    width:100%;display:inline-flex;align-items:center;justify-content:center;gap:8px;
+    background:var(--gradient-hero);color:hsl(var(--primary-foreground));font-family:inherit;
+    font-weight:600;font-size:.95rem;border-radius:var(--radius);padding:15px 24px;margin-top:8px;
+    box-shadow:var(--shadow-hover);cursor:pointer;transition:var(--transition-smooth);
+  }
+  .submit:hover{transform:translateY(-1px);}
+
+  /* ---------- Footer ---------- */
+  footer{padding:34px 0;text-align:center;border-top:1px solid hsl(var(--border));}
+  footer .copy{color:hsl(var(--muted-foreground));font-size:.8rem;}
+  footer .flinks{margin-top:8px;font-size:.8rem;}
+  footer .flinks a{color:hsl(var(--muted-foreground));}
+  footer .flinks a:hover{color:hsl(var(--primary));}
+  footer .sep{color:hsl(var(--border));margin:0 8px;}
+
+  @media (max-width:680px){
+    .row{grid-template-columns:1fr;}
+    .check-grid{grid-template-columns:1fr;}
+    .form-head h1{font-size:2rem;}
+    form.card{padding:26px 22px 30px;}
+  }
+</style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="brand">Mugisha Marketing</a>
+    <a href="index.html" class="back"><span>&larr;</span> Back</a>
+  </div>
+</nav>
+
+<!-- Header -->
+<div class="form-head">
+  <div class="container">
+    <h1>Let's <span class="accent">Connect</span></h1>
+    <p>Tell us about your business and how we can help you scale with AI.</p>
+  </div>
+</div>
+
+<!-- Form -->
+<div class="form-wrap">
+  <div class="container">
+    <!-- FormSubmit.co backend: no account needed. First real submission emails a one-time activation link to the address below; click it once to go live. -->
+    <form class="card" action="https://formsubmit.co/patrick@mugishamarketing.com" method="POST">
+      <!-- FormSubmit config -->
+      <input type="hidden" name="_subject" value="New lead — mugishamarketing.com">
+      <input type="hidden" name="_template" value="table">
+      <input type="hidden" name="_next" value="https://mugishamarketing.com/thanks.html">
+      <input type="hidden" name="_captcha" value="false">
+      <!-- Honeypot: real users never see/fill this; bots do -->
+      <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;" aria-hidden="true">
+
+      <div class="field row">
+        <div>
+          <label for="firstName">First Name <span class="req">*</span></label>
+          <input id="firstName" name="firstName" type="text" placeholder="John" required>
+        </div>
+        <div>
+          <label for="lastName">Last Name <span class="req">*</span></label>
+          <input id="lastName" name="lastName" type="text" placeholder="Doe" required>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="email">Email Address <span class="req">*</span></label>
+        <input id="email" name="email" type="email" placeholder="john@company.com" required>
+      </div>
+
+      <div class="field row">
+        <div>
+          <label for="company">Company Name <span class="req">*</span></label>
+          <input id="company" name="company" type="text" placeholder="Acme Inc." required>
+        </div>
+        <div>
+          <label for="website">Company Website <span class="opt">(optional)</span></label>
+          <input id="website" name="website" type="url" placeholder="https://acme.com">
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="role">Your Role <span class="req">*</span></label>
+        <select id="role" name="role" required>
+          <option value="" disabled selected>Select your role</option>
+          <option>Founder / CEO</option>
+          <option>C-Level / Executive</option>
+          <option>Director / VP</option>
+          <option>Manager / Team Lead</option>
+          <option>Other</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="size">Company Size <span class="req">*</span></label>
+        <select id="size" name="size" required>
+          <option value="" disabled selected>Select company size</option>
+          <option>1–10</option>
+          <option>11–50</option>
+          <option>51–200</option>
+          <option>201–1,000</option>
+          <option>1,000+</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="revenue">Company's Annual Revenue <span class="req">*</span></label>
+        <select id="revenue" name="revenue" required>
+          <option value="" disabled selected>Select revenue range</option>
+          <option>Under $100k</option>
+          <option>$100k – $500k</option>
+          <option>$500k – $1M</option>
+          <option>$1M – $5M</option>
+          <option>$5M+</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="budget">Project Budget <span class="req">*</span></label>
+        <select id="budget" name="budget" required>
+          <option value="" disabled selected>Select budget range</option>
+          <option>Under $1,000</option>
+          <option>$1,000 – $5,000</option>
+          <option>$5,000 – $10,000</option>
+          <option>$10,000 – $25,000</option>
+          <option>$25,000+</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="help">How can we help? <span class="req">*</span></label>
+        <textarea id="help" name="help" placeholder="Tell us what you're looking to achieve…" required></textarea>
+      </div>
+
+      <div class="field">
+        <label>What are you hoping to improve with AI or automation? <span class="req">*</span></label>
+        <div class="check-grid">
+          <label class="check"><input type="checkbox" name="goals" value="Lead generation or sales"><span>Lead generation or sales</span></label>
+          <label class="check"><input type="checkbox" name="goals" value="Customer support"><span>Customer support</span></label>
+          <label class="check"><input type="checkbox" name="goals" value="Internal operations"><span>Internal operations</span></label>
+          <label class="check"><input type="checkbox" name="goals" value="Data processing or reporting"><span>Data processing or reporting</span></label>
+          <label class="check"><input type="checkbox" name="goals" value="Content or marketing workflows"><span>Content or marketing workflows</span></label>
+          <label class="check"><input type="checkbox" name="goals" value="Not sure yet"><span>Not sure yet</span></label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="notes">Anything else we should know before reaching out? <span class="opt">(optional)</span></label>
+        <textarea id="notes" name="notes" placeholder="Any additional context or questions…"></textarea>
+      </div>
+
+      <button type="submit" class="submit">Submit <span>&rarr;</span></button>
+    </form>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="copy">&copy; 2026 Mugisha Marketing. All rights reserved.</div>
+    <div class="flinks">
+      <a href="/terms-of-service.html">Terms of Service</a>
+      <span class="sep">·</span>
+      <a href="/privacy-policy.html">Privacy Policy</a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

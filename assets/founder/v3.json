@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d1c5c2b3-4a5c-465d-b984-3aa3623eb631",
+    "status": "completed",
+    "display_name": "Nano Banana Pro",
+    "job_set_type": "nano_banana_2",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3DtaHaQucXB9JzgSSzAS7VPaSSc/hf_20260624_080441_d1c5c2b3-4a5c-465d-b984-3aa3623eb631.png",
+    "created_at": 1782288281.484734,
+    "params": {
+      "width": 2048,
+      "height": 2048,
+      "aspect_ratio": "1:1",
+      "resolution": "2k",
+      "batch_size": 1,
+      "input_images": [
+        {
+          "id": "2f2dc46b-3c2a-4137-afd3-99dd068e227b",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3DtaHaQucXB9JzgSSzAS7VPaSSc/2f2dc46b-3c2a-4137-afd3-99dd068e227b.png",
+          "type": "media_input"
+        }
+      ],
+      "input_image": null,
+      "application": null,
+      "surface": null,
+      "prompt": "Professional founder headshot of the same man, preserve his exact face, curly dark hair, skin tone and features identically. Keep the black shirt. Shoulders-up, square crop, sharp focus, even soft studio lighting. Smooth sky-blue gradient background light top to deeper blue. Body angled slightly, face turned toward camera, warm smile."
+    }
+  }
+]
