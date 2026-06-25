@@ -6,7 +6,7 @@
 <title>Contact</title>
 <meta name="description" content="Tell us about your business and how we can help you scale with AI automations, agents, and web.">
 <meta name="robots" content="noindex">
-<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Barlow:wght@600;800&display=swap" rel="stylesheet">
@@ -91,6 +91,7 @@
 
   /* ---------- Checkbox grid ---------- */
   .check-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+  .check-grid.bad .check{border-color:#e5484d;box-shadow:0 0 0 3px rgba(229,72,77,.14);}
   .check{
     display:flex;align-items:center;gap:12px;border:1px solid hsl(var(--border));
     border-radius:11px;padding:13px 15px;cursor:pointer;transition:var(--transition-smooth);
@@ -160,11 +161,11 @@
 <!-- Nav -->
 <nav>
   <div class="nav-inner">
-    <a href="index.html" class="brand" aria-label="Mugisha Marketing">
+    <a href="/" class="brand" aria-label="Mugisha Marketing">
       <span class="wm-top">MUGISHA</span>
       <span class="wm-bottom"><span class="wm-rule"></span><span class="wm-sub">Marketing</span></span>
     </a>
-    <a href="index.html" class="back"><span>&larr;</span> Back</a>
+    <a href="/" class="back"><span>&larr;</span> Back</a>
   </div>
 </nav>
 
@@ -184,7 +185,7 @@
       <!-- FormSubmit config -->
       <input type="hidden" name="_subject" value="New lead — mugishamarketing.com">
       <input type="hidden" name="_template" value="table">
-      <input type="hidden" name="_next" value="thanks.html">
+      <input type="hidden" name="_next" value="/confirmation/">
       <input type="hidden" name="_captcha" value="false">
       <!-- Honeypot: real users never see/fill this; bots do -->
       <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;" aria-hidden="true">
@@ -300,9 +301,9 @@
   <div class="container">
     <div class="copy">&copy; 2026 Mugisha Marketing. All rights reserved.</div>
     <div class="flinks">
-      <a href="terms-of-service.html" target="_blank" rel="noopener">Terms of Service</a>
+      <a href="/terms-of-service/" target="_blank" rel="noopener">Terms of Service</a>
       <span class="sep">·</span>
-      <a href="privacy-policy.html" target="_blank" rel="noopener">Privacy Policy</a>
+      <a href="/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a>
     </div>
   </div>
 </footer>
@@ -315,6 +316,8 @@
   var btn = form.querySelector('.submit');
   var btnHTML = btn.innerHTML;
   var required = Array.prototype.slice.call(form.querySelectorAll('[required]'));
+  var goalsGrid = form.querySelector('.check-grid');
+  var goalsBoxes = Array.prototype.slice.call(form.querySelectorAll('input[name="goals"]'));
 
   function isBad(f){
     var v = (f.value || '').trim();
@@ -323,12 +326,25 @@
     return false;
   }
 
+  function goalsChecked(){
+    return goalsBoxes.some(function(b){ return b.checked; });
+  }
+
   // Clear a field's error the moment the user starts fixing it
   required.forEach(function(f){
     var ev = (f.tagName === 'SELECT') ? 'change' : 'input';
     f.addEventListener(ev, function(){
       if(!isBad(f)){
         f.classList.remove('bad');
+        if(!form.querySelector('.bad') && !(goalsGrid && goalsGrid.classList.contains('bad'))) banner.classList.remove('show');
+      }
+    });
+  });
+
+  goalsBoxes.forEach(function(b){
+    b.addEventListener('change', function(){
+      if(goalsChecked() && goalsGrid){
+        goalsGrid.classList.remove('bad');
         if(!form.querySelector('.bad')) banner.classList.remove('show');
       }
     });
@@ -341,6 +357,15 @@
       if(isBad(f)){ f.classList.add('bad'); if(!firstBad) firstBad = f; }
       else f.classList.remove('bad');
     });
+
+    if(goalsGrid){
+      if(!goalsChecked()){
+        goalsGrid.classList.add('bad');
+        if(!firstBad) firstBad = goalsGrid;
+      } else {
+        goalsGrid.classList.remove('bad');
+      }
+    }
 
     if(firstBad){
       banner.classList.add('show');
@@ -361,7 +386,7 @@
     .then(function(r){ return r.json().catch(function(){ return {}; }); })
     .then(function(d){
       if(d && (d.success === true || d.success === 'true')){
-        window.location.href = 'thanks.html';
+        window.location.href = '/confirmation/';
       } else {
         showBannerError(d && d.message ? d.message : 'Something went wrong. Please email patrick@mugishamarketing.com directly.');
       }
