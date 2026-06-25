@@ -28,14 +28,16 @@
   .content ul li { margin-bottom: 6px; }
   .content hr { border: none; border-top: 1px solid #e8e8e8; margin: 32px 0; }
 
-  .site-footer { border-top: 1px solid #e8e8e8; padding: 24px 40px; display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #bbb; }
-  .site-footer a { color: #bbb; }
-  .site-footer a:hover { color: #0f0f0f; text-decoration: none; }
+  footer { padding: 34px 0; text-align: center; border-top: 1px solid #e8e8e8; }
+  footer .copy { color: #888; font-size: 12.8px; }
+  footer .flinks { margin-top: 8px; font-size: 12.8px; }
+  footer .flinks a { color: #888; }
+  footer .flinks a:hover { color: #1A6FD4; }
+  footer .sep { color: #ccc; margin: 0 8px; }
 
   @media (max-width: 600px) {
-    .site-header, .site-footer { padding: 16px 20px; }
+    .site-header { padding: 16px 20px; }
     .content { padding: 0 20px 60px; margin-top: 40px; }
-    .site-footer { flex-direction: column; gap: 10px; text-align: center; }
   }
 </style>
 </head>
@@ -158,14 +160,12 @@
   Location: Denmark</p>
 </div>
 
-<footer class="site-footer">
-  <a href="index.html">
-    <span style="font-weight:800;letter-spacing:0.08em;font-size:13px;color:#0f0f0f;">MUGISHA</span>
-  </a>
-  <div>© 2026 Mugisha Marketing. All rights reserved.</div>
-  <div style="display:flex;gap:20px;">
-    <a href="privacy-policy.html">Privacy Policy</a>
+<footer>
+  <div class="copy">&copy; 2026 Mugisha Marketing. All rights reserved.</div>
+  <div class="flinks">
     <a href="terms-of-service.html">Terms of Service</a>
+    <span class="sep">·</span>
+    <a href="privacy-policy.html">Privacy Policy</a>
   </div>
 </footer>
 

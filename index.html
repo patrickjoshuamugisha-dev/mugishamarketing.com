@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mugisha Marketing — AI automation, web design & development</title>
+<title>Mugisha Marketing</title>
 <meta name="description" content="A one-person studio building AI automations and agents, plus web design and development — done-for-you, shipped, and built to last.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Mugisha Marketing — AI Automation">
@@ -19,7 +19,7 @@
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Barlow:wght@600;800&display=swap" rel="stylesheet">
 <style>
   :root{
     --background:0 0% 100%;
@@ -41,7 +41,7 @@
     --transition-smooth:all .3s cubic-bezier(.4,0,.2,1);
   }
   *{box-sizing:border-box;margin:0;padding:0;border:0 solid hsl(var(--border));}
-  html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;}
+  html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;overflow-x:hidden;}
   body{
     font-family:"DM Sans",system-ui,sans-serif;
     background:hsl(var(--background));
@@ -54,63 +54,64 @@
   .container{max-width:1152px;margin:0 auto;padding:0 32px;}
   .eyebrow{
     display:block;text-align:center;color:hsl(var(--primary));
-    font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;margin-bottom:14px;
+    font-size:.82rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;margin-bottom:8px;
   }
   .section-title{
-    text-align:center;font-size:2.6rem;font-weight:700;letter-spacing:-.02em;
-    color:hsl(var(--foreground));margin-bottom:14px;
+    text-align:center;font-size:3rem;font-weight:700;letter-spacing:-.02em;
+    color:hsl(var(--foreground));margin-bottom:18px;
   }
   .section-sub{
-    text-align:center;color:hsl(var(--muted-foreground));font-size:1.0625rem;
-    max-width:540px;margin:0 auto;line-height:1.6;
+    text-align:center;color:hsl(var(--muted-foreground));font-size:1.25rem;
+    max-width:600px;margin:0 auto;line-height:1.5;
   }
 
   /* ---------- Nav ---------- */
   nav{position:absolute;top:0;left:0;right:0;z-index:30;padding:18px 0;}
-  .nav-inner{max-width:1152px;margin:0 auto;padding:0 32px;display:flex;align-items:center;}
-  .brand{display:flex;align-items:center;gap:9px;font-weight:700;font-size:1.06rem;letter-spacing:-.01em;}
-  .brand svg{width:24px;height:24px;color:hsl(var(--primary));}
+  .nav-inner{max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;}
+  /* Wordmark per brand guidelines — exact lockup, Barlow + #1A6FD4 rule, never altered */
+  .brand{display:flex;flex-direction:column;}
+  .wm-top{font-family:'Barlow',sans-serif;font-size:22px;font-weight:800;letter-spacing:.07em;line-height:1;color:#0f0f0f;}
+  .wm-bottom{display:flex;align-items:center;gap:7px;margin-top:4px;}
+  .wm-rule{width:20px;height:2.5px;background:#1A6FD4;}
+  .wm-sub{font-family:'Barlow',sans-serif;font-size:11px;font-weight:600;letter-spacing:.28em;text-transform:uppercase;color:#888;}
 
-  /* ---------- Hero ---------- */
-  .hero{position:relative;overflow:hidden;padding:150px 0 88px;text-align:center;}
-  .hero-dots{
-    position:absolute;left:50%;top:330px;transform:translateX(-50%);
-    width:1100px;height:340px;z-index:0;pointer-events:none;
-    background-image:radial-gradient(hsl(199 89% 48% / .55) 1.1px, transparent 1.4px);
-    background-size:21px 21px;
-    -webkit-mask-image:radial-gradient(ellipse 52% 75% at 50% 38%, #000 0%, transparent 78%);
-    mask-image:radial-gradient(ellipse 52% 75% at 50% 38%, #000 0%, transparent 78%);
-    opacity:.7;
+  /* ---------- Hero (typography + spacing mirror uppitai.com exactly) ---------- */
+  .hero{position:relative;min-height:100vh;display:flex;flex-direction:column;justify-content:center;text-align:center;}
+  .hero .container{max-width:896px;}      /* Uppit max-w-4xl */
+  /* H1: tagline 48px/lh1, accent "AI Automation" 72px gradient line above it */
+  .hero h1{font-size:3rem;line-height:1;font-weight:800;letter-spacing:normal;color:hsl(var(--foreground));margin-bottom:24px;}
+  .hero h1 .accent{
+    display:block;font-size:4.5rem;line-height:1;font-weight:800;margin:8px 0;letter-spacing:normal;
+    background:var(--gradient-hero);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;
   }
-  .hero .container{position:relative;z-index:2;}
-  .hero h1{font-size:3rem;font-weight:700;line-height:1.08;letter-spacing:-.025em;}
-  .hero h1 .accent{color:hsl(var(--primary));display:block;}
-  .hero h1 .dark{color:hsl(var(--foreground));display:block;}
+  .hero h1 .dark{display:block;color:hsl(var(--foreground));}
   .hero-sub{
-    color:hsl(var(--muted-foreground));font-size:1.125rem;line-height:1.65;
-    max-width:560px;margin:22px auto 0;
+    color:hsl(var(--muted-foreground));font-size:1.25rem;line-height:1.4;font-weight:400;letter-spacing:normal;
+    max-width:672px;margin:0 auto 32px;
   }
   .hero-stats{
-    display:flex;align-items:center;justify-content:center;gap:34px;margin:40px 0 34px;
+    display:flex;align-items:center;justify-content:center;gap:36px;margin:0 auto 40px;max-width:420px;
   }
-  .hero-stats .divider{width:1px;height:46px;background:hsl(var(--border));}
-  .stat .num{font-size:1.8rem;font-weight:700;letter-spacing:-.02em;line-height:1;}
-  .stat .lbl{font-size:.72rem;color:hsl(var(--muted-foreground));margin-top:6px;}
+  .hero-stats .stat{flex:1 1 0;text-align:center;}
+  .hero-stats .num,.hero-stats .lbl{white-space:nowrap;}
+  .hero-stats .divider{flex:0 0 auto;width:1px;height:48px;background:hsl(var(--border));}
+  .stat .num{font-size:2.25rem;line-height:1.11;font-weight:800;letter-spacing:normal;color:hsl(var(--foreground));}
+  .stat .lbl{font-size:.875rem;line-height:1.43;color:hsl(var(--muted-foreground));margin-top:0;}
   .btn{
-    display:inline-flex;align-items:center;gap:8px;font-weight:600;font-size:.9rem;
-    border-radius:var(--radius);transition:var(--transition-smooth);cursor:pointer;
-    position:relative;top:0;
+    display:inline-flex;align-items:center;gap:8px;font-weight:500;font-size:1rem;line-height:1.5;
+    border-radius:var(--radius);cursor:pointer;position:relative;will-change:transform;
+    transition:transform .28s cubic-bezier(.34,1.56,.64,1), box-shadow .28s ease;
   }
   .btn-outline{
     background:hsl(var(--background));color:hsl(var(--foreground));
-    border:1px solid hsl(var(--border));padding:11px 22px;box-shadow:var(--shadow-soft);
+    border:1px solid hsl(var(--foreground) / .2);padding:12px 32px;box-shadow:var(--shadow-soft);
   }
-  .btn-outline:hover{box-shadow:var(--shadow-hover);top:-2px;}
+  .btn-outline:hover{transform:translateY(-3px);box-shadow:var(--shadow-hover);}
   .btn-primary{
     background:var(--gradient-hero);color:hsl(var(--primary-foreground));
     padding:12px 24px;box-shadow:var(--shadow-hover);
   }
-  .btn-primary:hover{top:-2px;}
+  .btn-primary:hover{transform:translateY(-3px);box-shadow:0 12px 36px -8px hsl(199 89% 48% / .45);}
   .btn .arrow{font-size:.95em;}
 
   /* ---------- Process ---------- */
@@ -149,32 +150,39 @@
   .tcard .who .badge{color:hsl(var(--primary));font-size:.82rem;font-weight:600;margin-top:3px;}
 
   /* ---------- About ---------- */
-  .about-row{display:flex;align-items:center;gap:38px;max-width:780px;margin:42px auto 0;}
-  .about-photo{flex:0 0 150px;}
+  .about-wrap{max-width:960px;margin:0 auto;}
+  .about-row{display:flex;align-items:center;gap:68px;margin-top:40px;}
+  .about-photo{flex:0 0 216px;}
   .about-photo .ring{
-    width:150px;height:150px;border-radius:50%;padding:5px;background:var(--gradient-hero);
+    width:216px;height:216px;border-radius:50%;padding:5px;background:var(--gradient-hero);
   }
   .about-photo img{width:100%;height:100%;border-radius:50%;object-fit:cover;display:block;background:hsl(var(--muted));}
-  .about-body h3{font-size:1.3rem;font-weight:700;letter-spacing:-.01em;margin-bottom:14px;}
-  .about-body p{color:hsl(var(--muted-foreground));font-size:.86rem;line-height:1.6;margin-bottom:12px;}
-  .about-cta{text-align:center;margin-top:40px;}
+  .about-body h3{font-size:1.875rem;font-weight:700;letter-spacing:-.01em;margin-bottom:16px;}
+  .about-body p{color:hsl(var(--muted-foreground));font-size:1rem;line-height:1.625;margin-bottom:14px;}
+  .about-cta-btn{margin-top:24px;}
 
-  /* ---------- Logo marquee (Trusted By / Featured In) ---------- */
-  .hero-marquee{margin-top:60px;}
+  /* ---------- Logo marquee (Trusted By & Featured In) — own band below hero ---------- */
+  .logos{padding:88px 0 24px;position:relative;left:50%;transform:translateX(-50%);width:min(960px,92vw);}
+  /* Nate's lockup: uppercase label flanked by two thin rules */
   .marquee-label{
-    text-align:center;color:hsl(var(--muted-foreground));
-    font-size:.75rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;margin-bottom:32px;
+    display:flex;align-items:center;justify-content:center;gap:14px;
+    color:hsl(var(--muted-foreground));
+    font-size:.75rem;font-weight:500;letter-spacing:.22em;text-transform:uppercase;margin-bottom:40px;
   }
+  .marquee-label .tline{width:40px;height:1px;background:currentColor;opacity:.5;flex:0 0 auto;}
   .marquee{
     overflow:hidden;
-    -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 10%,#000 90%,transparent 100%);
-    mask-image:linear-gradient(90deg,transparent 0,#000 10%,#000 90%,transparent 100%);
+    -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 12%,#000 88%,transparent 100%);
+    mask-image:linear-gradient(90deg,transparent 0,#000 12%,#000 88%,transparent 100%);
   }
-  .marquee-track{display:flex;align-items:center;width:max-content;animation:scroll-x 40s linear infinite;}
+  .marquee-track{display:flex;align-items:center;gap:72px;width:max-content;animation:scroll-x 40s linear infinite;}
   .marquee-track:hover{animation-play-state:paused;}
-  /* Logos float free (no boxes), uniform height, muted — like nateherk.com */
-  .logo-item{flex:0 0 auto;margin-right:58px;display:flex;align-items:center;justify-content:center;}
-  .logo-item .logo-img{height:26px;width:auto;object-fit:contain;opacity:.7;transition:opacity .25s ease;}
+  /* Logos float free (no boxes), muted — like nateherk.com.
+     Square brand icons sit at 40px; wide wordmarks (GoHighLevel, ManyChat) drop to 26px
+     so all logos read at roughly the same optical size despite different aspect ratios. */
+  .logo-item{flex:0 0 auto;display:flex;align-items:center;justify-content:center;}
+  .logo-item .logo-img{height:40px;width:auto;object-fit:contain;opacity:.85;transition:opacity .25s ease;}
+  .logo-item.logo-wide .logo-img{height:26px;}
   .logo-item:hover .logo-img{opacity:1;}
   @keyframes scroll-x{from{transform:translateX(0);}to{transform:translateX(-50%);}}
 
@@ -191,7 +199,10 @@
   }
   @media (max-width:680px){
     .about-row{flex-direction:column;text-align:center;}
-    .hero h1{font-size:2.1rem;}
+    .hero h1{font-size:1.9rem;}
+    .hero h1 .accent{font-size:2.75rem;}
+    .hero-sub{font-size:1.0625rem;}
+    .hero-stats{gap:32px;}
     .section-title{font-size:2.05rem;}
     .container{padding:0 20px;}
   }
@@ -199,12 +210,13 @@
   /* ---------- Animations ---------- */
   @keyframes fade-in{from{opacity:0;transform:translateY(20px);}to{opacity:1;transform:translateY(0);}}
   @keyframes fade-in-up{from{opacity:0;transform:translateY(30px);}to{opacity:1;transform:translateY(0);}}
+  @keyframes fade-in-op{from{opacity:0;}to{opacity:1;}}  /* opacity only — leaves transform free for :hover */
 
   /* Hero entrance — on load, staggered (mirrors uppitai.com) */
   .hero h1{opacity:0;animation:fade-in .6s ease-out .2s forwards;}
   .hero .hero-sub{opacity:0;animation:fade-in .6s ease-out .3s forwards;}
   .hero .hero-stats{opacity:0;animation:fade-in .6s ease-out .4s forwards;}
-  .hero .btn-outline{opacity:0;animation:fade-in-up .8s ease-out .5s forwards;}
+  .hero .btn-outline{opacity:0;animation:fade-in-op .6s ease-out .5s forwards;}  /* opacity-only so :hover transform (lift) isn't locked by the entrance animation */
 
   /* Scroll reveal — subtle fade + 20px rise, gentle stagger.
      Hover-driven props (box-shadow, scale) get a soft, NON-delayed timing so card hover
@@ -231,13 +243,15 @@
 <!-- Nav -->
 <nav>
   <div class="nav-inner">
-    <a href="#" class="brand">Mugisha Marketing</a>
+    <a href="#" class="brand" aria-label="Mugisha Marketing">
+      <span class="wm-top">MUGISHA</span>
+      <span class="wm-bottom"><span class="wm-rule"></span><span class="wm-sub">Marketing</span></span>
+    </a>
   </div>
 </nav>
 
 <!-- Hero -->
 <section class="hero">
-  <div class="hero-dots"></div>
   <div class="container">
     <h1>
       <span class="accent">AI Automation</span>
@@ -251,9 +265,9 @@
     </div>
     <a href="contact.html" class="btn btn-outline">Get in Touch <span class="arrow">&rarr;</span></a>
 
-    <!-- Trusted By / Featured In -->
-    <div class="hero-marquee">
-      <p class="marquee-label reveal">Tools We Build With</p>
+    <!-- Trusted By / Featured In — trust strip under the hero CTA (social proof) -->
+    <div class="logos">
+      <p class="marquee-label reveal"><span class="tline" aria-hidden="true"></span>Trusted By &amp; Featured In<span class="tline" aria-hidden="true"></span></p>
       <div class="marquee">
         <div class="marquee-track">
           <span class="logo-item"><img class="logo-img" src="assets/logos/n8n.svg" alt="n8n"></span>
@@ -261,26 +275,26 @@
           <span class="logo-item"><img class="logo-img" src="assets/logos/zapier.svg" alt="Zapier"></span>
           <span class="logo-item"><img class="logo-img" src="assets/logos/openai.svg" alt="OpenAI"></span>
           <span class="logo-item"><img class="logo-img" src="assets/logos/anthropic.svg" alt="Anthropic"></span>
+          <span class="logo-item logo-wide"><img class="logo-img" src="assets/logos/gohighlevel.png" alt="GoHighLevel"></span>
           <span class="logo-item"><img class="logo-img" src="assets/logos/shopify.svg" alt="Shopify"></span>
           <span class="logo-item"><img class="logo-img" src="assets/logos/webflow.svg" alt="Webflow"></span>
           <span class="logo-item"><img class="logo-img" src="assets/logos/notion.svg" alt="Notion"></span>
           <span class="logo-item"><img class="logo-img" src="assets/logos/airtable.svg" alt="Airtable"></span>
           <span class="logo-item"><img class="logo-img" src="assets/logos/meta.svg" alt="Meta"></span>
-          <span class="logo-item"><img class="logo-img" src="assets/logos/gohighlevel.png" alt="GoHighLevel"></span>
-          <span class="logo-item"><img class="logo-img" src="assets/logos/manychat.svg" alt="ManyChat"></span>
+          <span class="logo-item logo-wide"><img class="logo-img" src="assets/logos/manychat.svg" alt="ManyChat"></span>
           <!-- duplicate set for a seamless loop -->
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/n8n.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/make.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/zapier.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/openai.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/anthropic.svg" alt=""></span>
+          <span class="logo-item logo-wide" aria-hidden="true"><img class="logo-img" src="assets/logos/gohighlevel.png" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/shopify.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/webflow.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/notion.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/airtable.svg" alt=""></span>
           <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/meta.svg" alt=""></span>
-          <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/gohighlevel.png" alt=""></span>
-          <span class="logo-item" aria-hidden="true"><img class="logo-img" src="assets/logos/manychat.svg" alt=""></span>
+          <span class="logo-item logo-wide" aria-hidden="true"><img class="logo-img" src="assets/logos/manychat.svg" alt=""></span>
         </div>
       </div>
     </div>
@@ -376,6 +390,7 @@
 <!-- About -->
 <section class="section">
   <div class="container">
+    <div class="about-wrap">
     <span class="eyebrow">About</span>
     <h2 class="section-title">Meet the Founder</h2>
     <div class="about-row reveal">
@@ -385,10 +400,9 @@
         <p>Patrick started out as a growth operator and marketer, working alongside big international personal brands.</p>
         <p>That path took him to the United States, where he became COO of Fitnesspreneur Academy. Most of his days went to putting out fires, chasing updates, and keeping the team on track. Running the day-to-day operations, he realized how much a leaner, AI-first philosophy would allow most businesses to scale far more effectively.</p>
         <p>That's what pulled him into AI. He moved into building AI workflows independently, and today he works directly with business owners, designing the AI workflows and automations that eliminate bottlenecks and streamline operations. To date, he's helped 80+ businesses scale more efficiently.</p>
+        <a href="contact.html" class="btn btn-primary about-cta-btn">Get in Touch <span class="arrow">&rarr;</span></a>
       </div>
     </div>
-    <div class="about-cta reveal">
-      <a href="contact.html" class="btn btn-primary">Get in Touch <span class="arrow">&rarr;</span></a>
     </div>
   </div>
 </section>
@@ -398,9 +412,9 @@
   <div class="container">
     <div class="copy">&copy; 2026 Mugisha Marketing. All rights reserved.</div>
     <div class="flinks">
-      <a href="/terms-of-service.html">Terms of Service</a>
+      <a href="terms-of-service.html" target="_blank" rel="noopener">Terms of Service</a>
       <span class="sep">·</span>
-      <a href="/privacy-policy.html">Privacy Policy</a>
+      <a href="privacy-policy.html" target="_blank" rel="noopener">Privacy Policy</a>
     </div>
   </div>
 </footer>

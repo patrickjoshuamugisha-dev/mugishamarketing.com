@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Get in Touch — Mugisha Marketing</title>
+<title>Contact</title>
 <meta name="description" content="Tell us about your business and how we can help you scale with AI automations, agents, and web.">
 <meta name="robots" content="noindex">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Barlow:wght@600;800&display=swap" rel="stylesheet">
 <style>
   :root{
     --background:0 0% 100%;
@@ -44,8 +44,12 @@
   /* ---------- Nav ---------- */
   nav{border-bottom:1px solid hsl(var(--border));padding:16px 0;}
   .nav-inner{max-width:1100px;margin:0 auto;padding:0 28px;display:flex;align-items:center;justify-content:space-between;}
-  .brand{display:flex;align-items:center;gap:9px;font-weight:700;font-size:1.06rem;letter-spacing:-.01em;}
-  .brand svg{width:24px;height:24px;color:hsl(var(--primary));}
+  /* Wordmark — exact lockup from the home page (Barlow + #1A6FD4 rule, never altered) */
+  .brand{display:flex;flex-direction:column;}
+  .wm-top{font-family:'Barlow',sans-serif;font-size:22px;font-weight:800;letter-spacing:.07em;line-height:1;color:#0f0f0f;}
+  .wm-bottom{display:flex;align-items:center;gap:7px;margin-top:4px;}
+  .wm-rule{width:20px;height:2.5px;background:#1A6FD4;}
+  .wm-sub{font-family:'Barlow',sans-serif;font-size:11px;font-weight:600;letter-spacing:.28em;text-transform:uppercase;color:#888;}
   .back{
     display:inline-flex;align-items:center;gap:7px;font-weight:600;font-size:.85rem;
     color:hsl(var(--foreground));border:1px solid hsl(var(--border));border-radius:var(--radius);
@@ -54,10 +58,10 @@
   .back:hover{box-shadow:var(--shadow-hover);transform:translateY(-1px);}
 
   /* ---------- Header ---------- */
-  .form-head{text-align:center;padding:56px 0 8px;}
-  .form-head h1{font-size:2.5rem;font-weight:700;letter-spacing:-.02em;}
+  .form-head{text-align:center;padding:80px 0 8px;}
+  .form-head h1{font-size:3rem;line-height:1;font-weight:800;letter-spacing:normal;}
   .form-head h1 .accent{color:hsl(var(--primary));}
-  .form-head p{color:hsl(var(--muted-foreground));font-size:1rem;margin-top:12px;}
+  .form-head p{color:hsl(var(--muted-foreground));font-size:1.15rem;line-height:1.4;margin-top:18px;max-width:680px;margin-left:auto;margin-right:auto;}
 
   /* ---------- Form card ---------- */
   .form-wrap{padding:24px 0 80px;}
@@ -88,13 +92,43 @@
   /* ---------- Checkbox grid ---------- */
   .check-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
   .check{
-    display:flex;align-items:center;gap:11px;border:1px solid hsl(var(--border));
-    border-radius:var(--radius);padding:13px 15px;cursor:pointer;transition:var(--transition-smooth);
-    font-size:.86rem;
+    display:flex;align-items:center;gap:12px;border:1px solid hsl(var(--border));
+    border-radius:11px;padding:13px 15px;cursor:pointer;transition:var(--transition-smooth);
+    font-size:.86rem;background:hsl(var(--background));
   }
-  .check:hover{border-color:hsl(var(--primary));}
-  .check input{width:17px;height:17px;flex:0 0 17px;accent-color:hsl(var(--primary));cursor:pointer;padding:0;}
+  .check:hover{border-color:hsl(var(--primary));box-shadow:0 4px 16px -6px hsl(199 89% 48% / .25);}
+  /* whole pill lights up when its box is checked — soft brand glow, no rigid lines */
+  .check:has(input:checked){
+    border-color:hsl(var(--primary));background:hsl(199 89% 48% / .05);
+    box-shadow:0 0 0 1px hsl(199 89% 48% / .35), 0 6px 18px -6px hsl(199 89% 48% / .35);
+  }
+  .check input{
+    appearance:none;-webkit-appearance:none;position:relative;
+    width:19px;height:19px;flex:0 0 19px;border-radius:6px;padding:0;cursor:pointer;
+    border:1.5px solid hsl(var(--border));background:hsl(var(--background));
+    transition:var(--transition-smooth);
+  }
+  .check input:hover{border-color:hsl(var(--primary));box-shadow:0 0 0 3px hsl(199 89% 48% / .12);}
+  .check input:checked{
+    border-color:transparent;background:hsl(var(--primary));
+    box-shadow:0 2px 10px -1px hsl(199 89% 48% / .5);
+  }
+  .check input:checked::after{
+    content:"";position:absolute;left:50%;top:47%;width:5px;height:9px;
+    border:solid #fff;border-width:0 2px 2px 0;transform:translate(-50%,-50%) rotate(45deg);
+  }
   .check span{margin:0;}
+
+  /* ---------- Validation states ---------- */
+  input.bad,select.bad,textarea.bad{
+    border-color:#e5484d;box-shadow:0 0 0 3px rgba(229,72,77,.14);
+  }
+  .form-error{
+    display:none;align-items:center;gap:9px;background:rgba(229,72,77,.07);
+    border:1px solid rgba(229,72,77,.32);color:#c62a2f;border-radius:var(--radius);
+    padding:13px 15px;font-size:.86rem;font-weight:500;margin-bottom:22px;
+  }
+  .form-error.show{display:flex;}
 
   /* ---------- Submit ---------- */
   .submit{
@@ -126,7 +160,10 @@
 <!-- Nav -->
 <nav>
   <div class="nav-inner">
-    <a href="index.html" class="brand">Mugisha Marketing</a>
+    <a href="index.html" class="brand" aria-label="Mugisha Marketing">
+      <span class="wm-top">MUGISHA</span>
+      <span class="wm-bottom"><span class="wm-rule"></span><span class="wm-sub">Marketing</span></span>
+    </a>
     <a href="index.html" class="back"><span>&larr;</span> Back</a>
   </div>
 </nav>
@@ -143,14 +180,18 @@
 <div class="form-wrap">
   <div class="container">
     <!-- FormSubmit.co backend: no account needed. First real submission emails a one-time activation link to the address below; click it once to go live. -->
-    <form class="card" action="https://formsubmit.co/patrick@mugishamarketing.com" method="POST">
+    <form class="card" action="https://formsubmit.co/patrick@mugishamarketing.com" method="POST" novalidate>
       <!-- FormSubmit config -->
       <input type="hidden" name="_subject" value="New lead — mugishamarketing.com">
       <input type="hidden" name="_template" value="table">
-      <input type="hidden" name="_next" value="https://mugishamarketing.com/thanks.html">
+      <input type="hidden" name="_next" value="thanks.html">
       <input type="hidden" name="_captcha" value="false">
       <!-- Honeypot: real users never see/fill this; bots do -->
       <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;" aria-hidden="true">
+
+      <div class="form-error" id="formError">
+        <span>&#9888;</span><span>Please fill in the highlighted fields before submitting.</span>
+      </div>
 
       <div class="field row">
         <div>
@@ -259,12 +300,85 @@
   <div class="container">
     <div class="copy">&copy; 2026 Mugisha Marketing. All rights reserved.</div>
     <div class="flinks">
-      <a href="/terms-of-service.html">Terms of Service</a>
+      <a href="terms-of-service.html" target="_blank" rel="noopener">Terms of Service</a>
       <span class="sep">·</span>
-      <a href="/privacy-policy.html">Privacy Policy</a>
+      <a href="privacy-policy.html" target="_blank" rel="noopener">Privacy Policy</a>
     </div>
   </div>
 </footer>
+
+<script>
+(function(){
+  var form = document.querySelector('form.card');
+  if(!form) return;
+  var banner = document.getElementById('formError');
+  var btn = form.querySelector('.submit');
+  var btnHTML = btn.innerHTML;
+  var required = Array.prototype.slice.call(form.querySelectorAll('[required]'));
+
+  function isBad(f){
+    var v = (f.value || '').trim();
+    if(!v) return true;
+    if(f.type === 'email') return !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v);
+    return false;
+  }
+
+  // Clear a field's error the moment the user starts fixing it
+  required.forEach(function(f){
+    var ev = (f.tagName === 'SELECT') ? 'change' : 'input';
+    f.addEventListener(ev, function(){
+      if(!isBad(f)){
+        f.classList.remove('bad');
+        if(!form.querySelector('.bad')) banner.classList.remove('show');
+      }
+    });
+  });
+
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    var firstBad = null;
+    required.forEach(function(f){
+      if(isBad(f)){ f.classList.add('bad'); if(!firstBad) firstBad = f; }
+      else f.classList.remove('bad');
+    });
+
+    if(firstBad){
+      banner.classList.add('show');
+      firstBad.scrollIntoView({behavior:'smooth', block:'center'});
+      setTimeout(function(){ try{ firstBad.focus({preventScroll:true}); }catch(_){ firstBad.focus(); } }, 300);
+      return;
+    }
+
+    banner.classList.remove('show');
+    btn.disabled = true; btn.style.opacity = '.7'; btn.innerHTML = 'Sending&hellip;';
+
+    // FormSubmit AJAX endpoint — we control the redirect ourselves
+    fetch('https://formsubmit.co/ajax/patrick@mugishamarketing.com', {
+      method: 'POST',
+      headers: { 'Accept': 'application/json' },
+      body: new FormData(form)
+    })
+    .then(function(r){ return r.json().catch(function(){ return {}; }); })
+    .then(function(d){
+      if(d && (d.success === true || d.success === 'true')){
+        window.location.href = 'thanks.html';
+      } else {
+        showBannerError(d && d.message ? d.message : 'Something went wrong. Please email patrick@mugishamarketing.com directly.');
+      }
+    })
+    .catch(function(){
+      showBannerError('Network error. Please email patrick@mugishamarketing.com directly.');
+    });
+  });
+
+  function showBannerError(msg){
+    banner.innerHTML = '<span>&#9888;</span><span>' + msg + '</span>';
+    banner.classList.add('show');
+    banner.scrollIntoView({behavior:'smooth', block:'center'});
+    btn.disabled = false; btn.style.opacity = ''; btn.innerHTML = btnHTML;
+  }
+})();
+</script>
 
 </body>
 </html>
