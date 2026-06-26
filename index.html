@@ -212,6 +212,13 @@
     .section-sub{font-size:1.05rem;}
     .logos{padding:56px 0 16px;}
     .marquee-label{margin-bottom:28px;}
+    /* Mobile: tighten gaps and speed up so the strip reads as a lively, continuous
+       roll instead of a slow crawl with screen-wide empty gaps between logos. */
+    .marquee-track{gap:30px;animation-duration:32s;}
+    .marquee{
+      -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 7%,#000 93%,transparent 100%);
+      mask-image:linear-gradient(90deg,transparent 0,#000 7%,#000 93%,transparent 100%);
+    }
     .about-photo,.about-photo .ring{flex-basis:184px;width:184px;height:184px;}
     .container{padding:0 20px;}
   }
