@@ -76,7 +76,7 @@
   .wm-sub{font-family:'Barlow',sans-serif;font-size:11px;font-weight:600;letter-spacing:.28em;text-transform:uppercase;color:#888;}
 
   /* ---------- Hero (typography + spacing mirror uppitai.com exactly) ---------- */
-  .hero{position:relative;min-height:100vh;display:flex;flex-direction:column;justify-content:center;text-align:center;}
+  .hero{position:relative;min-height:100vh;min-height:100svh;display:flex;flex-direction:column;justify-content:center;text-align:center;}
   .hero .container{max-width:896px;}      /* Uppit max-w-4xl */
   /* H1: tagline 48px/lh1, accent "AI Automation" 72px gradient line above it */
   .hero h1{font-size:3rem;line-height:1;font-weight:800;letter-spacing:normal;color:hsl(var(--foreground));margin-bottom:24px;}
@@ -198,13 +198,30 @@
     .cards{grid-template-columns:1fr;max-width:560px;margin-left:auto;margin-right:auto;}
   }
   @media (max-width:680px){
+    nav{padding:14px 0;}
+    .nav-inner{padding:0 20px;}
+    .hero{min-height:auto;justify-content:flex-start;padding:104px 0 56px;}
     .about-row{flex-direction:column;text-align:center;}
     .hero h1{font-size:1.9rem;}
     .hero h1 .accent{font-size:2.75rem;}
     .hero-sub{font-size:1.0625rem;}
     .hero-stats{gap:32px;}
+    .stat .num{font-size:1.6rem;}
+    .section{padding:64px 0;}
     .section-title{font-size:2.05rem;}
+    .section-sub{font-size:1.05rem;}
+    .logos{padding:56px 0 16px;}
+    .marquee-label{margin-bottom:28px;}
+    .about-photo,.about-photo .ring{flex-basis:184px;width:184px;height:184px;}
     .container{padding:0 20px;}
+  }
+  @media (max-width:400px){
+    .container{padding:0 16px;}
+    .hero h1{font-size:1.65rem;}
+    .hero h1 .accent{font-size:2.3rem;}
+    .hero-stats{gap:20px;}
+    .stat .num{font-size:1.4rem;}
+    .section-title{font-size:1.85rem;}
   }
 
   /* ---------- Animations ---------- */
