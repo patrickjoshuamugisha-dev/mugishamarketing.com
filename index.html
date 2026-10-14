@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Mugisha Marketing. Scale without increasing headcount.</title>
+<title>Mugisha Marketing</title>
 <meta name="description" content="We turn everyday bottlenecks into AI workflows that grow your bottom line, without you becoming a tech expert.">
 <link rel="canonical" href="https://mugishamarketing.com/">
 <meta property="og:title" content="Mugisha Marketing. Scale without increasing headcount.">
@@ -73,7 +73,9 @@
   .marquee-track{display:flex;align-items:center;gap:3.5rem;width:max-content;animation:drift 80s linear infinite}
   .marquee:hover .marquee-track{animation-play-state:paused}
   /* At rest every logo is the same soft ink; on hover (the row pauses) it shows its own colours */
-  .marquee-track img{height:var(--h,1.3rem);width:auto;filter:grayscale(1) brightness(.55) contrast(1.6);opacity:.5;transition:filter .7s var(--ease),opacity .7s var(--ease)}
+  .marquee-track img{height:var(--h,1.3rem);width:auto;filter:brightness(0);opacity:.38;transition:filter .7s var(--ease),opacity .7s var(--ease)}
+  /* Notion has white inside its mark: keep the white, so it does not turn into a solid block */
+  .marquee-track img[src*="notion-c"]{filter:grayscale(1) contrast(2)}
   .marquee-track img:hover{filter:none;opacity:1}
   @keyframes drift{to{transform:translateX(-50%)}}
 
@@ -216,32 +218,36 @@
   .app .it i.d{background:none;box-shadow:inset 0 0 0 1.5px var(--faint)}
   .svc:hover .app{transform:translateY(-.4rem)}
 
-  /* Art: two sites we built, in browser frames */
+  /* Art: a shop website, its phone view and an order coming in. Made up, no real client (Patrick, 2026-10-14). */
   .sites{position:absolute;inset:0}
-  .win{position:absolute;background:#fff;border-radius:.75rem .75rem 0 0;overflow:hidden;box-shadow:0 0 0 1px var(--line),0 1.25rem 2.5rem -1.25rem rgba(14,17,22,.25);transition:transform .8s var(--ease)}
-  .win .url{height:1.6rem;display:flex;align-items:center;justify-content:center;border-bottom:1px solid var(--line);background:#fff}
-  .win .url span{width:34%;height:.5rem;border-radius:1rem;background:var(--panel)}
-  /* A website drawn in plain shapes: no real client, no brand (Patrick, 2026-10-14) */
-  .mock{aspect-ratio:16/10;padding:.9rem 1.1rem;display:flex;flex-direction:column;gap:.4rem;background:#fff}
-  .mock i,.mock b,.mock span,.mock u,.mock em{display:block;font-style:normal;text-decoration:none;border-radius:1rem}
-  .mock .mn{display:flex;align-items:center;gap:.45rem;margin-bottom:.7rem}
-  .mock .mn b{width:2.2rem;height:.45rem;background:var(--ink);margin-right:auto}
-  .mock .mn span{width:1.3rem;height:.3rem;background:var(--line-2)}
-  .mock .h1{width:62%;height:.7rem;background:var(--ink)}
-  .mock .h2{width:44%;height:.7rem;background:var(--ink)}
-  .mock .sub{width:52%;height:.32rem;background:var(--line-2);margin-top:.25rem}
-  .mock .cta{width:3.2rem;height:.85rem;background:var(--blue);margin-top:.35rem}
-  .mock .pic{flex:1;margin-top:.6rem;border-radius:.5rem;background:linear-gradient(135deg,var(--panel),#E4E8EE)}
-  .mock.shop .h2{width:30%;height:.55rem}
-  .mock .grid{display:grid;align-content:start;grid-template-columns:repeat(3,1fr);gap:.55rem;margin-top:.5rem}
-  .mock .grid div{display:flex;flex-direction:column;gap:.3rem}
-  .mock .grid u{aspect-ratio:1;border-radius:.45rem;background:linear-gradient(135deg,var(--panel),#E4E8EE)}
-  .mock .grid i{width:75%;height:.3rem;background:var(--line-2)}
-  .mock .grid em{width:35%;height:.3rem;background:var(--blue);opacity:.7}
-  .win.back{left:9%;top:0;width:52%}
-  .win.front{left:36%;top:2.6rem;width:56%}
-  .svc:hover .win.back{transform:translate(-.6rem,-.3rem)}
-  .svc:hover .win.front{transform:translate(.6rem,-.4rem)}
+  .win{position:absolute;background:#fff;border-radius:.9rem .9rem 0 0;overflow:hidden;box-shadow:0 0 0 1px var(--line),0 1.25rem 2.5rem -1.25rem rgba(14,17,22,.25);transition:transform .8s var(--ease)}
+  .win.site{left:2.25rem;right:8.5rem;top:0;bottom:-1rem}
+  .win .url{height:1.75rem;display:flex;align-items:center;justify-content:center;gap:.3rem;font-size:.625rem;color:var(--faint);border-bottom:1px solid var(--line)}
+  .win .url svg{width:.6rem;height:.6rem;fill:none;stroke:currentColor;stroke-width:1.2}
+  .pg{padding:.85rem 1.25rem 0}
+  .pn{display:flex;align-items:center;gap:1rem;font-size:.625rem;color:var(--grey)}
+  .pn b{font-weight:400;font-family:var(--serif);font-size:.9375rem;color:var(--ink);margin-right:auto;letter-spacing:-.01em}
+  .pn em{display:none}
+  .ph{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem;align-items:center;margin-top:1rem}
+  .pt small{display:block;font-size:.5625rem;letter-spacing:.14em;text-transform:uppercase;color:var(--blue)}
+  .pt strong{display:block;font-weight:400;font-family:var(--serif);font-size:1.5rem;line-height:1.05;letter-spacing:-.02em;color:var(--ink);margin-top:.5rem}
+  .pt p{font-size:.6875rem;line-height:1.5;color:var(--grey);margin-top:.55rem}
+  .pb{display:inline-flex;align-items:center;height:1.6rem;padding:0 .8rem;border-radius:1rem;background:var(--blue);color:#fff;font-size:.625rem;margin-top:.8rem}
+  /* The product picture: a soft lit sphere on a pale blue ground */
+  .pic{position:relative;aspect-ratio:1/.92;border-radius:.7rem;overflow:hidden;background:radial-gradient(120% 90% at 30% 15%,#fff 0,rgba(255,255,255,0) 55%),linear-gradient(165deg,#EEF3FB,#D5E2F5)}
+  .pic .orb{position:absolute;left:50%;top:46%;width:52%;aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;
+    background:radial-gradient(circle at 34% 30%,#fff 0,#E3ECF9 22%,#9DBBE6 62%,#155DC1 120%);box-shadow:inset -.4rem -.6rem 1.2rem rgba(15,74,158,.25)}
+  .pic .sh{position:absolute;left:50%;top:76%;width:46%;height:7%;transform:translateX(-50%);border-radius:50%;background:radial-gradient(closest-side,rgba(15,74,158,.28),transparent)}
+  .phone{position:absolute;right:2rem;top:2.25rem;width:9.75rem;padding:.6rem .6rem .9rem;background:#fff;border-radius:1.25rem;box-shadow:0 0 0 1px var(--line),0 1.5rem 2.5rem -1rem rgba(14,17,22,.3);display:flex;flex-direction:column;transition:transform .8s var(--ease)}
+  .phone::before{content:"";align-self:center;width:2.2rem;height:.35rem;border-radius:1rem;background:var(--panel);margin-bottom:.5rem}
+  .phone .pic{aspect-ratio:1/1;border-radius:.8rem}
+  .phone strong{font-weight:400;font-family:var(--serif);font-size:.9375rem;line-height:1.1;letter-spacing:-.01em;margin-top:.6rem}
+  .phone .pb{align-self:flex-start;height:1.35rem;font-size:.5625rem;margin-top:.55rem}
+  .toast{left:1rem;bottom:1rem;z-index:2}
+  .toast svg{width:.95rem;height:.95rem;fill:none;stroke:var(--ink);stroke-width:1.2;opacity:.75}
+  .svc:hover .win.site{transform:translateY(-.4rem)}
+  .svc:hover .phone{transform:translate(.4rem,-.7rem)}
+  .svc:hover .toast{transform:translateY(-.5rem)}
 
   /* ---------- What our clients say: 21st.dev "Testimonials Columns" by efferd (id 1965), rebuilt without React.
      Kept from the part: centred head, 20rem white cards with a thin border and a soft blue shadow, three columns rolling
@@ -386,6 +392,12 @@
     .svc .art{flex:none;height:15rem;margin:1.5rem -1.5rem 0}
     .road{left:1.5rem;right:1.5rem}
     .app{left:1.5rem}
+    .win.site{left:1.5rem;right:5.5rem}
+    .pg{padding:.7rem .9rem 0}.pn span{display:none}
+    .ph{grid-template-columns:1fr;margin-top:.8rem}.ph .pic,.pt p{display:none}
+    .pt strong{font-size:1.25rem}
+    .phone{right:1rem;top:2rem;width:7rem}
+    .toast{left:.75rem;bottom:1.5rem}
     .svc .art.fl{height:16rem}
     .node{width:15rem;left:calc(50% - 7.5rem)!important;right:auto!important}
     .node.n1{top:.5rem}.node.n2{top:5.4rem}.node.n3{top:10.3rem}.node.n4{display:none}
@@ -551,10 +563,18 @@
           <div class="more"><div><p>Full-stack web design and development, from the first idea to a fully functional website. Built to reflect your brand and optimized for conversions.</p></div></div>
           <div class="art" aria-hidden="true">
             <div class="sites">
-              <div class="win back"><div class="url"><span></span></div>
-                <div class="mock home"><div class="mn"><b></b><span></span><span></span><span></span></div><i class="h1"></i><i class="h2"></i><i class="sub"></i><i class="cta"></i><div class="pic"></div></div></div>
-              <div class="win front"><div class="url"><span></span></div>
-                <div class="mock shop"><div class="mn"><b></b><span></span><span></span><span></span></div><i class="h2"></i><div class="grid"><div><u></u><i></i><em></em></div><div><u></u><i></i><em></em></div><div><u></u><i></i><em></em></div></div></div></div>
+              <div class="win site">
+                <div class="url"><svg viewBox="0 0 12 12" aria-hidden="true"><rect x="2.5" y="5.5" width="7" height="5" rx="1.2"/><path d="M4 5.5V4a2 2 0 0 1 4 0v1.5"/></svg>yourstore.com</div>
+                <div class="pg">
+                  <div class="pn"><b>Store<i class="dot">.</i></b><span>New</span><span>Shop</span><span>About</span><em></em></div>
+                  <div class="ph">
+                    <div class="pt"><small>New collection</small><strong>Made for every day<i class="dot">.</i></strong><p>Simple things, made well and delivered to your door.</p><span class="pb">Shop now</span></div>
+                    <div class="pic"><i class="orb"></i><i class="sh"></i></div>
+                  </div>
+                </div>
+              </div>
+              <div class="phone"><div class="pic"><i class="orb"></i><i class="sh"></i></div><strong>Made for every day<i class="dot">.</i></strong><span class="pb">Shop now</span></div>
+              <div class="tile toast"><span class="ic b"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 4h10l-1 8H4z"/><path d="M6 6V4.5a2 2 0 0 1 4 0V6"/></svg></span><div><b>New order</b><small>Just now, from your website</small></div></div>
             </div>
           </div>
           <button class="cover" type="button" aria-expanded="false" aria-label="Web Development, read more"></button>
