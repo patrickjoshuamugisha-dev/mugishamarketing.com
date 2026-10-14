@@ -22,33 +22,3 @@
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
 
-# One-page site: the old pages lead to their part of the home page
-[[redirects]]
-  from = "/services"
-  to = "/#what"
-  status = 301
-
-[[redirects]]
-  from = "/services/*"
-  to = "/#what"
-  status = 301
-
-[[redirects]]
-  from = "/about"
-  to = "/#who"
-  status = 301
-
-[[redirects]]
-  from = "/about/*"
-  to = "/#who"
-  status = 301
-
-[[redirects]]
-  from = "/contact"
-  to = "/#contact"
-  status = 301
-
-[[redirects]]
-  from = "/contact/*"
-  to = "/#contact"
-  status = 301
