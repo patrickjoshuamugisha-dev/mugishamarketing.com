@@ -1,0 +1,80 @@
+/* Policy pages (Privacy Policy, Terms of Service). Same nav, type and footer card as home.html;
+   the body is one plain reading column. Nothing to look at, easy to read. */
+:root{
+  --ink:#0E1116; --grey:#4A5261; --faint:#6A7180; --blue:#155DC1; --blue-dark:#0F4A9E;
+  --line:rgba(14,17,22,.08);
+  --serif:"Hedvig Letters Serif",Georgia,serif; --sans:"Hedvig Letters Sans",system-ui,sans-serif;
+  --ease:cubic-bezier(.16,1,.3,1);
+  --edge:clamp(1rem,4vw,3.5rem);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:clamp(16px,1.111vw,29px);-webkit-text-size-adjust:100%}
+body{background:#fff;color:var(--ink);font-family:var(--sans);font-size:1.0625rem;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+h1,h2{font-family:var(--serif);font-weight:400;letter-spacing:-.02em;text-wrap:balance}
+p,li{text-wrap:pretty}
+a{color:inherit;text-decoration:none}
+.wrap{width:100%;max-width:calc(76rem + 2*var(--edge));margin:0 auto;padding:0 var(--edge)}
+.dot{font-style:normal;color:var(--blue)}
+:focus-visible{outline:2px solid var(--blue);outline-offset:3px;border-radius:4px}
+::selection{background:var(--blue);color:#fff}
+.skip{position:absolute;left:1rem;top:-4rem;z-index:40;background:#fff;padding:.5rem 1rem;border-radius:.5rem;box-shadow:0 0 0 1px var(--line)}
+.skip:focus{top:1rem}
+
+/* Nav, as on home */
+.nav{position:fixed;inset:0 0 auto;z-index:30;transition:background-color .4s,box-shadow .4s}
+.nav.stuck{background:rgba(255,255,255,.82);backdrop-filter:saturate(1.5) blur(12px);-webkit-backdrop-filter:saturate(1.5) blur(12px);box-shadow:0 1px 0 var(--line)}
+.nav .wrap{display:flex;justify-content:space-between;align-items:center;gap:2rem;height:4.5rem}
+.mark{font-family:var(--serif);font-size:1.625rem;letter-spacing:-.018em;line-height:1}
+.links{display:flex;gap:2.5rem;list-style:none;font-size:1rem}
+.links a{color:var(--ink);padding-bottom:.25em;background:linear-gradient(currentColor,currentColor) 0 100%/0 1px no-repeat;transition:background-size .5s var(--ease)}
+.links a:hover{background-size:100% 1px}
+
+/* The document: one plain reading column in the middle of the page */
+.doc{max-width:calc(40rem + 2*var(--edge));padding-top:clamp(8.5rem,12vw,11.5rem)}
+.doc-head{margin-bottom:clamp(3rem,5vw,4.5rem)}
+.doc-head h1{font-size:clamp(2.4rem,7vw,3.25rem);line-height:1.05}
+.meta{font-size:.9375rem;color:var(--faint);margin-top:1rem}
+
+.prose{color:var(--grey);font-size:1.0625rem;line-height:1.7}
+.prose section{scroll-margin-top:6.5rem}
+.prose section+section,.prose>p+section{margin-top:3.25rem}
+.prose h2{font-size:1.625rem;line-height:1.2;color:var(--ink);margin-bottom:1rem}
+.prose h2 .n{color:var(--faint)}
+.prose h3{font-family:var(--sans);font-weight:400;font-size:1.0625rem;color:var(--ink);margin:1.75rem 0 .5rem}
+.prose p{margin-bottom:1rem}
+.prose ul{padding-left:1.15rem;margin-bottom:1rem;display:grid;gap:.15rem}
+.prose li::marker{color:var(--faint)}
+.prose a{color:var(--blue);text-decoration:underline;text-decoration-color:rgba(21,93,193,.3);text-underline-offset:.2em;transition:text-decoration-color .3s}
+.prose a:hover{text-decoration-color:currentColor}
+.prose>p:last-child,.prose section>:last-child{margin-bottom:0}
+
+/* Footer card, as on home */
+.foot{margin-top:clamp(7rem,11vw,10rem);padding-bottom:1.5rem}
+.card{background:#fff;border-radius:1.5rem;box-shadow:0 0 0 1px var(--line),0 1.5rem 3rem -2rem rgba(14,17,22,.18);padding:2.25rem 2.5rem 1.5rem}
+.card .top{display:grid;grid-template-columns:1.5fr 1fr .8fr 1.25fr;gap:2.5rem;align-items:start}
+.card .top p{color:var(--grey);font-size:.9375rem;margin-top:.3rem;max-width:22em}
+.card h4{font-weight:400;font-size:.8125rem;color:var(--faint);margin-bottom:.8rem}
+.card ul{list-style:none;display:grid;gap:.45rem;font-size:.9375rem}
+.card ul a:hover{color:var(--blue)}
+.card .mail{color:var(--blue)}
+.card .li{display:inline-flex;align-items:center;gap:.5rem}
+.card .li svg{width:.95rem;height:.95rem;fill:currentColor;opacity:.85;transition:opacity .3s}
+.card .li:hover svg{opacity:1}
+.card .legal{display:flex;justify-content:space-between;gap:1rem;margin-top:2.25rem;padding-top:1.25rem;border-top:1px solid var(--line);font-size:.8125rem;color:var(--faint)}
+.card .legal a:hover{color:var(--ink)}
+
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important}}
+
+@media (max-width:860px){
+  body{font-size:1rem}
+  .links{gap:1.25rem;font-size:.9375rem}.nav .wrap{height:4rem}.mark{font-size:1.5rem}
+  .doc{padding-top:7.5rem}
+  .prose{font-size:1rem}
+  .prose h2{font-size:1.4rem}
+  .prose section+section,.prose>p+section{margin-top:2.75rem}
+  .foot{margin-top:6rem}
+  .card{padding:1.75rem 1.5rem 1.25rem}
+  .card .top{grid-template-columns:1fr 1fr;gap:2rem 1.5rem}
+  .card .top>div:first-child,.card .top>div:last-child{grid-column:1/-1}
+  .card .legal{flex-direction:column;gap:.3rem}
+}
