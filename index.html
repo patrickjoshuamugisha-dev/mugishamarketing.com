@@ -70,7 +70,7 @@
   .proof{display:grid;grid-template-columns:auto 1fr;align-items:center;column-gap:3rem;padding-bottom:clamp(1.5rem,3svh,2.25rem);padding-top:1.25rem}
   .proof-label{font-size:.9375rem;color:var(--faint);white-space:nowrap}
   .marquee{overflow:hidden;min-width:0;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
-  .marquee-track{display:flex;align-items:center;gap:3.5rem;width:max-content;animation:drift 70s linear infinite}
+  .marquee-track{display:flex;align-items:center;gap:3.5rem;width:max-content;animation:drift 80s linear infinite}
   .marquee:hover .marquee-track{animation-play-state:paused}
   /* At rest every logo is the same soft ink; on hover (the row pauses) it shows its own colours */
   .marquee-track img{height:var(--h,1.3rem);width:auto;filter:grayscale(1) brightness(.55) contrast(1.6);opacity:.5;transition:filter .7s var(--ease),opacity .7s var(--ease)}
@@ -372,7 +372,7 @@
     .acts{flex-direction:column;align-items:center}
     .proof{grid-template-columns:1fr;row-gap:.9rem;padding-bottom:1.5rem}
     .proof-label{text-align:center}
-    .marquee-track{gap:2.25rem;animation-duration:40s}
+    .marquee-track{gap:2.25rem;animation-duration:60s}
     .head{grid-template-columns:1fr;gap:1rem;margin-bottom:2rem}
     .who{display:block;padding:2.5rem 1.5rem 17rem;min-height:0}
     .who-globe{width:35rem;height:35rem;right:50%;transform:translateX(50%);bottom:-20.5rem}
@@ -779,8 +779,8 @@ function Land(canvas,o){
   host.addEventListener('pointerleave',function(){ tx=0; });
   start();
 }
-Land(document.getElementById('land-top'),{above:document.querySelector('.acts'),below:document.querySelector('.proof'),gap:3,horizon:.6,cam:1.15,zn:1,zf:22,rows:54,spread:1.2,valley:1.1,speed:.5,fill:'#fff',a0:.03,a1:.5,w0:.6,w1:.6});
-Land(document.getElementById('land-end'),{above:document.querySelector('.closing .form'),gap:3.5,horizon:.5,cam:1.15,zn:1,zf:22,rows:54,spread:1.2,valley:1.1,speed:.42,fill:'#fff',a0:.03,a1:.45,w0:.6,w1:.6});
+Land(document.getElementById('land-top'),{above:document.querySelector('.acts'),below:document.querySelector('.proof'),gap:3,horizon:.6,cam:1.15,zn:1,zf:22,rows:54,spread:1.2,valley:1.1,speed:.35,fill:'#fff',a0:.03,a1:.5,w0:.6,w1:.6});
+Land(document.getElementById('land-end'),{above:document.querySelector('.closing .form'),gap:3.5,horizon:.5,cam:1.15,zn:1,zf:22,rows:54,spread:1.2,valley:1.1,speed:.3,fill:'#fff',a0:.03,a1:.45,w0:.6,w1:.6});
 
 // The automation drawing: its three lines are drawn from box edge to box edge, at any size
 (function(){
