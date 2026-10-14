@@ -219,8 +219,25 @@
   /* Art: two sites we built, in browser frames */
   .sites{position:absolute;inset:0}
   .win{position:absolute;background:#fff;border-radius:.75rem .75rem 0 0;overflow:hidden;box-shadow:0 0 0 1px var(--line),0 1.25rem 2.5rem -1.25rem rgba(14,17,22,.25);transition:transform .8s var(--ease)}
-  .win .url{height:1.6rem;display:flex;align-items:center;justify-content:center;font-size:.625rem;color:var(--faint);border-bottom:1px solid var(--line);background:#fff}
-  .win img{width:100%;aspect-ratio:16/10;object-fit:cover;object-position:top}
+  .win .url{height:1.6rem;display:flex;align-items:center;justify-content:center;border-bottom:1px solid var(--line);background:#fff}
+  .win .url span{width:34%;height:.5rem;border-radius:1rem;background:var(--panel)}
+  /* A website drawn in plain shapes: no real client, no brand (Patrick, 2026-10-14) */
+  .mock{aspect-ratio:16/10;padding:.9rem 1.1rem;display:flex;flex-direction:column;gap:.4rem;background:#fff}
+  .mock i,.mock b,.mock span,.mock u,.mock em{display:block;font-style:normal;text-decoration:none;border-radius:1rem}
+  .mock .mn{display:flex;align-items:center;gap:.45rem;margin-bottom:.7rem}
+  .mock .mn b{width:2.2rem;height:.45rem;background:var(--ink);margin-right:auto}
+  .mock .mn span{width:1.3rem;height:.3rem;background:var(--line-2)}
+  .mock .h1{width:62%;height:.7rem;background:var(--ink)}
+  .mock .h2{width:44%;height:.7rem;background:var(--ink)}
+  .mock .sub{width:52%;height:.32rem;background:var(--line-2);margin-top:.25rem}
+  .mock .cta{width:3.2rem;height:.85rem;background:var(--blue);margin-top:.35rem}
+  .mock .pic{flex:1;margin-top:.6rem;border-radius:.5rem;background:linear-gradient(135deg,var(--panel),#E4E8EE)}
+  .mock.shop .h2{width:30%;height:.55rem}
+  .mock .grid{display:grid;align-content:start;grid-template-columns:repeat(3,1fr);gap:.55rem;margin-top:.5rem}
+  .mock .grid div{display:flex;flex-direction:column;gap:.3rem}
+  .mock .grid u{aspect-ratio:1;border-radius:.45rem;background:linear-gradient(135deg,var(--panel),#E4E8EE)}
+  .mock .grid i{width:75%;height:.3rem;background:var(--line-2)}
+  .mock .grid em{width:35%;height:.3rem;background:var(--blue);opacity:.7}
   .win.back{left:9%;top:0;width:52%}
   .win.front{left:36%;top:2.6rem;width:56%}
   .svc:hover .win.back{transform:translate(-.6rem,-.3rem)}
@@ -534,8 +551,10 @@
           <div class="more"><div><p>Full-stack web design and development, from the first idea to a fully functional website. Built to reflect your brand and optimized for conversions.</p></div></div>
           <div class="art" aria-hidden="true">
             <div class="sites">
-              <div class="win back"><div class="url">akvajewellery.com</div><img src="/img/akva.jpg" alt=""></div>
-              <div class="win front"><div class="url">sophiebillebrahe.com</div><img src="/img/sophie.jpg" alt=""></div>
+              <div class="win back"><div class="url"><span></span></div>
+                <div class="mock home"><div class="mn"><b></b><span></span><span></span><span></span></div><i class="h1"></i><i class="h2"></i><i class="sub"></i><i class="cta"></i><div class="pic"></div></div></div>
+              <div class="win front"><div class="url"><span></span></div>
+                <div class="mock shop"><div class="mn"><b></b><span></span><span></span><span></span></div><i class="h2"></i><div class="grid"><div><u></u><i></i><em></em></div><div><u></u><i></i><em></em></div><div><u></u><i></i><em></em></div></div></div></div>
             </div>
           </div>
           <button class="cover" type="button" aria-expanded="false" aria-label="Web Development, read more"></button>
