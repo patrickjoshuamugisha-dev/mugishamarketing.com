@@ -200,3 +200,10 @@
   .svc-hero-tx .page-title{max-width:16ch}
   .svc-hero-tx .page-lead{max-width:38rem}
 }
+
+/* ===== Keyword pages: long headings may break between words on phones (2026-11-19) ===== */
+.kw main h1 .nb,.kw main h2 .nb,:lang(da) main h1 .nb,:lang(da) main h2 .nb{white-space:normal}
+@media (max-width:640px){
+  .kw main h1,.kw main h2,:lang(da) main h1,:lang(da) main h2{overflow-wrap:break-word}
+  :lang(da) main .eyebrow{overflow-wrap:anywhere}
+}

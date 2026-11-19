@@ -72,4 +72,64 @@
     <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/handelsbetingelser/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/terms-of-service/"/>
   </url>
+  <url>
+    <loc>https://mugishamarketing.com/ai-consultant/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-consultant/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-konsulent/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-consultant/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/ai-konsulent/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-consultant/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-konsulent/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-consultant/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/ai-automation/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-automation/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-automatisering/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-automation/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/ai-automatisering/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-automation/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-automatisering/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-automation/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/ai-agents/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-agents/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-agenter/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-agents/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/ai-agenter/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-agents/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-agenter/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-agents/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/ai-implementation/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-implementation/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-implementering/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-implementation/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/ai-implementering/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-implementation/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-implementering/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-implementation/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/ai-chatbot/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-chatbot/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-chatbot/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-chatbot/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/ai-chatbot/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/ai-chatbot/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-chatbot/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-chatbot/"/>
+  </url>
 </urlset>
