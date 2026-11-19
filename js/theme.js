@@ -71,8 +71,8 @@ MZ.splitWords = splitWords;
 
 /* ---------- Header intro: logo, links, button and burger come in one after the other (their timeline). It waits for the two fonts (1.2 s at most). ---------- */
 (function headerIntro() {
-  const logo = $('.site-header .mark'), items = $$('.site-header .links li'), btn = $('.site-header .nav-r > .btn'), burger = $('.site-header .burger');
-  const hdr = [logo, ...items, btn, burger].filter(Boolean);
+  const logo = $('.site-header .mark'), items = $$('.site-header .links li'), btn = $('.site-header .nav-r > .btn'), burger = $('.site-header .burger'), lang = $('.site-header .lang');
+  const hdr = [logo, ...items, btn, lang, burger].filter(Boolean);
   if (!hdr.length) return;
   if (RM) { gsap.set(hdr, { opacity: 1, clearProps: 'transform,clipPath' }); return; }
   const tl = gsap.timeline({ defaults: { ease: 'power3.out', overwrite: true }, delay: 0.08, paused: true });
@@ -80,6 +80,7 @@ MZ.splitWords = splitWords;
   if (items.length) tl.fromTo(items, { autoAlpha: 0, y: -14 }, { autoAlpha: 1, y: 0, duration: 0.62, stagger: 0.06 }, 0.14);
   if (btn) tl.fromTo(btn, { autoAlpha: 0, y: -14, scale: 0.96 }, { autoAlpha: 1, y: 0, scale: 1, duration: 0.64 }, 0.32);
   if (burger) tl.fromTo(burger, { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.64 }, 0.32);
+  if (lang) tl.fromTo(lang, { autoAlpha: 0, y: -14 }, { autoAlpha: 1, y: 0, duration: 0.64 }, 0.38);
   const fonts = document.fonts ? Promise.race([Promise.all([document.fonts.load('300 40px "IvyPresto Headline"'), document.fonts.load('400 18px "Neue Haas Unica"')]), new Promise((r) => setTimeout(r, 1200))]) : Promise.resolve();
   fonts.then(() => tl.play());
 })();
@@ -221,4 +222,13 @@ addEventListener('load', () => ScrollTrigger.refresh());
 document.fonts && document.fonts.ready.then(() => ScrollTrigger.refresh());
 }
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
+})();
+
+/* ---------- Language switch: the thumb slides across, then the other language's page opens (plain link without script) ---------- */
+(function langSwitch() {
+  document.querySelectorAll('a.lang').forEach((a) => a.addEventListener('click', (e) => {
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
+    e.preventDefault(); a.classList.add('is-going');
+    setTimeout(() => { location.href = a.href; }, matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 260);
+  }));
 })();

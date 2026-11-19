@@ -1,9 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mugishamarketing.com/</loc></url>
-  <url><loc>https://mugishamarketing.com/services/</loc></url>
-  <url><loc>https://mugishamarketing.com/about/</loc></url>
-  <url><loc>https://mugishamarketing.com/contact/</loc></url>
-  <url><loc>https://mugishamarketing.com/privacy-policy/</loc></url>
-  <url><loc>https://mugishamarketing.com/terms-of-service/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mugishamarketing.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/services/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/services/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ydelser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/services/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/ydelser/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/services/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ydelser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/services/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/om-os/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/about/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/om-os/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/om-os/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/about/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/contact/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/contact/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/privacy-policy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/privatlivspolitik/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/privacy-policy/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/privatlivspolitik/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/privacy-policy/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/privatlivspolitik/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/privacy-policy/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/terms-of-service/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/terms-of-service/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/handelsbetingelser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/terms-of-service/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/handelsbetingelser/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/terms-of-service/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/handelsbetingelser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/terms-of-service/"/>
+  </url>
 </urlset>

@@ -194,7 +194,7 @@
 @media (max-width:1024px){.abt-stats-sec{padding:var(--sp-6) 0}}
 
 /* ===== Header: no entrance on subpages (the nav does not blink between pages) ===== */
-.js .site-header .mark,.js .site-header .links li,.js .site-header .nav-r .btn,.js .site-header .burger{opacity:1;visibility:visible}
+.js .site-header .mark,.js .site-header .links li,.js .site-header .nav-r .btn,.js .site-header .burger,.js .site-header .lang{opacity:1;visibility:visible}
 @media (min-width:1800px){
   .svc-hero-in{grid-template-columns:minmax(0,1fr) 46rem}
   .svc-hero-tx .page-title{max-width:16ch}
