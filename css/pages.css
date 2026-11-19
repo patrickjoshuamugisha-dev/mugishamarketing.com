@@ -207,3 +207,7 @@
   .kw main h1,.kw main h2,:lang(da) main h1,:lang(da) main h2{overflow-wrap:break-word}
   :lang(da) main .eyebrow{overflow-wrap:anywhere}
 }
+/* Guides: a comparison table may run wider than the reading column on desktop */
+@media (min-width:1100px){
+  .legal-text .tbl-wrap{width:min(72rem,calc(100vw - 8rem));position:relative;left:50%;transform:translateX(-50%)}
+}

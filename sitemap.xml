@@ -132,4 +132,16 @@
     <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/ai-chatbot/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/ai-chatbot/"/>
   </url>
+  <url>
+    <loc>https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/"/>
+  </url>
 </urlset>

@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="only light">
+<style>html{background:#F7F5F6}</style>
+<meta name="darkreader-lock">
+<title>n8n, Make eller Zapier: hvilket passer til dig | Mugisha AI</title>
+<meta name="description" content="n8n, Make eller Zapier? Sammenligning af hosting, prismodel, AI-funktioner og placering af data, og hvilket værktøj der passer til hvilken virksomhed.">
+<link rel="canonical" href="https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/">
+<!-- hreflang:start -->
+<link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/">
+<link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/">
+<link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/">
+<!-- hreflang:end -->
+<meta property="og:site_name" content="Mugisha AI">
+<meta property="og:title" content="n8n, Make eller Zapier: hvilket passer til dig | Mugisha AI">
+<meta property="og:description" content="n8n, Make eller Zapier? Sammenligning af hosting, prismodel, AI-funktioner og placering af data, og hvilket værktøj der passer til hvilken virksomhed.">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="da_DK">
+<meta property="og:url" content="https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/">
+<meta property="og:image" content="https://mugishamarketing.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.ico?v=2" sizes="48x48">
+<link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2">
+<link rel="preload" href="/fonts/ivypresto-headline-300.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/neue-haas-unica-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/ivypresto-headline-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/css/theme.css">
+<link rel="stylesheet" href="/css/pages.css">
+<script>document.documentElement.classList.add('js')</script>
+<script src="/vendor/gsap.min.js" defer></script>
+<script src="/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/vendor/lenis.min.js" defer></script>
+<script src="/js/theme.js" defer></script>
+<script src="/js/pages.js" defer></script>
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Article",
+   "headline": "n8n, Make eller Zapier: hvilket værktøj passer til din virksomhed?",
+   "inLanguage": "da",
+   "datePublished": "2026-11-19",
+   "dateModified": "2026-11-19",
+   "mainEntityOfPage": "https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/",
+   "author": {
+    "@type": "Organization",
+    "name": "Mugisha AI",
+    "url": "https://mugishamarketing.com/"
+   },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Mugisha AI",
+    "url": "https://mugishamarketing.com/"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Er n8n gratis?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Community Edition er gratis at selvhoste, og koden ligger på GitHub. De hostede planer er betalte og starter ved 20 euro om måneden ved årlig betaling, for 2.500 kørsler. Selvhosting er uden licensgebyr, men ikke uden arbejde: du skal bruge en server og en, der vedligeholder den."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Er Make billigere end Zapier?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Det afhænger af arbejdsgangen, og vi kan ikke oplyse en pris for Make, fordi prissiden, vi læste, ikke viste tal for de betalte planer. Make har en gratisplan med 1.000 kreditter om måneden, og Zapiers gratisplan har 100 opgaver. En kredit og en opgave tælles forskelligt, så sammenlign ved at køre din rigtige arbejdsgang igennem hver leverandørs prisberegner."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Hvilket værktøj holder data i EU?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "n8ns hostede planer gemmer data i Frankfurt i Tyskland, og selvhostet n8n holder data, hvor du selv hoster det. Siderne fra Make og Zapier, vi læste, angiver GDPR-overholdelse, men nævner ingen dataregion. Betyder regionen noget for dig, så spørg leverandøren skriftligt, før du bygger."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Kan jeg skifte værktøj senere?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ja, men arbejdsgange kan ikke kopieres fra det ene værktøj til det andet. De skal bygges igen. Dokumentationen, logikken og listen over systemer kan genbruges, og derfor dokumenterer vi hver arbejdsgang, vi bygger."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Skal jeg have en udvikler for at bruge værktøjerne?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ikke til almindelige arbejdsgange. Alle tre kan bruges uden at skrive kode. En udvikler er en hjælp, når du selvhoster n8n, når du kobler systemer uden connector, eller når en arbejdsgang bliver stor og skal have en ryddelig opbygning."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Kan værktøjerne køre AI-agenter?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ja. n8n har en AI Agent-node med menneskelig godkendelse af værktøjskald, Make har AI-agenter, og Zapier har Zapier Agents. En agent skal stadig have en klar opgave, grænser for, hvad den må, og en person, der kontrollerer resultatet."
+     }
+    }
+   ]
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Forside",
+     "item": "https://mugishamarketing.com/da/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "n8n, Make eller Zapier: hvilket passer til dig",
+     "item": "https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/"
+    }
+   ]
+  }
+ ]
+}</script>
+</head>
+<body class="kw">
+<!-- header:start -->
+<a class="skip" href="#main">Spring til indhold</a>
+<header class="site-header" id="nav">
+  <a class="mark" href="/da/" aria-label="Mugisha, forside">Mugisha<i class="dot">.</i></a>
+  <div class="nav-r">
+    <nav aria-label="Hovedmenu"><ul class="links"><li><a href="/da/ydelser/">Ydelser</a></li><li><a href="/da/om-os/">Om os</a></li><li><a href="/da/kontakt/">Kontakt</a></li></ul></nav>
+    <a class="btn" href="/da/kontakt/">Kontakt os</a>
+    
+    <!-- lang:start --><a class="lang" data-cur="da" href="/guides/n8n-vs-make-vs-zapier/" hreflang="en" lang="en" aria-label="Read this page in English"><span class="l-da" aria-hidden="true">DA</span><span class="l-en" aria-hidden="true">EN</span></a><!-- lang:end -->
+    <button class="burger" aria-expanded="false" aria-controls="menu" aria-label="Menu"><span></span></button>
+  </div>
+</header>
+<nav class="menu" id="menu" aria-label="Hovedmenu på små skærme" aria-hidden="true">
+  <ul><li><a href="/da/ydelser/">Ydelser</a></li><li><a href="/da/om-os/">Om os</a></li><li><a href="/da/kontakt/">Kontakt</a></li><li><a class="btn" href="/da/kontakt/">Kontakt os</a></li></ul>
+</nav>
+<!-- header:end -->
+<main id="main">
+<div class="lg-wrap">
+<article class="legal-text">
+<h1 data-reveal="title">n8n, Make eller Zapier: hvilket værktøj passer til din virksomhed?</h1>
+<p class="updated" data-reveal="text">Opdateret: 19. november 2026</p>
+<p>Vælg Zapier, hvis det vigtigste er at kunne koble mange forskellige apps sammen, for Zapier lister mere end 9.000. Vælg Make, hvis du vil have et visuelt lærred til arbejdsgange med forgreninger og trin, der afhænger af hinanden. Vælg n8n, hvis du vil hoste værktøjet selv, holde data på dine egne servere eller tilføje kode, hvor de færdige trin ikke slår til. Alle tre kan køre AI-trin, så valget handler mest om hosting, prismodel og hvem der skal passe arbejdsgangene.</p>
+<h2>Hvad de tre værktøjer er</h2>
+<h3>n8n</h3>
+<p>n8n kalder sig en platform til agenter og arbejdsgange, du kan følge. Værktøjet lister mere end 500 indbyggede integrationer og kan nå enhver tjeneste med en API gennem et HTTP-trin. Du kan bruge den version, n8n hoster for dig, eller installere det på din egen server. Kildekoden ligger på GitHub, og der findes en gratis Community Edition til selvhosting. Den har næsten alle funktionerne, men mangler blandt andet single sign-on, deling af arbejdsgange og Git-versionsstyring, som hører til de betalte udgaver.</p>
+<h3>Make</h3>
+<p>Make beskriver sig selv som en AI-automatiseringsplatform til at bygge arbejdsgange og AI-agenter visuelt. Du bygger ved at trække moduler ind på et lærred eller ved at skrive en prompt. Make lister mere end 3.000 indbyggede apps, og enhver tjeneste med en offentlig API kan kobles på gennem en brugerdefineret app. På siden står der, at Make overholder GDPR og har SOC 2 Type II og SOC 3.</p>
+<h3>Zapier</h3>
+<p>Zapier beskriver sig selv som kontrolpunktet, der forbinder enhver AI med ethvert værktøj. Zapier lister mere end 9.000 apps og skriver, at over 3 millioner virksomheder bruger det. Du bygger automatiseringer, kaldet Zaps, ud fra en trigger og en eller flere handlinger. Zapier nævner også GDPR ved siden af sine SOC 2 Type II- og SOC 3-rapporter.</p>
+<h2>De tre værktøjer ved siden af hinanden</h2>
+<div class="tbl-wrap" style="overflow-x:auto"><table style="border-collapse:collapse;min-width:44rem;width:100%;line-height:1.45">
+<thead><tr><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top"></th><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">n8n</th><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Make</th><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Zapier</th></tr></thead>
+<tbody>
+<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Hosting</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Hostet af n8n, eller selvhostet på din egen server</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Makes cloud. Vi fandt ingen mulighed for selvhosting på de sider, vi læste</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Zapiers cloud. Vi fandt ingen mulighed for selvhosting på de sider, vi læste</td></tr>
+<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Prismodel</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Pr. kørsel af en arbejdsgang, uanset hvor mange trin den har. Hostede planer starter ved 20 euro om måneden ved årlig betaling, for 2.500 kørsler</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Pr. kredit. De fleste handlinger koster 1 kredit, routere koster ingen. Gratisplanen har 1.000 kreditter om måneden. Priserne på de betalte planer stod ikke på den side, vi læste</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Pr. opgave, altså en handling, der er gennemført. Triggere og indbyggede værktøjer som Filter tæller ikke. Gratis har 100 opgaver, Professional starter ved 19,99 dollar om måneden ved årlig betaling for 750 opgaver</td></tr>
+<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">AI-funktioner</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">AI Agent-node, MCP-klient og MCP-server-trigger, menneskelig godkendelse af værktøjskald</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">AI-agenter, assistenten Maia, en MCP-server, AI-apps. Nogle AI-funktioner bruger flere kreditter</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Zapier Agents, Copilot (beta), AI by Zapier på betalte planer, Zapier MCP</td></tr>
+<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Kodning</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Ikke til enkle arbejdsgange. Kode kan tilføjes, hvor du har brug for det</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Nej. Du bygger på et lærred med træk og slip eller med prompts</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Nej til almindelige trin. Der findes et Code by Zapier-trin</td></tr>
+<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Data i EU og selvhosting</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Hostede planer gemmer data i Frankfurt i Tyskland. Selvhostet ligger data, hvor du selv hoster</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Ingen dataregion nævnt på de sider, vi læste. Make angiver GDPR-overholdelse</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Ingen dataregion nævnt på de sider, vi læste. Zapier angiver GDPR-overholdelse</td></tr>
+<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Bedst til</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Teams, der vil styre hosting og data, eller har brug for egen kode</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Arbejdsgange med forgreninger og mange trin, bygget visuelt</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Hurtig kobling af mange forskellige apps og den længste applist</td></tr>
+</tbody></table></div>
+<p>Tabellen er et overblik. Priser og plannavne ændrer sig, så tjek leverandørernes sider i kildelisten, før du beslutter dig.</p>
+<h2>Hvornår du skal vælge hvilket</h2>
+<h3>Vælg n8n, når</h3>
+<ul>
+<li>Dine databegrænsninger kræver, at værktøjet kører på servere, du selv kontrollerer, eller på et bestemt sted.</li>
+<li>Du regner med at skrive noget egen kode eller koble interne systemer uden færdig connector.</li>
+<li>Du er tryg ved at betale pr. kørsel frem for pr. trin.</li>
+<li>Der er en hos jer, eller en partner, der kan passe en server, hvis I selvhoster.</li>
+</ul>
+<h3>Vælg Make, når</h3>
+<ul>
+<li>Arbejdsgangen forgrener sig, gentager trin eller har mange led, og du vil se hele forløbet på ét lærred.</li>
+<li>Den, der skal justere den, er en driftsleder og ikke en udvikler.</li>
+<li>Du vil bygge AI-agenter og almindelige arbejdsgange det samme sted.</li>
+</ul>
+<h3>Vælg Zapier, når</h3>
+<ul>
+<li>Du skal koble mange forskellige apps, også mindre udbredte.</li>
+<li>Opgaverne er korte og lige på: når det sker, så gør det.</li>
+<li>Du vil have et hostet værktøj, der ikke skal installeres, og en gratis plan at prøve det på.</li>
+</ul>
+<p>Hvis ingen af dem passer tydeligt, afgør de systemer, du allerede bruger, som regel sagen. Tjek, hvilket værktøj der har en færdig connector til dit CRM, dit regnskabsprogram og din mail. En manglende connector koster mere tid end en prisforskel.</p>
+<h2>Hvad det koster i praksis</h2>
+<p>Månedsprisen betyder mindre end afregningsenheden, for de tre værktøjer tæller arbejdet forskelligt.</p>
+<ul>
+<li>n8n tæller kørsler. Én kørsel af en arbejdsgang er én kørsel, uanset om den har tre trin eller tredive.</li>
+<li>Make tæller kreditter. De fleste handlinger bruger én kredit, mens routere og fejlhåndtering ikke bruger nogen. Når kreditterne er brugt op, stopper scenarierne.</li>
+<li>Zapier tæller opgaver. En opgave er en handling, der er gennemført. Triggere, filtre, formatering og andre indbyggede værktøjer tæller ikke, og mislykkede handlinger bliver ikke afregnet.</li>
+</ul>
+<p>Her er et regneeksempel, ikke et kunderesultat. En arbejdsgang har én trigger og fire handlinger og kører 1.000 gange om måneden. I n8n er det 1.000 kørsler, og det er der plads til inden for de 2.500 på Starter-planen. I Zapier er det op til 4.000 opgaver, fordi triggeren ikke tæller, og det er langt over de 750 opgaver på Professionals indgangsniveau. I Make er det nogle få tusinde kreditter, fordi de fleste handlinger bruger én kredit. Det samme job kan altså være billigst i forskellige værktøjer, afhængigt af antal trin og hvor ofte det kører.</p>
+<p>Tre udgifter ligger uden for planprisen. Selvhoster du n8n, betaler du for en server og for, at nogen holder den opdateret og sikkerhedskopieret. AI-trin kan give en regning fra modeludbyderen, medmindre planen inkluderer modellerne. Selve opbygningen tager også tid: en arbejdsgang, ingen har dokumenteret, bliver dyr første gang ophavsmanden er væk.</p>
+<h2>Almindelige fejl</h2>
+<ul>
+<li>At vælge alene på pris uden at tælle, hvor mange trin arbejdsgangen har, og hvor tit den kører.</li>
+<li>At vælge værktøj, før man har set, hvilke systemer det skal kobles til.</li>
+<li>At bygge på en personlig konto. Når personen stopper, holder arbejdsgangene op eller bliver låst.</li>
+<li>At lade et AI-trin sende beskeder til kunder, uden at nogen kontrollerer de første ugers output.</li>
+<li>At springe fejlalarmer over, så en brudt arbejdsgang tier i dagevis.</li>
+<li>At bygge én kæmpe arbejdsgang i stedet for små, der hver løser ét job.</li>
+<li>At afgøre dataspørgsmålet efter byggeriet. Hvor data behandles, skal aftales før den første arbejdsgang.</li>
+</ul>
+<h2>Sådan arbejder vi med værktøjerne</h2>
+<p>Vi bygger med alle tre og har ingen grund til at skubbe til et af dem. Vi vælger det værktøj, der passer til dine systemer og dit team, og vi fortæller dig hvorfor. Hvert projekt starter med en flaskehals, et klart mål og det tal, det skal flytte. Omfang og tidsplan ligger fast, før arbejdet begynder.</p>
+<p>Vi sætter værktøjerne op på konti, du selv ejer, så du beholder arbejdsgangene, hvis vi skilles. Datareglerne, for eksempel GDPR og hvor data hostes, aftaler vi på forhånd. Vi afslutter med dokumenteret overlevering og oplæring, og vi bygger, så dit team kan ændre det, vi har lavet, uden at skrive kode.</p>
+<h2>Ofte stillede spørgsmål</h2>
+<h3>Er n8n gratis?</h3>
+<p>Community Edition er gratis at selvhoste, og koden ligger på GitHub. De hostede planer er betalte og starter ved 20 euro om måneden ved årlig betaling, for 2.500 kørsler. Selvhosting er uden licensgebyr, men ikke uden arbejde: du skal bruge en server og en, der vedligeholder den.</p>
+<h3>Er Make billigere end Zapier?</h3>
+<p>Det afhænger af arbejdsgangen, og vi kan ikke oplyse en pris for Make, fordi prissiden, vi læste, ikke viste tal for de betalte planer. Make har en gratisplan med 1.000 kreditter om måneden, og Zapiers gratisplan har 100 opgaver. En kredit og en opgave tælles forskelligt, så sammenlign ved at køre din rigtige arbejdsgang igennem hver leverandørs prisberegner.</p>
+<h3>Hvilket værktøj holder data i EU?</h3>
+<p>n8ns hostede planer gemmer data i Frankfurt i Tyskland, og selvhostet n8n holder data, hvor du selv hoster det. Siderne fra Make og Zapier, vi læste, angiver GDPR-overholdelse, men nævner ingen dataregion. Betyder regionen noget for dig, så spørg leverandøren skriftligt, før du bygger.</p>
+<h3>Kan jeg skifte værktøj senere?</h3>
+<p>Ja, men arbejdsgange kan ikke kopieres fra det ene værktøj til det andet. De skal bygges igen. Dokumentationen, logikken og listen over systemer kan genbruges, og derfor dokumenterer vi hver arbejdsgang, vi bygger.</p>
+<h3>Skal jeg have en udvikler for at bruge værktøjerne?</h3>
+<p>Ikke til almindelige arbejdsgange. Alle tre kan bruges uden at skrive kode. En udvikler er en hjælp, når du selvhoster n8n, når du kobler systemer uden connector, eller når en arbejdsgang bliver stor og skal have en ryddelig opbygning.</p>
+<h3>Kan værktøjerne køre AI-agenter?</h3>
+<p>Ja. n8n har en AI Agent-node med menneskelig godkendelse af værktøjskald, Make har AI-agenter, og Zapier har Zapier Agents. En agent skal stadig have en klar opgave, grænser for, hvad den må, og en person, der kontrollerer resultatet.</p>
+<p>Læs mere om <a href="/da/ai-automatisering/">AI-automatisering</a> og <a href="/da/ai-agenter/">AI-agenter</a>, eller <a href="/da/kontakt/">kontakt os</a> med den proces, du vil automatisere.</p>
+<h2>Kilder</h2>
+<p>Leverandørsider, vi har læst, tjekket 19. november 2026:</p>
+<ul>
+<li><a href="https://n8n.io/pricing/" rel="noopener">n8n priser</a>: https://n8n.io/pricing/</li>
+<li><a href="https://n8n.io/" rel="noopener">n8n forside</a>: https://n8n.io/</li>
+<li><a href="https://docs.n8n.io/hosting/community-edition-features/" rel="noopener">n8n Community Edition-funktioner</a>: https://docs.n8n.io/hosting/community-edition-features/</li>
+<li><a href="https://www.make.com/en/pricing" rel="noopener">Make priser</a>: https://www.make.com/en/pricing</li>
+<li><a href="https://www.make.com/en" rel="noopener">Make forside</a>: https://www.make.com/en</li>
+<li><a href="https://www.make.com/en/security" rel="noopener">Make sikkerhed</a>: https://www.make.com/en/security</li>
+<li><a href="https://zapier.com/pricing" rel="noopener">Zapier priser</a>: https://zapier.com/pricing</li>
+<li><a href="https://zapier.com/" rel="noopener">Zapier forside</a>: https://zapier.com/</li>
+</ul>
+</article>
+</div>
+<section class="band svc-close" aria-labelledby="close-h">
+<h2 class="h2" id="close-h" data-reveal="title">Usikker på, hvilket <span class="nb">værktøj der <em>passer</em>?</span></h2>
+<p data-reveal="text">Fortæl os, hvad du vil automatisere, og hvilke systemer du bruger. Så siger vi, hvilket værktøj vi ville bygge det i.</p>
+<a class="btn" href="/da/kontakt/" data-reveal="text">Kontakt os</a>
+</section>
+</main>
+<!-- footer:start -->
+<footer class="foot">
+  <div class="foot-in">
+    <div class="foot-top">
+      <div>
+        <a class="mark" href="/da/" aria-label="Mugisha, forside">Mugisha<i class="dot">.</i></a>
+        <p>En AI-partner, du kan stole på, når du vil vokse.</p>
+      </div>
+      <nav aria-label="Ydelser"><h4>Ydelser</h4><ul><li><a href="/da/ai-konsulent/">AI-konsulent</a></li><li><a href="/da/ai-automatisering/">AI-automatisering</a></li><li><a href="/da/ai-agenter/">AI-agenter</a></li><li><a href="/da/ai-implementering/">AI-implementering</a></li><li><a href="/da/ai-chatbot/">AI-chatbot</a></li><li><a href="/da/ydelser/#software">Specialudviklet software</a></li><li><a href="/da/ydelser/#web">Webudvikling</a></li></ul></nav>
+      <nav aria-label="Virksomhed"><h4>Virksomhed</h4><ul><li><a href="/da/ydelser/">Ydelser</a></li><li><a href="/da/om-os/">Om os</a></li><li><a href="/da/kontakt/">Kontakt</a></li></ul></nav>
+      <div><h4>Skriv til os</h4><ul><li><a class="mail" href="mailto:patrick@mugishamarketing.com">patrick@mugishamarketing.com</a></li><li><a class="li" href="https://www.linkedin.com/in/patrickmugishahansen/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>LinkedIn</a></li></ul></div>
+    </div>
+    <div class="legal"><span>&copy; 2026 Mugisha Marketing</span><span><a href="/da/handelsbetingelser/">Handelsbetingelser</a> &nbsp;&middot;&nbsp; <a href="/da/privatlivspolitik/">Privatlivspolitik</a></span></div>
+  </div>
+</footer>
+<!-- footer:end -->
+</body>
+</html>
