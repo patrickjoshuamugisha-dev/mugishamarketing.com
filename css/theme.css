@@ -22,7 +22,7 @@
   /* font families and weights */
   --serif:'IvyPresto Headline',Georgia,'Times New Roman',serif;
   --sans:'Neue Haas Unica',system-ui,-apple-system,'Segoe UI',sans-serif;
-  --mark:'Hedvig Letters Serif',Georgia,serif;
+  --mark:'IvyPresto Headline',Georgia,serif;
   --serif-w:300; --serif-s:100%;  /* IvyPresto Headline Light, as theirs */
   --track:-.2px;   /* their headline tracking */
   --serif-fix:1;
@@ -84,7 +84,7 @@ ul,ol{list-style:none}
 /* ---------- Header (their numbers: 102 high, 64 side padding, 18px links, 30px between; fixed px so it matches at every width) ---------- */
 .site-header{position:fixed;inset:0 0 auto 0;z-index:50;height:102px;padding:0 64px;display:flex;align-items:center;justify-content:space-between;background:transparent;border:0;transition:background-color var(--dur-base) ease,-webkit-backdrop-filter var(--dur-base) ease,backdrop-filter var(--dur-base) ease}
 .site-header.is-scrolled{background:rgba(247,245,246,.88);-webkit-backdrop-filter:blur(18px) saturate(1.2);backdrop-filter:blur(18px) saturate(1.2)}
-.mark{font-family:var(--mark);font-size:1.75rem;letter-spacing:-.018em;line-height:1;color:var(--ink)}
+.mark{font-family:var(--mark);font-weight:400;font-size:1.75rem;letter-spacing:-.01em;line-height:1;color:var(--ink)}
 .site-header .mark{font-size:42px;margin-top:-2px}
 .nav-r{display:flex;align-items:center;gap:0}
 .links{display:flex;align-items:center;margin:0 30px 0 0}
