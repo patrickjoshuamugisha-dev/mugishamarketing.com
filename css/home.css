@@ -166,3 +166,5 @@
 /* phones and tablets: the M sits under the text, never shifted (the desktop shift would push it off screen) */
 @media (max-width:1024px){.hero .hero-m video{transform:none;inset:-8px 0 -8px -8px;width:calc(100% + 8px)}}
 @media (max-width:1024px){.hero .hero-m video{-webkit-mask-image:linear-gradient(to right,#000 84%,transparent 84%),linear-gradient(to bottom,#000 74%,transparent 94%);mask-image:linear-gradient(to right,#000 84%,transparent 84%),linear-gradient(to bottom,#000 74%,transparent 94%);-webkit-mask-size:100% 100%,18% 100%;mask-size:100% 100%,18% 100%;-webkit-mask-position:0 0,100% 0;mask-position:0 0,100% 0;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat}}
+
+.what-p a{color:inherit;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em}

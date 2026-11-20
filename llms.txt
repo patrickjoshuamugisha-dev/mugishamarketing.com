@@ -5,11 +5,31 @@
 ## English
 - [Home](https://mugishamarketing.com/): what we do and who we help
 - [Services](https://mugishamarketing.com/services/): AI agents and automations, AI audit, custom software, web development
+- [AI consultant](https://mugishamarketing.com/ai-consultant/): advice on where AI fits your business and what to do first
+- [AI automation](https://mugishamarketing.com/ai-automation/): workflows that move work and data between your systems
+- [AI agents](https://mugishamarketing.com/ai-agents/): AI that handles one narrow job with limits and a person in the loop
+- [AI implementation](https://mugishamarketing.com/ai-implementation/): taking a chosen AI solution from plan to daily use
+- [AI chatbot](https://mugishamarketing.com/ai-chatbot/): a website chatbot that answers from your own material
+- [AI guides](https://mugishamarketing.com/guides/): hub listing every guide
+- [What is agentic AI](https://mugishamarketing.com/guides/what-is-agentic-ai/): definition, comparison with chatbots and automation, examples, safety and EU rules
+- [n8n vs Make vs Zapier](https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/): hosting, pricing model, AI features and data location compared
 - [About](https://mugishamarketing.com/about/): how the company began and how we work
 - [Contact](https://mugishamarketing.com/contact/): the contact form
+- [Privacy policy](https://mugishamarketing.com/privacy-policy/): how we handle personal data
+- [Terms of service](https://mugishamarketing.com/terms-of-service/): terms for our work
 
 ## Dansk
 - [Forside](https://mugishamarketing.com/da/): AI-bureau i København
 - [Ydelser](https://mugishamarketing.com/da/ydelser/): AI-automatisering, AI-agenter, AI-implementering, AI-rådgivning
-- [Om os](https://mugishamarketing.com/da/om-os/)
-- [Kontakt](https://mugishamarketing.com/da/kontakt/)
+- [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): rådgivning om, hvor AI passer i din virksomhed, og hvad du gør først
+- [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/): arbejdsgange, der flytter arbejde og data mellem dine systemer
+- [AI-agenter](https://mugishamarketing.com/da/ai-agenter/): AI, der tager en afgrænset opgave med grænser og et menneske i løkken
+- [AI-implementering](https://mugishamarketing.com/da/ai-implementering/): fra plan til daglig brug af en valgt AI-løsning
+- [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/): en chatbot på hjemmesiden, der svarer ud fra dit eget materiale
+- [Viden om AI](https://mugishamarketing.com/da/viden/): oversigt over alle guides
+- [Hvad er agentisk AI](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/): definition, forskel på chatbot og automatisering, eksempler, sikkerhed og EU-regler
+- [n8n, Make eller Zapier](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/): hosting, prismodel, AI-funktioner og placering af data sammenlignet
+- [Om os](https://mugishamarketing.com/da/om-os/): hvordan firmaet blev til, og hvordan vi arbejder
+- [Kontakt](https://mugishamarketing.com/da/kontakt/): kontaktformularen
+- [Privatlivspolitik](https://mugishamarketing.com/da/privatlivspolitik/): sådan behandler vi personoplysninger
+- [Handelsbetingelser](https://mugishamarketing.com/da/handelsbetingelser/): vilkår for vores arbejde
