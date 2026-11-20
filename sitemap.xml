@@ -196,4 +196,18 @@
     <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/what-is-agentic-ai/"/>
   </url>
+  <url>
+    <loc>https://mugishamarketing.com/guides/ai-in-danish-businesses/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/ai-in-danish-businesses/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/ai-in-danish-businesses/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/ai-in-danish-businesses/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/ai-in-danish-businesses/"/>
+  </url>
 </urlset>
