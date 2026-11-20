@@ -104,7 +104,7 @@
      "name": "Skal vi have teknikere ansat?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Nej. Vi tager os af det tekniske fra start til slut. Dit team kan ændre det, vi bygger, uden kode, og vi afslutter med en dokumenteret overlevering og oplæring."
+      "text": "Nej. Du skal bruge en person, der ved, hvilken opgave agenten overtager, og som kan godkende dens første resultater. Resten af det tekniske klarer vi. Dit team kan ændre det, vi bygger, uden kode."
      }
     },
     {
@@ -179,16 +179,21 @@
       <div class="svc-text">
         <span class="eyebrow" data-reveal="text">Hvad er en AI-agent?</span>
         <h2 class="h2 svc-h" id="what-h" data-reveal="title">Hvad er en <span class="nb">AI-<em>agent</em>?</span></h2>
-        <p class="svc-lead" data-reveal="text">En AI-agent er et program, der bruger en sprogmodel som Claude eller GPT til at forstå en opgave og handle på den. En chatbot svarer kun. En agent gør noget: den slår en kunde op, udfylder en post, skriver et svarudkast eller booker et møde.</p>
-        <p class="svc-lead" data-reveal="text">Tænk på den som en ny kollega til én afgrænset opgave. Du giver den et mål, de værktøjer den må bruge, og regler for, hvornår den skal stoppe og spørge et menneske. Det kaldes også <a href="/da/viden/hvad-er-agentisk-ai/" style="text-decoration:underline">agentisk AI</a> (agentic AI).</p>
+        <p class="svc-lead" data-reveal="text">En AI-agent er et program, der bruger en sprogmodel som Claude eller GPT til at forstå en opgave og selv udføre trinene i dine systemer, for eksempel at slå en kunde op, udfylde en post, skrive et svarudkast eller booke et møde. Den arbejder efter et mål og regler for, hvornår den skal stoppe og spørge et menneske.</p>
+        <p class="svc-lead" data-reveal="text">Tænk på den som en ny kollega til én afgrænset opgave: du giver den målet og de værktøjer, den må bruge. Det kaldes også agentisk AI (agentic AI). Hvad der adskiller det fra almindelig automatisering, og hvornår det ikke er det rigtige valg, står i <a href="/da/viden/hvad-er-agentisk-ai/" style="text-decoration:underline">vores guide til agentisk AI</a>.</p>
       </div>
       <div class="svc-ph" data-reveal="image" data-pan><picture><source type="image/webp" srcset="/img/photos/hands-1-800.webp 800w, /img/photos/hands-1-1600.webp 1600w" sizes="(max-width: 1024px) 100vw, 60vw"><img src="/img/photos/hands-1-1600.jpg" srcset="/img/photos/hands-1-800.jpg 800w, /img/photos/hands-1-1600.jpg 1600w" sizes="(max-width: 1024px) 100vw, 60vw" width="1600" height="1067" alt="Hænder, der skriver på en bærbar computer ved et skrivebord" loading="lazy" decoding="async" style="object-position:50% 50%"></picture></div>
     </div>
-    <div class="svc-facts">
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">En almindelig automatisering</h3><p>Følger faste trin: sker det her, så gør det der. Den passer til arbejde, der aldrig varierer.</p></div>
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">En chatbot</h3><p>Taler med folk og svarer på spørgsmål. Den stopper som regel ved svaret.</p></div>
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">En AI-agent</h3><p>Læser rodet input, beslutter hvad der skal ske og handler på tværs af flere systemer. Et menneske tjekker de trin, du vælger.</p></div>
-    </div>
+    <div class="svc-compare">
+    <h3 class="kw-h3">Automatisering, chatbot og AI-agent side om side</h3>
+    <div class="kw-tbl" role="region" aria-label="Automatisering, chatbot og AI-agent sammenlignet" tabindex="0"><table>
+<thead><tr><th scope="col"></th><th scope="col">Hvad den gør</th><th scope="col">Hvem bestemmer trinene</th><th scope="col">Passer, når</th><th scope="col">Største risiko</th></tr></thead>
+<tbody>
+<tr><th scope="row">Almindelig automatisering</th><td>Kører de samme trin hver gang: sker A, gør systemet B.</td><td>Du, på forhånd. Trinene er skrevet ned som regler.</td><td>Arbejdet varierer ikke, og input er ensartet.</td><td>Den går i stå eller giver et forkert resultat, når input afviger fra reglerne.</td></tr>
+<tr><th scope="row">Chatbot</th><td>Svarer på spørgsmål i en samtale ud fra det materiale, den har fået.</td><td>Den besøgende vælger emnet. Svaret kommer fra dit materiale.</td><td>Mange stiller de samme spørgsmål, og et svar er nok.</td><td>Den svarer forkert eller upræcist, hvis materialet er mangelfuldt.</td></tr>
+<tr><th scope="row">AI-agent</th><td>Læser rodet input, vælger næste skridt og udfører det i dine systemer.</td><td>Agenten vælger inden for de rammer, du har sat. Et menneske godkender de trin, du udpeger.</td><td>Opgaven har flere trin og kræver lidt skøn, for eksempel at kvalificere en henvendelse.</td><td>Den handler forkert på egen hånd, hvis rammerne er for løse. Derfor sætter vi regler, før den går live.</td></tr>
+</tbody></table></div>
+  </div>
   </section>
   <section class="svc-part svc-part--flip" id="work" aria-labelledby="work-h">
     <div class="svc-top">
@@ -210,26 +215,42 @@
     <div class="svc-text">
       <span class="eyebrow" data-reveal="text">Værktøjer og målgruppe</span>
       <h2 class="h2 svc-h" id="tools-h" data-reveal="title">Bygget med de værktøjer, <span class="nb">der <em>passer</em>.</span></h2>
-      <p class="svc-lead" data-reveal="text">AI-agenter er en del af det bredere arbejde med <a href="/da/ai-automatisering/">AI-automatisering</a> og <a href="/da/ai-implementering/">AI-implementering</a>. Ved du ikke, hvor du skal starte, giver en AI-audit hos en <a href="/da/ai-konsulent/">AI-konsulent</a> dig en prioriteret køreplan. Alle ydelser står på siden om <a href="/da/ydelser/">vores ydelser</a>.</p>
+      <p class="svc-lead" data-reveal="text">AI-agenter er en del af det bredere arbejde med <a href="/da/ai-automatisering/">AI-automatisering</a> og <a href="/da/ai-implementering/">AI-implementering</a>. Er du i tvivl om, hvilken opgave en agent skal tage først, giver en AI-audit hos en <a href="/da/ai-konsulent/">AI-konsulent</a> dig en prioriteret køreplan. Alle ydelser står på siden om <a href="/da/ydelser/">vores ydelser</a>.</p>
     </div>
     <div class="svc-facts">
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Værktøjer vi bygger med</h3><p>Vi bygger med n8n, Zapier og Make til at forbinde systemer, Claude og GPT til at læse og skrive, HighLevel til kundeoplysninger og forløb, ManyChat til chatkanaler og Instantly til udgående mails. <a href="/da/viden/n8n-make-eller-zapier/" style="text-decoration:underline">Sammenlign n8n, Make og Zapier</a>, eller se al vores <a href="/da/viden/" style="text-decoration:underline">viden om AI</a>.</p></div>
+      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Værktøjer vi bygger med</h3><p>Vi bygger med n8n, Zapier og Make til at forbinde systemer, Claude og GPT til at læse og skrive, HighLevel til kundeoplysninger og forløb, ManyChat til chatkanaler og Instantly til udgående mails. Står du mellem n8n, Make og Zapier? <a href="/da/viden/n8n-make-eller-zapier/" style="text-decoration:underline">Vores guide stiller dem op mod hinanden</a>, og resten af vores <a href="/da/viden/" style="text-decoration:underline">viden om AI</a> ligger samlet.</p></div>
       <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Dine egne systemer</h3><p>Agenterne arbejder sammen med de systemer, du allerede bruger, for eksempel mail, CRM, kalender eller webshop. Alt sættes op på konti, din virksomhed selv ejer.</p></div>
       <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Hvem det er til</h3><p>Ejerledede og mellemstore virksomheder med cirka 10 til 500 ansatte, i Danmark og udlandet. Vi har hjulpet over 100 virksomheder på seks kontinenter.</p></div>
     </div>
+  </section>
+  <section class="svc-part kw-add" id="regler" aria-labelledby="regler-h">
+    <span class="eyebrow" data-reveal="text">05, Regler</span>
+    <h2 class="h2 svc-h" id="regler-h" data-reveal="title">Regler, vi sætter, <span class="nb">før en agent <em>går live</em>.</span></h2>
+    <p class="svc-lead" data-reveal="text">En agent må kun det, du har givet den lov til. Det her skal være på plads, før den arbejder på rigtige sager:</p>
+    <ul class="kw-check">
+      <li>Ét klart mål og ét tal, der viser, om agenten virker.</li>
+      <li>En liste over, hvad den selv må gøre, og hvad den aldrig må røre.</li>
+      <li>De trin, et menneske godkender, før noget forlader huset: udgående mails, ændringer i kundedata og alt, der handler om penge.</li>
+      <li>Hvornår den skal stoppe og spørge: når den er i tvivl, og når input ser usædvanligt ud.</li>
+      <li>Hvilke systemer og felter den har adgang til, og ikke mere end det.</li>
+      <li>En log over, hvad agenten har gjort, så en medarbejder kan se og rette, hvad der skete.</li>
+      <li>En test på rigtige sager, før den kommer i nærheden af en kunde.</li>
+      <li>En person med navn, der ser på resultaterne de første uger og kan slå agenten fra.</li>
+      <li>Aftalte regler for, hvilke data den må bruge, og hvor de behandles.</li>
+    </ul>
   </section>
   </div>
 
   <section class="svc-process on-dark" aria-labelledby="proc-h">
     <div class="svc-process-head">
-      <span class="eyebrow" data-reveal="text">Sådan arbejder vi</span>
+      <span class="eyebrow" data-reveal="text">Sådan bygger vi en agent</span>
       <h2 class="h2" id="proc-h" data-reveal="title"><span class="nb">Diagnose, udvikling,</span> <em>forbedring</em>.</h2>
-      <p class="svc-lead" data-reveal="text">Hvert projekt har et fast omfang og en tidsplan, som vi aftaler, før arbejdet begynder. Hver agent starter med en flaskehals, et klart mål og de KPI&rsquo;er, der viser, om den virker.</p>
+      <p class="svc-lead" data-reveal="text">Omfang og tidsplan ligger fast, før vi bygger. Hver agent starter med en flaskehals, et klart mål og de KPI&rsquo;er, der viser, om den virker.</p>
     </div>
     <ol class="svc-steps">
       <li class="svc-step" data-reveal="text"><span class="svc-n">01</span><h3>Diagnose</h3><p>Vi følger arbejdet, som det kører i dag, taler med dem, der udfører det, og vælger den opgave, hvor en agent giver mest.</p></li>
-      <li class="svc-step" data-reveal="text"><span class="svc-n">02</span><h3>Udvikling</h3><p>Vi bygger agenten på konti, du selv ejer, tester den på rigtige sager og fastsætter reglerne for, hvornår den overdrager til et menneske. Vi afslutter med en dokumenteret overlevering og oplæring.</p></li>
-      <li class="svc-step" data-reveal="text"><span class="svc-n">03</span><h3>Forbedring</h3><p>Efter lanceringen følger vi det aftalte tal, samler feedback og gør agenten bedre. Vil du hellere køre den selv, oplærer vi dit team til det.</p></li>
+      <li class="svc-step" data-reveal="text"><span class="svc-n">02</span><h3>Udvikling</h3><p>Vi bygger agenten på konti, du selv ejer, tester den på rigtige sager og fastsætter reglerne for, hvornår den overdrager til et menneske. Inden den går live, gennemgår vi den med dit team og afleverer en skriftlig beskrivelse.</p></li>
+      <li class="svc-step" data-reveal="text"><span class="svc-n">03</span><h3>Forbedring</h3><p>Efter lanceringen følger vi det aftalte tal, samler feedback og gør agenten bedre. Skal dit team have ansvaret for agenten, lærer vi dem at følge den og rette den til.</p></li>
     </ol>
   </section>
 
@@ -244,7 +265,7 @@
         <div class="qa"><h3><button class="q" id="q2" aria-expanded="false" aria-controls="a2"><span class="pm" aria-hidden="true"></span>Kan en AI-agent arbejde sammen med de systemer, vi allerede bruger?</button></h3><div class="a" id="a2" inert role="region" aria-labelledby="q2"><div><p>Ja, i de fleste tilfælde. Vi forbinder agenter til dine egne systemer, for eksempel mail, CRM, kalender eller webshop, med n8n, Zapier eller Make. Hvis et system ikke kan forbindes direkte, ser vi på mulighederne i diagnosefasen og fortæller dig, hvad der kan lade sig gøre, før vi bygger.</p></div></div></div>
         <div class="qa"><h3><button class="q" id="q3" aria-expanded="false" aria-controls="a3"><span class="pm" aria-hidden="true"></span>Kan en AI-agent lave fejl?</button></h3><div class="a" id="a3" inert role="region" aria-labelledby="q3"><div><p>Ja, ligesom mennesker kan. Derfor fastsætter vi reglerne, før den går live: hvad agenten selv må gøre, hvad et menneske godkender først, og hvornår den skal stoppe og spørge. Vi tester den på rigtige sager, og efter lanceringen følger vi det aftalte tal og forbedrer agenten.</p></div></div></div>
         <div class="qa"><h3><button class="q" id="q4" aria-expanded="false" aria-controls="a4"><span class="pm" aria-hidden="true"></span>Hvad koster en AI-agent, og hvor lang tid tager det?</button></h3><div class="a" id="a4" inert role="region" aria-labelledby="q4"><div><p>Begge dele afhænger af omfanget. Hvert projekt har et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder, så du ved, hvad du kan forvente. Første skridt er at fortælle os, hvilken opgave du gerne vil af dit teams bord.</p></div></div></div>
-        <div class="qa"><h3><button class="q" id="q5" aria-expanded="false" aria-controls="a5"><span class="pm" aria-hidden="true"></span>Skal vi have teknikere ansat?</button></h3><div class="a" id="a5" inert role="region" aria-labelledby="q5"><div><p>Nej. Vi tager os af det tekniske fra start til slut. Dit team kan ændre det, vi bygger, uden kode, og vi afslutter med en dokumenteret overlevering og oplæring.</p></div></div></div>
+        <div class="qa"><h3><button class="q" id="q5" aria-expanded="false" aria-controls="a5"><span class="pm" aria-hidden="true"></span>Skal vi have teknikere ansat?</button></h3><div class="a" id="a5" inert role="region" aria-labelledby="q5"><div><p>Nej. Du skal bruge en person, der ved, hvilken opgave agenten overtager, og som kan godkende dens første resultater. Resten af det tekniske klarer vi. Dit team kan ændre det, vi bygger, uden kode.</p></div></div></div>
         <div class="qa"><h3><button class="q" id="q6" aria-expanded="false" aria-controls="a6"><span class="pm" aria-hidden="true"></span>Er vores data sikre, når en AI-agent bruger dem?</button></h3><div class="a" id="a6" inert role="region" aria-labelledby="q6"><div><p>Vi aftaler på forhånd, hvilke data agenten bruger, og hvor de ender. Vi vælger værktøjer, der lever op til dine krav, for eksempel GDPR og hosting i EU, og sætter alt op på konti, din virksomhed selv ejer.</p></div></div></div>
     </div>
   </section>

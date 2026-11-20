@@ -211,3 +211,32 @@
 @media (min-width:1100px){
   .legal-text .tbl-wrap{width:min(72rem,calc(100vw - 8rem));position:relative;left:50%;transform:translateX(-50%)}
 }
+
+/* ===== Keyword pages: tables and checklists (2026-11-20) ===== */
+.kw-add .svc-h{max-width:20em}
+.kw-add .svc-lead{max-width:44rem}
+.kw-h3{font-family:var(--serif);font-weight:var(--serif-w);letter-spacing:var(--track);font-size:clamp(1.5rem,2.2vw,2rem);line-height:1.2;margin-top:var(--sp-6);text-wrap:balance;max-width:28em}
+.kw-add .svc-lead+.kw-tbl,.kw-add .svc-h+.kw-h3{margin-top:var(--sp-4)}
+.kw-p{margin-top:var(--sp-2);line-height:1.55;max-width:44rem}
+.kw-tbl{margin-top:var(--sp-3);max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
+.kw-tbl:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.kw-tbl table{border-collapse:collapse;width:100%;min-width:44rem;line-height:1.45;font-size:1rem}
+.kw-tbl th,.kw-tbl td{border:1px solid var(--line);padding:.75rem 1rem;text-align:left;vertical-align:top}
+.kw-tbl thead th{font-weight:500;font-size:var(--fs-sm);letter-spacing:.1em;text-transform:uppercase;color:var(--grey);background:rgba(26,26,26,.05)}
+.kw-tbl tbody th{font-weight:500;min-width:9.5rem}
+.kw-compare{margin-top:var(--sp-6);padding-top:var(--sp-4);border-top:1px solid var(--ink)}
+.kw-compare .kw-h3{margin-top:0}
+.kw-check{list-style:none;margin:var(--sp-3) 0 0;padding:0;display:grid;gap:.75rem;max-width:46rem}
+.kw-check li{position:relative;padding-left:2.25rem;line-height:1.5}
+.kw-check li::before{content:"";position:absolute;left:0;top:.2rem;width:1.15rem;height:1.15rem;border:1.5px solid var(--ink);border-radius:.25rem}
+.kw-check li::after{content:"";position:absolute;left:.4rem;top:.32rem;width:.35rem;height:.7rem;border:solid var(--ink);border-width:0 2px 2px 0;transform:rotate(40deg)}
+.kw-check strong{font-weight:500}
+@media (max-width:1024px){
+  .kw-h3{margin-top:var(--sp-5)}
+  .kw-compare{margin-top:var(--sp-5)}
+}
+@media (max-width:640px){
+  .kw-tbl table{font-size:.9375rem}
+  .kw-tbl th,.kw-tbl td{padding:.625rem .75rem}
+  .kw-check li{padding-left:2rem}
+}

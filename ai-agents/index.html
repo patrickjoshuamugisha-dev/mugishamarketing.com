@@ -101,10 +101,10 @@
     },
     {
      "@type": "Question",
-     "name": "Do we need technical people in-house?",
+     "name": "Do we need to hire technical staff for an AI agent?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No. We handle the technical side from start to finish. Your team can change what we build without code, and we finish with a documented handover and training."
+      "text": "No. You need one person who knows which task the agent takes over and can approve its first results. We handle the rest of the technical side. Your team can change what we build without code."
      }
     },
     {
@@ -112,7 +112,7 @@
      "name": "Is our data safe with an AI agent?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "We agree up front which data the agent uses and where it goes. We choose tools that meet your requirements, such as GDPR and EU hosting, and set everything up on accounts your business owns."
+      "text": "We agree up front which data the agent may read and where its output is stored. Tools are picked to match your requirements, such as GDPR and EU hosting, and the agent runs on accounts your business owns. It gets access only to the systems and fields its task needs."
      }
     }
    ]
@@ -179,16 +179,21 @@
       <div class="svc-text">
         <span class="eyebrow" data-reveal="text">What is an AI agent?</span>
         <h2 class="h2 svc-h" id="what-h" data-reveal="title">What is an <span class="nb">AI <em>agent</em>?</span></h2>
-        <p class="svc-lead" data-reveal="text">An AI agent is a program that uses a language model, such as Claude or GPT, to understand a task and then act on it. A chatbot only answers. An agent does things: it looks up a customer, fills in a record, drafts a reply or books a meeting.</p>
-        <p class="svc-lead" data-reveal="text">Think of it as a new colleague for one narrow job. You give it a goal, the tools it may use and rules for when it must stop and ask a person. You may also hear this called <a href="/guides/what-is-agentic-ai/" style="text-decoration:underline">agentic AI</a>.</p>
+        <p class="svc-lead" data-reveal="text">An AI agent is a program that uses a language model, such as Claude or GPT, to understand a task and carry out its steps in your systems, for example looking up a customer, filling in a record or booking a meeting. It works towards a goal and follows rules for when to stop and ask a person.</p>
+        <p class="svc-lead" data-reveal="text">Think of it as a new colleague for one narrow job: you give it the goal and the tools it may use. You may also hear this called agentic AI. What sets it apart from ordinary automation, and when it is the wrong choice, is covered in our <a href="/guides/what-is-agentic-ai/" style="text-decoration:underline">guide to agentic AI</a>.</p>
       </div>
       <div class="svc-ph" data-reveal="image" data-pan><picture><source type="image/webp" srcset="/img/photos/hands-1-800.webp 800w, /img/photos/hands-1-1600.webp 1600w" sizes="(max-width: 1024px) 100vw, 60vw"><img src="/img/photos/hands-1-1600.jpg" srcset="/img/photos/hands-1-800.jpg 800w, /img/photos/hands-1-1600.jpg 1600w" sizes="(max-width: 1024px) 100vw, 60vw" width="1600" height="1067" alt="Hands typing on a laptop at a desk" loading="lazy" decoding="async" style="object-position:50% 50%"></picture></div>
     </div>
-    <div class="svc-facts">
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">A rule-based automation</h3><p>Follows fixed steps: if this happens, do that. It suits work that never varies.</p></div>
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">A chatbot</h3><p>Talks with people and answers questions. It usually stops at the answer.</p></div>
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">An AI agent</h3><p>Reads messy input, decides what to do and acts across several systems, with a person checking the steps you choose.</p></div>
-    </div>
+    <div class="svc-compare">
+    <h3 class="kw-h3">Automation, chatbot and AI agent side by side</h3>
+    <div class="kw-tbl" role="region" aria-label="Automation, chatbot and AI agent compared" tabindex="0"><table>
+<thead><tr><th scope="col"></th><th scope="col">What it does</th><th scope="col">Who decides the steps</th><th scope="col">Fits when</th><th scope="col">Main risk</th></tr></thead>
+<tbody>
+<tr><th scope="row">Rule-based automation</th><td>Runs the same steps every time: if A happens, the system does B.</td><td>You, in advance. The steps are written down as rules.</td><td>The work does not vary and the input is uniform.</td><td>It stalls or gives a wrong result when the input departs from the rules.</td></tr>
+<tr><th scope="row">Chatbot</th><td>Answers questions in a conversation from the material it has been given.</td><td>The visitor picks the topic. The answer comes from your material.</td><td>Many people ask the same questions and an answer is enough.</td><td>It answers wrongly or vaguely if the material is incomplete.</td></tr>
+<tr><th scope="row">AI agent</th><td>Reads messy input, picks the next step and carries it out in your systems.</td><td>The agent chooses within the limits you set. A person approves the steps you name.</td><td>The task has several steps and needs some judgement, such as qualifying an enquiry.</td><td>It acts wrongly on its own if the limits are too loose, which is why we set rules before it goes live.</td></tr>
+</tbody></table></div>
+  </div>
   </section>
   <section class="svc-part svc-part--flip" id="work" aria-labelledby="work-h">
     <div class="svc-top">
@@ -213,23 +218,39 @@
       <p class="svc-lead" data-reveal="text">AI agents are one part of wider <a href="/ai-automation/">AI automation</a> and <a href="/ai-implementation/">AI implementation</a>. If you do not know where to start, an <a href="/ai-consultant/">AI audit with an AI consultant</a> gives you a prioritised roadmap. Every service is on our <a href="/services/">services page</a>.</p>
     </div>
     <div class="svc-facts">
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Tools we build with</h3><p>We build with n8n, Zapier and Make to connect systems, Claude and GPT to read and write, HighLevel for customer records and pipelines, ManyChat for chat channels and Instantly for email outreach. <a href="/guides/n8n-vs-make-vs-zapier/" style="text-decoration:underline">Compare n8n, Make and Zapier</a>, or browse all our <a href="/guides/" style="text-decoration:underline">AI guides</a>.</p></div>
-      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Your own systems</h3><p>Agents work with the systems you already run, such as your email, CRM, calendar or shop. Everything is set up on accounts your business owns.</p></div>
+      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Tools we build with</h3><p>We build with n8n, Zapier and Make to connect systems, Claude and GPT to read and write, HighLevel for customer records and pipelines, ManyChat for chat channels and Instantly for email outreach. Choosing between n8n, Make and Zapier? <a href="/guides/n8n-vs-make-vs-zapier/" style="text-decoration:underline">Our guide sets them side by side</a>, and the rest sits in our <a href="/guides/" style="text-decoration:underline">AI guides</a>.</p></div>
+      <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Your own systems</h3><p>Agents work with the systems you already run, such as your email, CRM, calendar or shop. Each connection is set up on accounts your business owns.</p></div>
       <div class="svc-fact" data-reveal="text"><h3 class="svc-label">Who it is for</h3><p>Owner-led and mid-size businesses with roughly 10 to 500 staff, in Denmark and abroad. We have helped 100+ businesses on six continents.</p></div>
     </div>
+  </section>
+  <section class="svc-part kw-add" id="rules" aria-labelledby="rules-h">
+    <span class="eyebrow" data-reveal="text">05, Rules</span>
+    <h2 class="h2 svc-h" id="rules-h" data-reveal="title">Rules we set <span class="nb">before an agent <em>goes live</em>.</span></h2>
+    <p class="svc-lead" data-reveal="text">An agent may only do what you have allowed it to do. This has to be in place before it works on real cases:</p>
+    <ul class="kw-check">
+      <li>One clear goal and one number that shows whether the agent works.</li>
+      <li>A list of what it may do on its own and what it must never touch.</li>
+      <li>The steps a person approves before anything leaves the building: outgoing email, changes to customer data and anything involving money.</li>
+      <li>When it must stop and ask: when it is unsure and when the input looks unusual.</li>
+      <li>Which systems and fields it can reach, and nothing beyond that.</li>
+      <li>A log of what the agent has done, so a team member can see and correct what happened.</li>
+      <li>A test on real cases before it comes near a customer.</li>
+      <li>A named person who reviews the results in the first weeks and can switch the agent off.</li>
+      <li>Agreed rules for which data it may use and where that data is processed.</li>
+    </ul>
   </section>
   </div>
 
   <section class="svc-process on-dark" aria-labelledby="proc-h">
     <div class="svc-process-head">
-      <span class="eyebrow" data-reveal="text">How we work</span>
+      <span class="eyebrow" data-reveal="text">How we build an agent</span>
       <h2 class="h2" id="proc-h" data-reveal="title"><span class="nb">Diagnose, build,</span> <em>improve</em>.</h2>
-      <p class="svc-lead" data-reveal="text">Every project has a fixed scope and timeline, agreed before work starts. Each agent begins with a bottleneck, a clear goal and the KPIs that show whether it works.</p>
+      <p class="svc-lead" data-reveal="text">Scope and timeline are fixed before we build. Each agent begins with a bottleneck, a clear goal and the KPIs that show whether it works.</p>
     </div>
     <ol class="svc-steps">
       <li class="svc-step" data-reveal="text"><span class="svc-n">01</span><h3>Diagnose</h3><p>We follow the work as it runs today, talk to the people who do it and pick the task where an agent pays off most.</p></li>
-      <li class="svc-step" data-reveal="text"><span class="svc-n">02</span><h3>Build</h3><p>We build the agent on accounts you own, test it on real cases and set the rules for when it hands over to a person. We finish with a documented handover and training.</p></li>
-      <li class="svc-step" data-reveal="text"><span class="svc-n">03</span><h3>Improve</h3><p>After launch we track the agreed number, collect feedback and improve the agent. If you would rather run it yourselves, we train your team to do it.</p></li>
+      <li class="svc-step" data-reveal="text"><span class="svc-n">02</span><h3>Build</h3><p>We build the agent on accounts you own, test it on real cases and set the rules for when it hands over to a person. Before it goes live we walk your team through it and leave written documentation.</p></li>
+      <li class="svc-step" data-reveal="text"><span class="svc-n">03</span><h3>Improve</h3><p>After launch we track the agreed number, collect feedback and improve the agent. If your team will own the agent, we train them to follow it and adjust it.</p></li>
     </ol>
   </section>
 
@@ -244,8 +265,8 @@
         <div class="qa"><h3><button class="q" id="q2" aria-expanded="false" aria-controls="a2"><span class="pm" aria-hidden="true"></span>Can an AI agent work with the systems we already use?</button></h3><div class="a" id="a2" inert role="region" aria-labelledby="q2"><div><p>Yes, in most cases. We connect agents to your own systems, such as your email, CRM, calendar or shop, with n8n, Zapier or Make. If a system cannot be connected directly, we look at the options in the diagnose step and tell you what is possible before we build.</p></div></div></div>
         <div class="qa"><h3><button class="q" id="q3" aria-expanded="false" aria-controls="a3"><span class="pm" aria-hidden="true"></span>Will an AI agent make mistakes?</button></h3><div class="a" id="a3" inert role="region" aria-labelledby="q3"><div><p>Sometimes, as people do. That is why we set the rules before launch: which tasks the agent may do alone, which ones a person approves first and when it must stop and ask. We test it on real cases, and after launch we track the agreed number and improve the agent.</p></div></div></div>
         <div class="qa"><h3><button class="q" id="q4" aria-expanded="false" aria-controls="a4"><span class="pm" aria-hidden="true"></span>How much does an AI agent cost, and how long does it take?</button></h3><div class="a" id="a4" inert role="region" aria-labelledby="q4"><div><p>Both depend on the scope. Each project has a fixed scope and timeline, agreed before work starts, so you know what to expect. The first step is to tell us which task you want off your team&rsquo;s desk.</p></div></div></div>
-        <div class="qa"><h3><button class="q" id="q5" aria-expanded="false" aria-controls="a5"><span class="pm" aria-hidden="true"></span>Do we need technical people in-house?</button></h3><div class="a" id="a5" inert role="region" aria-labelledby="q5"><div><p>No. We handle the technical side from start to finish. Your team can change what we build without code, and we finish with a documented handover and training.</p></div></div></div>
-        <div class="qa"><h3><button class="q" id="q6" aria-expanded="false" aria-controls="a6"><span class="pm" aria-hidden="true"></span>Is our data safe with an AI agent?</button></h3><div class="a" id="a6" inert role="region" aria-labelledby="q6"><div><p>We agree up front which data the agent uses and where it goes. We choose tools that meet your requirements, such as GDPR and EU hosting, and set everything up on accounts your business owns.</p></div></div></div>
+        <div class="qa"><h3><button class="q" id="q5" aria-expanded="false" aria-controls="a5"><span class="pm" aria-hidden="true"></span>Do we need to hire technical staff for an AI agent?</button></h3><div class="a" id="a5" inert role="region" aria-labelledby="q5"><div><p>No. You need one person who knows which task the agent takes over and can approve its first results. We handle the rest of the technical side. Your team can change what we build without code.</p></div></div></div>
+        <div class="qa"><h3><button class="q" id="q6" aria-expanded="false" aria-controls="a6"><span class="pm" aria-hidden="true"></span>Is our data safe with an AI agent?</button></h3><div class="a" id="a6" inert role="region" aria-labelledby="q6"><div><p>We agree up front which data the agent may read and where its output is stored. Tools are picked to match your requirements, such as GDPR and EU hosting, and the agent runs on accounts your business owns. It gets access only to the systems and fields its task needs.</p></div></div></div>
     </div>
   </section>
 
