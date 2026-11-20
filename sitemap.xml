@@ -224,4 +224,32 @@
     <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/ai-in-danish-businesses/"/>
   </url>
+  <url>
+    <loc>https://mugishamarketing.com/guides/what-is-an-ai-audit/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/what-is-an-ai-audit/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/what-is-an-ai-audit/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/what-is-an-ai-audit/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/what-is-an-ai-audit/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/guides/rpa-vs-ai-automation/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/rpa-vs-ai-automation/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/rpa-vs-ai-automation/"/>
+  </url>
+  <url>
+    <loc>https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mugishamarketing.com/guides/rpa-vs-ai-automation/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mugishamarketing.com/guides/rpa-vs-ai-automation/"/>
+  </url>
 </urlset>

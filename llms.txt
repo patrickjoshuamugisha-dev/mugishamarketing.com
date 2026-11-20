@@ -15,6 +15,8 @@
 - [What is agentic AI](https://mugishamarketing.com/guides/what-is-agentic-ai/): definition, comparison with chatbots and automation, examples, safety and EU rules
 - [AI in Danish businesses: figures and sources 2026](https://mugishamarketing.com/guides/ai-in-danish-businesses/): how many Danish companies use AI, for what, what holds them back, Denmark against the EU, AI Act dates; every figure with year and primary source
 - [n8n vs Make vs Zapier](https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/): hosting, pricing model, AI features and data location compared
+- [What is an AI audit](https://mugishamarketing.com/guides/what-is-an-ai-audit/): what an audit looks at, the ranked roadmap, audit vs strategy vs workshop vs readiness assessment, how to judge a report
+- [RPA vs AI automation](https://mugishamarketing.com/guides/rpa-vs-ai-automation/): RPA, workflow automation, AI automation and AI agents compared, with four examples and when to replace an RPA robot
 - [About](https://mugishamarketing.com/about/): how the company began and how we work
 - [Contact](https://mugishamarketing.com/contact/): the contact form
 - [Privacy policy](https://mugishamarketing.com/privacy-policy/): how we handle personal data
@@ -33,6 +35,8 @@
 - [Hvad er agentisk AI](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/): definition, forskel på chatbot og automatisering, eksempler, sikkerhed og EU-regler
 - [AI i danske virksomheder: tal og kilder 2026](https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/): hvor mange danske virksomheder bruger AI, til hvad, hvad der holder dem tilbage, Danmark mod EU, AI-forordningens datoer; hvert tal med år og primær kilde
 - [n8n, Make eller Zapier](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/): hosting, prismodel, AI-funktioner og placering af data sammenlignet
+- [Hvad er en AI-audit](https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/): hvad en audit ser på, den rangerede køreplan, audit mod strategi, workshop og readiness, og hvordan du vurderer en rapport
+- [RPA eller AI-automatisering](https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/): RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet, med fire eksempler og hvornår en RPA-robot skal skiftes
 - [Om os](https://mugishamarketing.com/da/om-os/): hvordan firmaet blev til, og hvordan vi arbejder
 - [Kontakt](https://mugishamarketing.com/da/kontakt/): kontaktformularen
 - [Privatlivspolitik](https://mugishamarketing.com/da/privatlivspolitik/): sådan behandler vi personoplysninger
