@@ -7,6 +7,7 @@
 - [Services](https://mugishamarketing.com/services/): AI agents and automations, AI audit, custom software, web development
 - [AI consultant](https://mugishamarketing.com/ai-consultant/): advice on where AI fits your business and what to do first
 - [AI automation](https://mugishamarketing.com/ai-automation/): workflows that move work and data between your systems
+- [n8n consultant](https://mugishamarketing.com/n8n-consultant/): n8n workflows built, taken over and handed over to your team; n8n Cloud or your own server compared
 - [AI agents](https://mugishamarketing.com/ai-agents/): AI that handles one narrow job with limits and a person in the loop
 - [AI implementation](https://mugishamarketing.com/ai-implementation/): taking a chosen AI solution from plan to daily use
 - [AI chatbot](https://mugishamarketing.com/ai-chatbot/): a website chatbot that answers from your own material
@@ -24,6 +25,7 @@
 - [Ydelser](https://mugishamarketing.com/da/ydelser/): AI-automatisering, AI-agenter, AI-implementering, AI-rådgivning
 - [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): rådgivning om, hvor AI passer i din virksomhed, og hvad du gør først
 - [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/): arbejdsgange, der flytter arbejde og data mellem dine systemer
+- [n8n-konsulent](https://mugishamarketing.com/da/n8n-konsulent/): n8n-arbejdsgange bygget, overtaget og afleveret til dit team; n8n Cloud eller egen server sammenlignet
 - [AI-agenter](https://mugishamarketing.com/da/ai-agenter/): AI, der tager en afgrænset opgave med grænser og et menneske i løkken
 - [AI-implementering](https://mugishamarketing.com/da/ai-implementering/): fra plan til daglig brug af en valgt AI-løsning
 - [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/): en chatbot på hjemmesiden, der svarer ud fra dit eget materiale
