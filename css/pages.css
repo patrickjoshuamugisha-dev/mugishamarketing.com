@@ -242,3 +242,5 @@
 }
 .kw-src{margin:var(--sp-2) 0 0;padding-left:1.25rem;display:grid;gap:.5rem;max-width:46rem;line-height:1.45;font-size:var(--fs-sm);overflow-wrap:anywhere}
 .kw-src a{text-decoration:underline}
+
+.ct-line a{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em}

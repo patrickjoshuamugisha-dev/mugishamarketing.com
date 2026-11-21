@@ -154,7 +154,7 @@ ul,ol{list-style:none}
 .pm::after{transform:rotate(90deg)}
 .qa.open .pm::after{transform:rotate(0);opacity:0}
 .qa.open .pm::before{transform:rotate(180deg)}
-.a{height:0;opacity:0;overflow:hidden}
+.js .a{height:0;opacity:0;overflow:hidden}
 .qa.open .a{height:auto;opacity:1}
 .a>div{padding:0 0 1.5rem 2.1rem;max-width:44rem}
 .a p{font-size:1.0625rem;line-height:1.45;color:var(--grey)}
