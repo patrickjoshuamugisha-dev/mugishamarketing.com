@@ -2,6 +2,21 @@
 
 > Mugisha AI (legal name Mugisha Marketing, CVR 42773786) is an AI agency in Copenhagen, Denmark. We build AI agents and automations, run AI audits with a roadmap, and build custom software and websites for businesses of about 10 to 500 staff. The site is in English and Danish.
 
+## Key facts
+- Name: Mugisha AI (legal name Mugisha Marketing), CVR and VAT number DK42773786, founded 2021
+- Founder: Patrick Mugisha
+- Address: Hannemanns Allé 44H, 2300 København S, Denmark
+- Phone: +45 30 20 32 29
+- Email: patrick@mugishamarketing.com
+- Languages: Danish and English
+- Clients: owner-led and mid-size businesses with about 10 to 500 staff, in Denmark and abroad; more than 100 businesses helped on six continents
+- What we build: AI agents, AI automation and workflow automation (n8n, Make, Zapier, Claude, GPT), AI chatbots for websites, AI audits with a ranked roadmap, custom software, websites and online shops
+- How we work: fixed scope and timeline agreed before work begins, one agreed number tracked from launch, documented handover and training, everything on accounts the client owns
+- Real projects on the site: an AI support agent in n8n for a Danish webshop that also sells on Amazon; an AI email agent in n8n and Microsoft 365 for a hotel on the Danish coast (121 mails sorted in one week, 15 needed a reply)
+- Profiles: https://www.sortlist.com/agency/mugisha-ai
+- Full text of the main pages for AI readers: https://mugishamarketing.com/llms-full.txt
+- Last updated: 2026-11-21
+
 ## English
 - [Home](https://mugishamarketing.com/): what we do and who we help
 - [Services](https://mugishamarketing.com/services/): AI agents and automations, AI audit, custom software, web development
