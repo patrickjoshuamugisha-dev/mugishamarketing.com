@@ -21,7 +21,7 @@
 <link rel="preload" href="/fonts/ivypresto-headline-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/css/theme.css">
 <link rel="stylesheet" href="/css/pages.css">
-<script>document.documentElement.classList.add('js')</script>
+<script>document.documentElement.classList.add('js');addEventListener('load',function(){setTimeout(function(){if(!window.MZ||!MZ.booted)document.documentElement.classList.remove('js')},3000)})</script>
 <script src="/vendor/gsap.min.js" defer></script>
 <script src="/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/vendor/lenis.min.js" defer></script>
