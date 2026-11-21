@@ -15,6 +15,7 @@
 - Real projects on the site: an AI support agent in n8n for a Danish webshop that also sells on Amazon; an AI email agent in n8n and Microsoft 365 for a hotel on the Danish coast (121 mails sorted in one week, 15 needed a reply)
 - Profiles: https://www.sortlist.com/agency/mugisha-ai
 - Full text of the main pages for AI readers: https://mugishamarketing.com/llms-full.txt
+- Every page also has a Markdown copy: add index.md to its address, for example https://mugishamarketing.com/ai-consultant/index.md
 - Last updated: 2026-11-21
 
 ## English
