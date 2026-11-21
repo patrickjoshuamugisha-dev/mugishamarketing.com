@@ -16,6 +16,7 @@
 - Profiles: https://www.sortlist.com/agency/mugisha-ai
 - Full text of the main pages for AI readers: https://mugishamarketing.com/llms-full.txt
 - Every page also has a Markdown copy: add index.md to its address, for example https://mugishamarketing.com/ai-consultant/index.md
+- Guide feeds (Atom): https://mugishamarketing.com/guides/feed.xml and https://mugishamarketing.com/da/viden/feed.xml
 - Last updated: 2026-11-21
 
 ## English

@@ -1,5 +1,5 @@
 ---
-title: AI Agents: AI Agent Development | Mugisha AI
+title: AI Agents in Denmark: AI Agent Development | Mugisha AI
 url: https://mugishamarketing.com/ai-agents/
 language: en
 description: What is an AI agent? We build AI agents that take routine work off your team, inside the systems you already use. Fixed scope, agreed before we start.

@@ -1,5 +1,5 @@
 ---
-title: AI-automatisering til virksomheder | Mugisha AI
+title: AI-automatisering til virksomheder i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-automatisering/
 language: da
 description: AI-automatisering tager gentaget arbejde fra dit team. Vi finder flaskehalsen, bygger arbejdsgangen i n8n, Zapier eller Make og følger det aftalte tal.

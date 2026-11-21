@@ -1,5 +1,5 @@
 ---
-title: n8n Consultant and n8n Expert | Mugisha AI
+title: n8n Consultant and n8n Expert in Denmark | Mugisha AI
 url: https://mugishamarketing.com/n8n-consultant/
 language: en
 description: We build, take over and improve n8n workflows: leads, email, CRM and documents. Everything runs on accounts you own, and your team can change it afterwards.

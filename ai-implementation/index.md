@@ -1,5 +1,5 @@
 ---
-title: AI Implementation for Businesses | Mugisha AI
+title: AI Implementation for Businesses in Denmark | Mugisha AI
 url: https://mugishamarketing.com/ai-implementation/
 language: en
 description: AI implementation for businesses of about 10 to 500 staff: we connect AI to your systems, build it, train your team and track one agreed number.

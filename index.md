@@ -53,7 +53,7 @@ A complete approach for smarter systems designed to grow with your business
 
 ### AI Agents & Automations
 
-We build [AI agents](https://mugishamarketing.com/ai-agents/) and [AI automation](https://mugishamarketing.com/ai-automation/) that take on whole tasks inside the tools you already use, raising the productivity of your whole team.
+We build [AI agents](https://mugishamarketing.com/ai-agents/) and [AI automation](https://mugishamarketing.com/ai-automation/) that take on whole tasks inside the tools you already use, raising the productivity of your whole team. That includes [AI chatbots](https://mugishamarketing.com/ai-chatbot/) for your website and [n8n workflows](https://mugishamarketing.com/n8n-consultant/).
 
 [Read more](https://mugishamarketing.com/ai-agents/)
 

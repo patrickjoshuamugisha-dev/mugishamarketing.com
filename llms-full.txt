@@ -56,7 +56,7 @@ A complete approach for smarter systems designed to grow with your business
 
 ### AI Agents & Automations
 
-We build [AI agents](https://mugishamarketing.com/ai-agents/) and [AI automation](https://mugishamarketing.com/ai-automation/) that take on whole tasks inside the tools you already use, raising the productivity of your whole team.
+We build [AI agents](https://mugishamarketing.com/ai-agents/) and [AI automation](https://mugishamarketing.com/ai-automation/) that take on whole tasks inside the tools you already use, raising the productivity of your whole team. That includes [AI chatbots](https://mugishamarketing.com/ai-chatbot/) for your website and [n8n workflows](https://mugishamarketing.com/n8n-consultant/).
 
 [Read more](https://mugishamarketing.com/ai-agents/)
 
@@ -774,7 +774,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: n8n Consultant and n8n Expert | Mugisha AI
+title: n8n Consultant and n8n Expert in Denmark | Mugisha AI
 url: https://mugishamarketing.com/n8n-consultant/
 language: en
 description: We build, take over and improve n8n workflows: leads, email, CRM and documents. Everything runs on accounts you own, and your team can change it afterwards.
@@ -951,7 +951,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: AI Agents: AI Agent Development | Mugisha AI
+title: AI Agents in Denmark: AI Agent Development | Mugisha AI
 url: https://mugishamarketing.com/ai-agents/
 language: en
 description: What is an AI agent? We build AI agents that take routine work off your team, inside the systems you already use. Fixed scope, agreed before we start.
@@ -1108,7 +1108,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: AI Implementation for Businesses | Mugisha AI
+title: AI Implementation for Businesses in Denmark | Mugisha AI
 url: https://mugishamarketing.com/ai-implementation/
 language: en
 description: AI implementation for businesses of about 10 to 500 staff: we connect AI to your systems, build it, train your team and track one agreed number.
@@ -2394,7 +2394,7 @@ Vi fjerner hverdagens flaskehalse med AI-automatisering, der styrker din bundlin
 
 ## Vi hjælper virksomheder med at vokse med AI.
 
-Mugisha AI er et ejerledet AI-bureau i København og giver AI-rådgivning og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og de samme spørgsmål igen og igen.
+Mugisha AI er et ejerledet AI-bureau i København, der rådgiver om AI og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og de samme spørgsmål igen og igen.
 
 Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) har et klart afkast som mål. Efter lanceringen bliver vi ved, så løsningen virker, mens du vokser.
 
@@ -2434,7 +2434,7 @@ En samlet tilgang til smartere systemer, der vokser i takt med din virksomhed
 
 ### AI-agenter og automatisering
 
-Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), der løser hele opgaver i de værktøjer, du allerede bruger. Så får hele dit team mere fra hånden.
+Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), der løser hele opgaver i de værktøjer, du allerede bruger. Så får hele dit team mere fra hånden. Det gælder også [AI-chatbots](https://mugishamarketing.com/da/ai-chatbot/) til din hjemmeside og [arbejdsgange i n8n](https://mugishamarketing.com/da/n8n-konsulent/).
 
 [Læs mere](https://mugishamarketing.com/da/ai-agenter/)
 
@@ -2816,7 +2816,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: AI-konsulent og AI-rådgivning | Mugisha AI
+title: AI-konsulent og AI-rådgivning i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-konsulent/
 language: da
 description: AI-konsulent til ejerledede og mellemstore virksomheder. Vi gennemgår dine processer, finder, hvor AI tjener sig hjem først, og bygger løsningen bagefter.
@@ -2987,7 +2987,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: AI-automatisering til virksomheder | Mugisha AI
+title: AI-automatisering til virksomheder i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-automatisering/
 language: da
 description: AI-automatisering tager gentaget arbejde fra dit team. Vi finder flaskehalsen, bygger arbejdsgangen i n8n, Zapier eller Make og følger det aftalte tal.
@@ -3152,7 +3152,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: n8n-konsulent og n8n-ekspert | Mugisha AI
+title: n8n-konsulent og n8n-ekspert i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/n8n-konsulent/
 language: da
 description: Vi bygger, overtager og forbedrer arbejdsgange i n8n: leads, mails, CRM og dokumenter. Alt ligger på konti, du ejer, og dit team kan ændre det bagefter.
@@ -3329,7 +3329,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: AI-agenter til virksomheder | Mugisha AI
+title: AI-agenter til virksomheder i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-agenter/
 language: da
 description: Hvad er en AI-agent? Vi bygger AI-agenter, der tager rutinearbejde fra dit team i de systemer, du allerede bruger. Fast omfang aftalt på forhånd.
@@ -3486,7 +3486,7 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 
 
 ---
-title: AI-implementering i virksomheder | Mugisha AI
+title: AI-implementering i danske virksomheder | Mugisha AI
 url: https://mugishamarketing.com/da/ai-implementering/
 language: da
 description: AI-implementering i virksomheder med 10 til 500 ansatte: vi kobler AI på dine systemer, bygger løsningen, oplærer dit team og følger ét aftalt tal.

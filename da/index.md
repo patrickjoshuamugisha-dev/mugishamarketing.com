@@ -13,7 +13,7 @@ Vi fjerner hverdagens flaskehalse med AI-automatisering, der styrker din bundlin
 
 ## Vi hjælper virksomheder med at vokse med AI.
 
-Mugisha AI er et ejerledet AI-bureau i København og giver AI-rådgivning og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og de samme spørgsmål igen og igen.
+Mugisha AI er et ejerledet AI-bureau i København, der rådgiver om AI og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og de samme spørgsmål igen og igen.
 
 Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) har et klart afkast som mål. Efter lanceringen bliver vi ved, så løsningen virker, mens du vokser.
 
@@ -53,7 +53,7 @@ En samlet tilgang til smartere systemer, der vokser i takt med din virksomhed
 
 ### AI-agenter og automatisering
 
-Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), der løser hele opgaver i de værktøjer, du allerede bruger. Så får hele dit team mere fra hånden.
+Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), der løser hele opgaver i de værktøjer, du allerede bruger. Så får hele dit team mere fra hånden. Det gælder også [AI-chatbots](https://mugishamarketing.com/da/ai-chatbot/) til din hjemmeside og [arbejdsgange i n8n](https://mugishamarketing.com/da/n8n-konsulent/).
 
 [Læs mere](https://mugishamarketing.com/da/ai-agenter/)
 

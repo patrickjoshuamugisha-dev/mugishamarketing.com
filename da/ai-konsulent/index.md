@@ -1,5 +1,5 @@
 ---
-title: AI-konsulent og AI-rådgivning | Mugisha AI
+title: AI-konsulent og AI-rådgivning i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-konsulent/
 language: da
 description: AI-konsulent til ejerledede og mellemstore virksomheder. Vi gennemgår dine processer, finder, hvor AI tjener sig hjem først, og bygger løsningen bagefter.
