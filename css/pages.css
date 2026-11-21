@@ -244,3 +244,8 @@
 .kw-src a{text-decoration:underline}
 
 .ct-line a{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em}
+
+.lg-wrap .legal-text .crumbs{font-size:.875rem;color:var(--grey);margin:0 0 var(--sp-2);line-height:1.4}
+.lg-wrap .legal-text .crumbs a{color:inherit;text-decoration:none}
+.lg-wrap .legal-text .crumbs a:hover{text-decoration:underline}
+.lg-wrap .legal-text .crumbs span{margin:0 .4em}

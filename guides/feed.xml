@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title>Mugisha AI guides</title>
+<subtitle>Plain guides on AI for businesses, from Mugisha AI in Copenhagen.</subtitle>
+<link href="https://mugishamarketing.com/guides/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="https://mugishamarketing.com/guides/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/guides/</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<author><name>Patrick Mugisha</name><uri>https://mugishamarketing.com/about/</uri></author>
+<entry>
+<title>AI in Danish businesses: figures and sources 2026</title>
+<link href="https://mugishamarketing.com/guides/ai-in-danish-businesses/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/guides/ai-in-danish-businesses/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Figures on AI use in Danish companies from Statistics Denmark, Eurostat and the European Commission, each with year, definition and a link to the source page.</summary>
+</entry>
+<entry>
+<title>n8n vs Make vs Zapier: which one fits your business?</title>
+<link href="https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/guides/n8n-vs-make-vs-zapier/</id>
+<published>2026-11-19T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>n8n, Make or Zapier? A plain comparison of hosting, pricing model, AI features and data location, and which tool fits which kind of business.</summary>
+</entry>
+<entry>
+<title>RPA vs AI automation: what is the difference?</title>
+<link href="https://mugishamarketing.com/guides/rpa-vs-ai-automation/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/guides/rpa-vs-ai-automation/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>RPA, workflow automation, AI automation and AI agents compared: how each works, what breaks it, four examples and when to replace an RPA robot.</summary>
+</entry>
+<entry>
+<title>What is agentic AI?</title>
+<link href="https://mugishamarketing.com/guides/what-is-agentic-ai/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/guides/what-is-agentic-ai/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>What agentic AI is, how it differs from a chatbot and from fixed automation, business examples, safety, EU rules and when not to use it.</summary>
+</entry>
+<entry>
+<title>What is an AI audit?</title>
+<link href="https://mugishamarketing.com/guides/what-is-an-ai-audit/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/guides/what-is-an-ai-audit/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>What an AI audit looks at, what you get at the end, how it differs from an AI strategy, workshop or readiness assessment, and how to judge the report.</summary>
+</entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="da">
+<title>Viden om AI fra Mugisha AI</title>
+<subtitle>Guides om AI for virksomheder, fra Mugisha AI i København.</subtitle>
+<link href="https://mugishamarketing.com/da/viden/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="https://mugishamarketing.com/da/viden/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/da/viden/</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<author><name>Patrick Mugisha</name><uri>https://mugishamarketing.com/about/</uri></author>
+<entry>
+<title>AI i danske virksomheder: tal og kilder 2026</title>
+<link href="https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Tal om AI i danske virksomheder fra Danmarks Statistik, Eurostat og EU-Kommissionen, hver med år, definition og link til kildens egen side.</summary>
+</entry>
+<entry>
+<title>Hvad er agentisk AI?</title>
+<link href="https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Hvad agentisk AI er, forskellen på en chatbot og fast automatisering, eksempler, sikker drift, EU-regler og hvornår du ikke skal bruge det.</summary>
+</entry>
+<entry>
+<title>Hvad er en AI-audit?</title>
+<link href="https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Hvad en AI-audit ser på, hvad du får ud af den, forskellen på AI-strategi, AI-workshop og AI-readiness, og hvordan du vurderer rapporten.</summary>
+</entry>
+<entry>
+<title>n8n, Make eller Zapier: hvilket værktøj passer til din virksomhed?</title>
+<link href="https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/</id>
+<published>2026-11-19T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>n8n, Make eller Zapier? Sammenligning af hosting, prismodel, AI-funktioner og placering af data, og hvilket værktøj der passer til hvilken virksomhed.</summary>
+</entry>
+<entry>
+<title>RPA eller AI-automatisering: hvad er forskellen?</title>
+<link href="https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/" rel="alternate" type="text/html"/>
+<id>https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/</id>
+<published>2026-11-20T00:00:00Z</published>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet: hvordan de virker, hvad der vælter dem, fire eksempler og hvornår du skifter.</summary>
+</entry>
+</feed>
