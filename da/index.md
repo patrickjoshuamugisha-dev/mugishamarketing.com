@@ -13,9 +13,9 @@ Vi fjerner hverdagens flaskehalse med AI-automatisering, der styrker din bundlin
 
 ## Vi hjælper virksomheder med at vokse med AI.
 
-Mugisha AI er et ejerledet AI-bureau i København, der rådgiver om AI og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og de samme spørgsmål igen og igen.
+Mugisha AI er et ejerledet AI-bureau i København, der rådgiver om AI og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og svar på de samme spørgsmål.
 
-Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) har et klart afkast som mål. Efter lanceringen bliver vi ved, så løsningen virker, mens du vokser.
+Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) bygges med et klart afkast for øje. Efter lanceringen er vi der stadig, så løsningen virker, mens du vokser.
 
 [Lær os at kende](https://mugishamarketing.com/da/om-os/)
 
@@ -25,7 +25,7 @@ Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementeri
 
 **6**kontinenter
 
-Værktøjer vi bygger med
+Værktøjer, vi bygger med
 
 **n8n** **Make** **ChatGPT** **Claude** **Shopify** **Webflow** **Notion** **Airtable** **Meta**
 
@@ -59,7 +59,7 @@ Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-autom
 
 ### AI-audit
 
-Vi bruger tid i din virksomhed og ser, hvordan opgaverne bevæger sig fra person til person. Du får en prioriteret køreplan fra en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): hvad der skal bygges først, og hvad hvert trin skal give.
+Vi tilbringer tid i din virksomhed og ser, hvordan opgaverne går fra hånd til hånd. Du får en prioriteret køreplan fra en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): hvad der skal bygges først, og hvad hvert trin skal give.
 
 [Læs mere](https://mugishamarketing.com/da/ai-konsulent/)
 
@@ -109,7 +109,7 @@ Grundlæggeren
 
 ## Mød Patrick.
 
-Patrick Mugisha startede i marketing og arbejdede med store internationale personbrands. Derefter flyttede han til USA og blev COO i Fitnesspreneur Academy, hvor han stod for den daglige drift. De fleste dage gik med at slukke brande, rykke for status og holde holdet på sporet. Det trak ham mod AI, for her så han en slankere måde at skalere en virksomhed på.
+Patrick Mugisha startede i marketing og arbejdede med store internationale personbrands. Derefter flyttede han til USA og blev COO i Fitnesspreneur Academy, hvor han stod for den daglige drift. De fleste dage gik med at slukke brande, rykke for status og holde teamet på sporet. Det førte ham til AI, hvor han så en slankere måde at skalere en virksomhed på.
 
 [Læs vores historie ](https://mugishamarketing.com/da/om-os/)
 
@@ -121,7 +121,7 @@ Har du andre spørgsmål? Skriv til [patrick@mugishamarketing.com](mailto:patric
 
 ### Hvad koster det, og hvor lang tid tager det?
 
-Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt prissættes ud fra et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder. Du ved, hvad du kan forvente.
+Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt prissættes ud fra et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder. Så ved du, hvad du kan regne med.
 
 ### Hvad hvis AI ikke virker for os?
 
@@ -139,9 +139,9 @@ Vi følger løbende med i, hvordan løsningen klarer sig, samler feedback og lav
 
 Dine data behandles på dine vilkår. Vi aftaler på forhånd, hvilke data hver løsning bruger, og hvor de ender. Vi vælger værktøjer, der lever op til dine krav, f.eks. GDPR og hosting i EU, og sætter alt op på konti, som din virksomhed ejer.
 
-## Klar til at se, hvor AI kan løfte din virksomhed?
+## Klar til at se, hvor AI kan aflaste din virksomhed?
 
-Fortæl os lidt om din virksomhed, og om hvordan vi kan hjælpe dig med at skalere med AI.
+Fortæl os lidt om din virksomhed, og hvordan vi kan hjælpe dig med at skalere med AI.
 
 ---
 Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenhagen S, Denmark. Phone +45 30 20 32 29. https://mugishamarketing.com/

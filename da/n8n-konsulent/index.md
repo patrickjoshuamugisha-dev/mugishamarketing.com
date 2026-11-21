@@ -9,7 +9,7 @@ n8n-konsulent
 
 # Din n8n-konsulent til arbejdsgange, dit team kan overtage.
 
-En n8n-konsulent opsætter, bygger og vedligeholder arbejdsgange i n8n, så systemer, mails og dokumenter arbejder sammen uden at nogen skal kopiere i hånden. Konsulenten vælger, hvor n8n skal køre, tester arbejdsgangene, lader et menneske godkende det vigtige og afleverer det hele dokumenteret, så virksomhedens eget team kan overtage.
+En n8n-konsulent bygger og vedligeholder arbejdsgange i n8n, så systemer, mails og dokumenter arbejder sammen, uden at nogen skal kopiere i hånden. Konsulenten vælger, hvor n8n skal køre, tester arbejdsgangene, lader et menneske godkende det vigtige og afleverer det hele med dokumentation, så virksomhedens eget team kan tage over.
 
 01, Hvad vi bygger
 
@@ -17,7 +17,7 @@ En n8n-konsulent opsætter, bygger og vedligeholder arbejdsgange i n8n, så syst
 
 n8n er et værktøj, der binder systemer sammen i arbejdsgange. Ifølge n8n selv bygger man dem visuelt og kan tilføje kode, hvor de færdige trin ikke rækker.
 
-Leder du efter en n8n-ekspert eller en n8n-udvikler, er det disse typer arbejdsgange, vi bygger i n8n.
+Leder du efter en n8n-ekspert eller en n8n-udvikler, er det den slags arbejdsgange, vi bygger.
 
 [Tal med os om n8n](https://mugishamarketing.com/da/kontakt/)
 
@@ -27,17 +27,17 @@ Nye henvendelser fra formularer og mails havner i dit CRM og går videre til den
 
 ### CRM og dokumenter
 
-Oplysninger holdes ens i CRM, regnskab og regneark, uden dobbelt indtastning. Fakturaer og andre pdf-filer læses, og leverandør, dato og beløb lægges ind i det rigtige system.
+Oplysningerne holdes ens i CRM, regnskab og regneark uden dobbeltindtastning. Fakturaer og andre pdf-filer læses, og leverandør, dato og beløb lægges ind i det rigtige system.
 
 ### AI-agenter med godkendelse
 
 En agent kan forberede et svar eller en handling, og et menneske godkender, før noget når en kunde. n8n skriver selv, at man kan tilføje menneskelig godkendelse, hvor det er nødvendigt.
 
-### Fra et rigtigt projekt
+### Fra et af vores projekter
 
-En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og billederne, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
+En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og billederne, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer sagen over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
 
-02, Rigtigt værktøj
+02, Det rigtige værktøj
 
 ## n8n er ikke altid det rigtige valg.
 
@@ -63,7 +63,7 @@ n8n kan køre hos n8n selv eller på en server, du selv driver. Valget afgør, h
 
 | Spørgsmål | n8n Cloud | Egen server
 
-| Hvem driver det | n8n selv, som tager sig af hosting, opdateringer og skalering. | Dig selv, på egen infrastruktur, lokalt eller i en privat cloud.
+| Hvem driver det | n8n selv, som tager sig af hosting, opdateringer og skalering. | Du selv, på egen infrastruktur, lokalt eller i en privat cloud.
 
 | Hvor ligger data | På servere i Frankfurt i Tyskland. | Dér, hvor du selv vælger at hoste n8n.
 
@@ -79,13 +79,13 @@ Aktuelle planer og priser står hos n8n, se Kilder nedenfor.
 
 - Processen er valgt, og en person i din virksomhed ejer den og kan svare på spørgsmål om den.
 
-- Trinene kan skrives ned, også dem der kræver skøn.
+- Trinene kan skrives ned, også dem, der kræver skøn.
 
 - Du ved, hvor data må ligge, og hvilke data en AI-model må se.
 
 - Valget mellem n8n Cloud og egen server er truffet, eller vi tager det sammen.
 
-- Selvhoster du, har nogen ansvaret for server og opdateringer.
+- Selvhoster du, er nogen ansvarlig for server og opdateringer.
 
 - Adgangene til de systemer, der kobles på, ligger på konti, virksomheden ejer.
 
@@ -133,7 +133,7 @@ Vi bygger arbejdsgangen i n8n på konti, du ejer, tester den på rigtige sager o
 
 ### Overlevering
 
-Dit team får arbejdsgangene kørende på konti, din virksomhed ejer, en skriftlig beskrivelse af hver med de systemer og adgange, den bruger, og en gennemgang, så teamet kan ændre dem uden kode.
+Arbejdsgangene kører på konti, din virksomhed ejer. Du får en skriftlig beskrivelse af hver, med systemer og adgange, og en gennemgang, så dit team kan ændre dem uden kode.
 
 Ofte stillede spørgsmål
 
@@ -155,7 +155,7 @@ Ja. n8n har et trin til Anthropics Claude-modeller, og dokumentationen nævner O
 
 ### Er n8n GDPR-sikkert?
 
-Hosting alene gør ikke en arbejdsgang GDPR-sikker. n8n Cloud gemmer data i Frankfurt, og på egen server ligger data, hvor du vælger. Sender en arbejdsgang tekst til en AI-model, forlader den dog n8n og går til modeludbyderen. Derfor aftaler vi på forhånd, hvilke data hver arbejdsgang bruger.
+Hosting alene gør ikke en arbejdsgang GDPR-sikker. n8n Cloud gemmer data i Frankfurt, og på egen server ligger data, hvor du vælger. Sender en arbejdsgang tekst til en AI-model, forlader teksten dog n8n og går til modeludbyderen. Derfor aftaler vi på forhånd, hvilke data hver arbejdsgang bruger.
 
 ### Hvem ejer arbejdsgangene?
 
@@ -167,7 +167,7 @@ Ja. n8n bygges visuelt, og kode er kun nødvendig, hvor de færdige trin ikke sl
 
 ## Fortæl os, hvad n8n skal klare.
 
-Skriv et par linjer om processen, eller om den n8n-opsætning, du har i dag. Du kan også se alle [vores ydelser](https://mugishamarketing.com/da/ydelser/).
+Skriv et par linjer om processen eller om den n8n-opsætning, du har i dag. Du kan også se alle [vores ydelser](https://mugishamarketing.com/da/ydelser/).
 
 [Kontakt os](https://mugishamarketing.com/da/kontakt/)
 

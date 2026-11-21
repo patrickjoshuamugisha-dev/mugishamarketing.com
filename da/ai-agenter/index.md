@@ -2,12 +2,12 @@
 title: AI-agenter til virksomheder i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-agenter/
 language: da
-description: Hvad er en AI-agent? Vi bygger AI-agenter, der tager rutinearbejde fra dit team i de systemer, du allerede bruger. Fast omfang aftalt på forhånd.
+description: Hvad er en AI-agent? Vi bygger AI-agenter, der overtager rutinearbejdet i de systemer, dit team allerede bruger. Fast omfang aftalt på forhånd.
 ---
 
 AI-agenter
 
-# AI-agenter, der klarer det rutinemæssige arbejde.
+# AI-agenter, der klarer rutinearbejdet.
 
 En AI-agent er software, der løser en opgave fra start til slut. Den læser det, der kommer ind, vurderer, hvad det er, og udfører næste skridt i dine egne systemer, for eksempel mail, CRM eller webshop. Vi bygger AI-agenter til ejerledede og mellemstore virksomheder i Danmark og udlandet.
 
@@ -47,17 +47,17 @@ En fungerende agent med ét klart mål, målt fra den dag, den går live. Du bes
 
 ### Fra et rigtigt projekt
 
-En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og billederne, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
+En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og dens billeder, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer svaret over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
 
 03, Værktøjer og målgruppe
 
 ## Bygget med de værktøjer, der passer.
 
-AI-agenter er en del af det bredere arbejde med [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/) og [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Er du i tvivl om, hvilken opgave en agent skal tage først, giver en AI-audit hos en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/) dig en prioriteret køreplan. Alle ydelser står på siden om [vores ydelser](https://mugishamarketing.com/da/ydelser/).
+AI-agenter er en del af det bredere arbejde med [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/) og [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Er du i tvivl om, hvilken opgave en agent skal tage først, giver en AI-audit hos en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/) dig en prioriteret køreplan. Se også alle [vores ydelser](https://mugishamarketing.com/da/ydelser/).
 
-### Værktøjer vi bygger med
+### Værktøjer, vi bygger med
 
-Vi bygger med n8n, Zapier og Make til at forbinde systemer, Claude og GPT til at læse og skrive, HighLevel til kundeoplysninger og forløb, ManyChat til chatkanaler og Instantly til udgående mails. Er du i tvivl om valget mellem n8n, Make og Zapier? [Vores guide stiller dem op mod hinanden](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/), og resten af vores [viden om AI](https://mugishamarketing.com/da/viden/) ligger samlet.
+Vi bygger med n8n, Zapier og Make til at forbinde systemer, Claude og GPT til at læse og skrive, HighLevel til kundeoplysninger og forløb, ManyChat til chatkanaler og Instantly til udgående mails. Er du i tvivl om valget mellem n8n, Make og Zapier? [Vores guide stiller dem op mod hinanden](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/), og resten af vores [viden om AI](https://mugishamarketing.com/da/viden/) er samlet ét sted.
 
 ### Dine egne systemer
 
@@ -65,7 +65,7 @@ Agenterne arbejder sammen med de systemer, du allerede bruger, for eksempel mail
 
 ### Hvem det er til
 
-Ejerledede og mellemstore virksomheder med cirka 10 til 500 ansatte, i Danmark og udlandet. Vi har hjulpet over 100 virksomheder på seks kontinenter. Mugisha AI ligger i København.
+Ejerledede og mellemstore virksomheder med cirka 10 til 500 ansatte i Danmark og udlandet. Vi har hjulpet over 100 virksomheder på seks kontinenter. Mugisha AI ligger i København.
 
 04, Regler
 
@@ -87,7 +87,7 @@ En agent må kun det, du har givet den lov til. Følgende skal være på plads, 
 
 - En test på rigtige sager, før den kommer i nærheden af en kunde.
 
-- En person med navn, der ser på resultaterne de første uger og kan slå agenten fra.
+- En navngiven person, der følger resultaterne de første uger og kan slå agenten fra.
 
 - Aftalte regler for, hvilke data den må bruge, og hvor de behandles.
 
@@ -107,7 +107,7 @@ Vi følger arbejdet, som det kører i dag, taler med dem, der udfører det, og v
 
 ### Udvikling
 
-Vi bygger agenten på konti, du selv ejer, tester den på rigtige sager og fastsætter reglerne for, hvornår den overdrager til et menneske. Inden den går live, gennemgår vi den med dit team og afleverer en skriftlig beskrivelse.
+Vi bygger agenten på konti, du selv ejer, tester den på rigtige sager og fastsætter reglerne for, hvornår et menneske tager over. Inden den går live, gennemgår vi den med dit team og afleverer en skriftlig beskrivelse.
 
 03
 
@@ -131,11 +131,11 @@ Ja, i de fleste tilfælde. Vi forbinder agenter til dine egne systemer, for ekse
 
 ### Kan en AI-agent lave fejl?
 
-Ja, ligesom mennesker kan. Derfor fastsætter vi reglerne, før den går live: hvad agenten selv må gøre, hvad et menneske godkender først, og hvornår den skal stoppe og spørge. Vi tester den på rigtige sager, og efter lanceringen følger vi det aftalte tal og forbedrer agenten.
+Ja, det kan mennesker også. Derfor fastsætter vi reglerne, før den går live: hvad agenten selv må gøre, hvad et menneske godkender først, og hvornår den skal stoppe og spørge. Vi tester den på rigtige sager, og efter lanceringen følger vi det aftalte tal og forbedrer agenten.
 
 ### Hvad koster en AI-agent, og hvor lang tid tager det?
 
-Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt har et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder, så du ved, hvad du kan forvente. Første skridt er at fortælle os, hvilken opgave du gerne vil af dit teams bord.
+Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt har et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder, så du ved, hvad du kan forvente. Første skridt er at fortælle os, hvilken opgave du gerne vil have af dit teams bord.
 
 ### Skal vi have teknikere ansat?
 

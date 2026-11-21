@@ -133,7 +133,7 @@ Eurostat spørger de virksomheder, der har overvejet AI, hvorfor de ikke bruger 
 
 Kilde: Eurostat, [datasættet](https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/isoc_eb_ai?format=JSON&lang=en&geo=DK&geo=EU27_2020) (isoc_eb_ai). Tallene er andel af de virksomheder, der har overvejet at bruge AI. Procenterne summer ikke til 100, så virksomhederne har åbenbart kunnet angive mere end én grund.
 
-Digitaliseringsstyrelsen kommer til samme billede: Virksomheder, der ikke bruger AI, begrunder det »oftest med mangel på relevant viden og erfaring samt overvejelser om overholdelse af regler om databeskyttelse og privatliv, snarere end tekniske og økonomiske begrænsninger« ([side om rapporten](https://digst.dk/kunstig-intelligens/danske-virksomheders-anvendelse-af-ai/)). I Dansk Erhvervs medlemsundersøgelse er de største barrierer mangel på medarbejderkompetencer (36 pct.), mangel på indsigt og viden (30 pct.) og mangel på tid (30 pct.).
+Digitaliseringsstyrelsen tegner samme billede: Virksomheder, der ikke bruger AI, begrunder det »oftest med mangel på relevant viden og erfaring samt overvejelser om overholdelse af regler om databeskyttelse og privatliv, snarere end tekniske og økonomiske begrænsninger« ([side om rapporten](https://digst.dk/kunstig-intelligens/danske-virksomheders-anvendelse-af-ai/)). I Dansk Erhvervs medlemsundersøgelse er de største barrierer mangel på medarbejderkompetencer (36 pct.), mangel på indsigt og viden (30 pct.) og mangel på tid (30 pct.).
 
 Dansk Industri skriver i sin analyse fra 16. september 2026, at knap 80 pct. af de adspurgte virksomheder bruger AI »i en eller anden form«, men at brugen for 42 pct. er ad hoc, mens 24 pct. bruger AI systematisk i udvalgte afdelinger og 11 pct. i stort set alle afdelinger. DI skriver selv, at tallene ikke kan sammenlignes direkte med Eurostats, fordi AI-brug er afgrænset forskelligt. Analysen oplyser ikke, hvor mange der er spurgt.
 
@@ -173,15 +173,15 @@ Europa-Kommissionen skriver, at AI-forordningen trådte i kraft 1. august 2024 o
 
 - **2. august 2028:** regler for højrisikosystemer, der indgår i regulerede produkter som lifte og legetøj (bilag I).
 
-Datoerne for højrisikoreglerne er udvidet. For bilag III skriver Kommissionen, at det sker som følge af den politiske aftale om forenklingsforslaget »AI Omnibus«. Ifølge Kommissionen blev forslaget vedtaget 19. november 2025, der blev opnået politisk enighed 7. maj 2026, og det trådte i kraft 27. juli 2026. Vi giver ikke juridisk rådgivning. Spørg din rådgiver, hvad datoerne betyder for netop din brug.
+Datoerne for højrisikoreglerne er udskudt. For bilag III skriver Kommissionen, at det sker som følge af den politiske aftale om forenklingsforslaget »AI Omnibus«. Ifølge Kommissionen blev forslaget vedtaget 19. november 2025, der blev opnået politisk enighed 7. maj 2026, og det trådte i kraft 27. juli 2026. Vi giver ikke juridisk rådgivning. Spørg din rådgiver, hvad datoerne betyder for netop din brug.
 
 ## Hvad det betyder for en virksomhed med 10 til 500 ansatte
 
 Dette afsnit er vores læsning af tallene og ikke noget, kilderne selv skriver.
 
-Spørgsmålet er for de fleste ikke længere, om man bruger AI, men hvor dybt. Når 55 pct. af virksomhederne med 10-49 ansatte og 69-79 pct. af dem med 50-249 allerede bruger AI i 2026, er brug i sig selv ikke en forskel. DIs tal peger på, at den største gruppe bruger det ad hoc.
+Spørgsmålet er for de fleste ikke længere, om man bruger AI, men hvor dybt. Når 55 pct. af virksomhederne med 10-49 ansatte og 69-79 pct. af dem med 50-249 allerede bruger AI i 2026, er brugen i sig selv ingen fordel. DIs tal peger på, at den største gruppe bruger det ad hoc.
 
-Tallene viser mest tekstbrug: 45 pct. bruger AI til tekstanalyse og 44 pct. til at skrive tekst, mod 25 pct. til at automatisere arbejdsgange. Vi læser det sådan, at mange har værktøjer til at skrive og læse, men færre har koblet AI til de systemer, arbejdet løber igennem. Det er en slutning, vi trækker, og ikke noget statistikken måler direkte.
+Tallene viser mest tekstbrug: 45 pct. bruger AI til tekstanalyse og 44 pct. til at skrive tekst, mod 25 pct. til at automatisere arbejdsgange. Vi læser det sådan, at mange har værktøjer til at skrive og læse, men færre har koblet AI til de systemer, arbejdet løber igennem. Det er vores egen slutning og ikke noget, statistikken måler direkte.
 
 Blandt danske virksomheder, der har overvejet AI, er manglende viden den hyppigste grund til ikke at bruge det (82,06 pct.), og omkostninger nævnes langt sjældnere (17,99 pct.). Vi tager det som tegn på, at første skridt ofte er at vælge én konkret opgave og få styr på, hvem der ejer den, før man vælger værktøj. Se også, hvordan en [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) typisk forløber.
 

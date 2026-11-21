@@ -9,17 +9,17 @@ description: Hvad en AI-audit ser på, hvad du får ud af den, forskellen på AI
 
 Opdateret: 21. november 2026 · Gennemgået af [Patrick Mugisha](https://mugishamarketing.com/da/om-os/), stifter
 
-En AI-audit er en struktureret gennemgang af, hvordan din virksomhed faktisk arbejder, så man kan finde ud af, hvilke opgaver AI kan overtage, og hvilke den ikke bør røre. Resultatet er en rangeret køreplan: hvad der bygges først, hvad der lades være, og hvad hvert punkt skal ændre. Ordet bruges også om at teste selve AI-systemet.
+En AI-audit er en struktureret gennemgang af, hvordan din virksomhed faktisk arbejder, så man kan finde ud af, hvilke opgaver AI kan overtage, og hvilke den ikke bør røre. Resultatet er en prioriteret køreplan: hvad der bygges først, hvad der lades være, og hvad hvert punkt skal ændre. Ordet bruges også om at teste selve AI-systemet.
 
 ## Hvad en audit ser på
 
-En god audit begynder med arbejdet, ikke med et værktøj. Den, der gennemgår det, følger virkelige sager gennem virksomheden og kigger på fem ting.
+En god audit begynder med arbejdet, ikke med et værktøj. Den, der gennemgår det, følger konkrete sager gennem virksomheden og kigger på fem ting.
 
 - **Mængde og rytme.** Hvad der gentages, hvor ofte, og hvor mange timer det fylder.
 
-- **Hvordan information bevæger sig.** Hvor den kommer ind, hvem der taster den igen, og hvor den sidder fast mellem systemer.
+- **Hvordan information bevæger sig.** Hvor den kommer ind, hvem der taster den ind igen, og hvor den sidder fast mellem systemer.
 
-- **Regler eller skøn.** Hvilke trin følger en fast regel, og hvilke kræver, at et menneske vejer noget af.
+- **Regler eller skøn.** Hvilke trin følger en fast regel, og hvilke kræver et menneskeligt skøn.
 
 - **Rammerne.** Hvilke data der er i spil, hvilke regler der gælder for dem, og hvor de må ligge.
 
@@ -27,7 +27,7 @@ En god audit begynder med arbejdet, ikke med et værktøj. Den, der gennemgår d
 
 ## Hvad du får til sidst
 
-Det vigtigste resultat er en rangeret køreplan. Hvert punkt har en opgave, en begrundelse for placeringen, det, der skal til (adgang, data, en person med tid), det tal, punktet skal flytte, og hvad der kan gå galt. Rangeringen er et skøn. Efter vores mening bør den vægte sparede timer, risiko og indsats sammen, og den bør sige ligeud, hvad der ikke er værd at bygge.
+Det vigtigste resultat er en prioriteret køreplan. Hvert punkt har en opgave, en begrundelse for placeringen, det, der skal til (adgang, data, en person med tid), det tal, punktet skal forbedre, og hvad der kan gå galt. Prioriteringen er et skøn. Efter vores mening bør den vægte sparede timer, risiko og indsats sammen, og den bør sige ligeud, hvad der ikke er værd at bygge.
 
 Nogle gange er det bedste punkt slet ikke AI. Anthropic anbefaler i sin guide til at bygge agenter »finding the simplest solution possible, and only increasing complexity when needed«, altså at finde den enkleste løsning og først gøre det mere komplekst, når det er nødvendigt. En audit, der sender alle opgaver til AI, har ikke gjort sit arbejde.
 
@@ -37,9 +37,9 @@ De fire ord overlapper, og leverandører bruger dem løst. Tabellen er vores læ
 
 | | Hvad det er | Det får du | Det passer, når
 
-| AI-audit | En gennemgang af faktisk arbejde og systemer, sag for sag | En rangeret køreplan med et tal at flytte for hvert punkt | Du har gentagne opgaver og vil vide, hvad der skal bygges først
+| AI-audit | En gennemgang af faktisk arbejde og systemer, sag for sag | En prioriteret køreplan med et tal at forbedre for hvert punkt | Du har gentagne opgaver og vil vide, hvad der skal bygges først
 
-| AI-strategi | En retning for hele virksomheden over længere tid | Et dokument om mål, prioriteter og principper | Ledelsen skal blive enig om, hvor AI hører hjemme, før nogen projekter
+| AI-strategi | En retning for hele virksomheden over længere tid | Et dokument om mål, prioriteter og principper | Ledelsen skal blive enig om, hvor AI hører hjemme, før der startes projekter
 
 | AI-workshop | En fælles arbejdssession med dine medarbejdere | Fælles forståelse og en liste med idéer | Holdet har brug for et fælles billede, eller der skal samles idéer
 
@@ -47,17 +47,17 @@ De fire ord overlapper, og leverandører bruger dem løst. Tabellen er vores læ
 
 ## Sådan forbereder du dig
 
-Du gør en audit hurtigere og billigere at gennemføre, hvis du møder op med nogle få ting:
+En audit bliver hurtigere og billigere, hvis du har nogle få ting klar:
 
 - Peg på den person, der ved, hvordan arbejdet kører, og kan svare på spørgsmål i løbet af ugen.
 
 - Vælg to eller tre opgaver, der irriterer mest, også selvom du ikke er sikker på, at AI passer.
 
-- Saml eksempler på rigtige input: en håndfuld nyere mails, ordrer eller formularer, så vidt muligt uden personoplysninger.
+- Saml eksempler på rigtigt input: en håndfuld nyere mails, ordrer eller formularer, så vidt muligt uden personoplysninger.
 
-- Skriv de systemer ned, du bruger, og hvem der har adgangen.
+- Skriv de systemer ned, du bruger, og hvem der har adgang til dem.
 
-- Find ét tal, du gerne vil forbedre, for eksempel dage til svar til en kunde.
+- Find ét tal, du gerne vil forbedre, for eksempel svartiden til kunder.
 
 - Beslut, hvem der kan sige ja til en første løsning, når køreplanen er klar.
 
@@ -69,19 +69,19 @@ Det er vores egne tommelfingerregler, ikke en standard.
 
 - Den nævner de sager, den fulgte, og viser de trin, den så.
 
-- Hvert punkt har en ejer, et tal at flytte og en begrundelse for sin placering.
+- Hvert punkt har en ejer, et tal at forbedre og en begrundelse for sin placering.
 
 - Den siger, hvad der ikke skal bygges, og hvad der kan rettes uden AI.
 
 - Antagelser og huller er tydeligt markeret.
 
-- Du kan give den til en anden leverandør eller dit eget team, og de kan handle på den.
+- Du kan give den til en anden leverandør eller dit eget team, og de kan arbejde videre med den.
 
 ### Tegn på en svag rapport
 
 - Den er en værktøjsliste uden forbindelse til dine opgaver.
 
-- Gevinster står som store tal uden en måde at tjekke dem på.
+- Gevinsterne står som store tal, der ikke kan tjekkes.
 
 - Alt, den foreslår, kræver tilfældigvis ét produkt eller én leverandør.
 
@@ -89,11 +89,11 @@ Det er vores egne tommelfingerregler, ikke en standard.
 
 ## Hvis du allerede bruger AI
 
-Nogle audits ser også på AI-systemer, du allerede kører. Den amerikanske standardiseringsmyndighed NIST skriver, at den »has developed a framework to better manage risks to individuals, organizations, and society associated with artificial intelligence (AI)«, altså en ramme til at styre risici ved AI. Den blev udgivet 26. januar 2023 og er »intended for voluntary use«, altså til frivillig brug. Den er ét mål, en audit kan bruge for risiko. Den er ikke et certifikat, og vi påstår ikke, at et system overholder nogen lov, fordi det følger rammen.
+Nogle audits ser også på AI-systemer, du allerede kører. Den amerikanske standardiseringsmyndighed NIST skriver, at den »has developed a framework to better manage risks to individuals, organizations, and society associated with artificial intelligence (AI)«, altså en ramme til at styre risici ved AI. Den blev udgivet 26. januar 2023 og er »intended for voluntary use«, altså til frivillig brug. Den er én målestok, en audit kan bruge for risiko. Den er ikke et certifikat, og vi påstår ikke, at et system overholder nogen lov, fordi det følger rammen.
 
 ## Det gør du bagefter
 
-- Vælg det første punkt på køreplanen, der er lille, hyppigt og har en ejer med navn.
+- Vælg det første punkt på køreplanen, der er lille, går tit igen og har en navngiven ejer.
 
 - Skriv ned, hvordan et godt resultat ser ud, og hvordan du måler det fra første dag.
 
@@ -101,7 +101,7 @@ Nogle audits ser også på AI-systemer, du allerede kører. Den amerikanske stan
 
 - Sammenlign systemets arbejde med det, personen selv ville have gjort, og ret til.
 
-- Gå tilbage til køreplanen og vælg næste punkt først, når det første har vist sit tal.
+- Vælg først næste punkt på køreplanen, når tallet viser, at det første virker.
 
 Vil du have en leverandør til at gennemføre auditten og bygge det første punkt, forklarer vores side om [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/), hvordan vores audit forløber, og hvad vi skal bruge fra dig. Hvad en agent kan tage over, kan du læse om i guiden [Hvad er agentisk AI?](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/)
 
@@ -109,27 +109,27 @@ Vil du have en leverandør til at gennemføre auditten og bygge det første punk
 
 ### Hvad er en AI-audit på almindeligt dansk?
 
-Det er en gennemgang af, hvordan din virksomhed arbejder, der ender i en rangeret liste over, hvad AI kan overtage, hvad den ikke bør, og hvad der skal bygges først. Den begynder med dine opgaver og data, ikke med et produkt.
+Det er en gennemgang af, hvordan din virksomhed arbejder, der ender i en prioriteret liste over, hvad AI kan overtage, hvad den ikke bør, og hvad der skal bygges først. Den begynder med dine opgaver og data, ikke med et produkt.
 
 ### Hvad er forskellen på en AI-audit og en AI-strategi?
 
-En audit er konkret: den følger virkeligt arbejde og giver en rangeret liste over punkter at bygge. En strategi er bredere og sætter retning og principper. En strategi uden audit kan blive abstrakt, og en audit uden strategi kan overse det store billede.
+En audit er konkret: den følger virkeligt arbejde og giver en prioriteret liste over, hvad der skal bygges. En strategi er bredere og sætter retning og principper. En strategi uden audit kan blive abstrakt, og en audit uden strategi kan overse det store billede.
 
 ### Er en AI-audit det samme som en AI-readiness-vurdering?
 
-Ikke helt. En readiness-vurdering tjekker, om dine data, systemer og kompetencer er klar til AI, som regel mod en valgt målestok. En audit spørger, hvilket arbejde der skal gives videre, og i hvilken rækkefølge. De to kan laves sammen.
+Ikke helt. En readiness-vurdering tjekker, om dine data, systemer og kompetencer er klar til AI, som regel mod en valgt målestok. En audit spørger, hvilket arbejde AI skal overtage, og i hvilken rækkefølge. De to kan laves sammen.
 
 ### Hvem skal deltage i en AI-audit?
 
-De, der udfører arbejdet, én person, der kan svare om systemer og data, og en beslutningstager, der kan godkende en første løsning. Uden dem, der udfører arbejdet, ser auditten kun den officielle proces.
+De, der udfører arbejdet, én person, der kender systemerne og data, og en beslutningstager, der kan godkende en første løsning. Uden dem, der udfører arbejdet, ser auditten kun den officielle proces.
 
 ### Hvad skal en AI-auditrapport indeholde?
 
-De sager, der er fulgt, en rangeret liste over punkter, det tal hvert punkt skal flytte, hvad hvert kræver, og hvad der kan gå galt. Den bør også nævne, hvad der ikke er værd at bygge, og hvilke antagelser den ikke kunne tjekke.
+De sager, der er fulgt, en prioriteret liste over punkter, det tal, hvert punkt skal forbedre, hvad det kræver, og hvad der kan gå galt. Den bør også nævne, hvad der ikke er værd at bygge, og hvilke antagelser den ikke kunne tjekke.
 
 ### Skal vi bygge hos det samme firma, som lavede auditten?
 
-Nej. En god køreplan virker uden sin forfatter. Du kan give den til dit eget team eller en anden leverandør. Vælger du os, bygger vi det første punkt og følger det aftalte tal efter lanceringen.
+Nej. En god køreplan står på egne ben. Du kan give den til dit eget team eller en anden leverandør. Vælger du os, bygger vi det første punkt og følger det aftalte tal efter lanceringen.
 
 Flere enkle guides finder du under [viden om AI](https://mugishamarketing.com/da/viden/), eller [skriv til os](https://mugishamarketing.com/da/kontakt/) med den opgave, du har i tankerne.
 

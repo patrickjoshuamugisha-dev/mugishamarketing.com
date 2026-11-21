@@ -17,13 +17,13 @@ Vores historie
 
 ## Fra at slukke brande til at forebygge dem.
 
-Patrick Mugisha begyndte i marketing, hvor han arbejdede med store internationale personlige brands.
+Patrick Mugisha begyndte i marketing, hvor han arbejdede med store internationale personbrands.
 
 Som COO i Fitnesspreneur Academy i USA stod han for den daglige drift og så, hvor stor en del af et teams uge der går med at rykke for status og holde arbejdet på sporet.
 
 AI viste ham en slankere måde at skalere en virksomhed på, og han begyndte at bygge den slags systemer for andre.
 
-I dag leder Patrick virksomheden Mugisha AI. Vi arbejder direkte med virksomhedsejere om systemer, der fjerner det manuelle arbejde fra deres teams.
+I dag leder Patrick virksomheden Mugisha AI. Vi arbejder direkte med virksomhedsejere om systemer, der sparer deres teams for det manuelle arbejde.
 
 Vores tilgang
 
@@ -31,7 +31,7 @@ Vores tilgang
 
 ### Kend arbejdet først
 
-Vi lærer, hvordan arbejdet udføres i din virksomhed, før vi vælger ét eneste værktøj.
+Vi lærer arbejdet i din virksomhed at kende, før vi vælger ét eneste værktøj.
 
 ### Brug AI, hvor det hjælper
 
@@ -97,7 +97,7 @@ Bjerrehuus Fine Jewellery
 
 ## Fortæl os om din virksomhed.
 
-En kort besked er nok til at starte samtalen.
+En kort besked er nok til at komme i gang.
 
 [Kontakt os](https://mugishamarketing.com/da/kontakt/)
 

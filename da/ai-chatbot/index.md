@@ -9,25 +9,25 @@ AI-chatbot
 
 # En AI-chatbot til din hjemmeside, der svarer som dit team.
 
-En AI-chatbot til din hjemmeside svarer på besøgendes spørgsmål med dine egne priser, vilkår og produktoplysninger. Den kan også tage imod henvendelser, booke møder og give samtalen videre til en medarbejder, når det giver mening. Vi bygger den, kobler den på dine systemer og forbedrer den efter lanceringen.
+En AI-chatbot til din hjemmeside svarer på besøgendes spørgsmål med dine egne priser, vilkår og produktoplysninger. Den kan også tage imod henvendelser, booke møder og give samtalen videre til en medarbejder, når der er brug for det. Vi bygger den, kobler den på dine systemer og forbedrer den efter lanceringen.
 
 01, Hvad det er
 
 ## En chatbot, der kender din virksomhed.
 
-En AI-chatbot til en hjemmeside er et chatvindue, der læser besøgendes spørgsmål, som de er skrevet, og svarer ud fra det materiale, du giver den: FAQ, priser, produktsider og vilkår. Kender den ikke svaret, siger den det og giver samtalen videre til dit team.
+En AI-chatbot til en hjemmeside er et chatvindue, der læser de besøgendes spørgsmål og svarer ud fra det materiale, du giver den: FAQ, priser, produktsider og vilkår. Kender den ikke svaret, siger den det og giver samtalen videre til dit team.
 
-Ældre chatbots følger en fast menu: vælg en mulighed, få et standardsvar. En AI-chatbot læser spørgsmålet, som det er skrevet, og kan svare på formuleringer, den ikke har set før. Det er forskellen på en menu og AI-kundeservice.
+Ældre chatbots følger en fast menu: vælg en mulighed, få et standardsvar. En AI-chatbot forstår spørgsmålet, som det er skrevet, og kan svare på formuleringer, den ikke har set før. Det er forskellen på en menu og AI-kundeservice.
 
 [Tal med os om det](https://mugishamarketing.com/da/kontakt/)
 
 ### Det arbejde, du slipper for
 
-De samme spørgsmål til din kundeservice, der kommer ind på mail, telefon og chat: åbningstider, levering, hvad der er med, og hvordan man bestiller. Chatbotten tager også første runde med nye leads, så dit team starter samtalen længere fremme. Når opgaven rækker ud over at svare, kan chatbotten være indgangen til en [AI-agent](https://mugishamarketing.com/da/ai-agenter/), der handler på henvendelsen.
+De samme spørgsmål, der kommer ind til din kundeservice på mail, telefon og chat: åbningstider, levering, hvad der følger med, og hvordan man bestiller. Chatbotten tager også den første samtale med nye leads, så dit team ikke starter fra bunden. Når opgaven rækker ud over at svare, kan chatbotten være indgangen til en [AI-agent](https://mugishamarketing.com/da/ai-agenter/), der tager sig af henvendelsen.
 
 ### Det får du
 
-En chatbot på dit website, bygget på dine egne oplysninger og sat op til at ramme din tone. Den indsamler de oplysninger, dit team har brug for, booker møder i din kalender og giver samtalen videre til en medarbejder med hele forløbet vedhæftet. Du bestemmer, hvilke emner den tager, og hvilke den aldrig rører.
+En chatbot på dit website, bygget på dine egne oplysninger og sat op til at ramme din tone. Den indsamler de oplysninger, dit team har brug for, booker møder i din kalender og giver samtalen videre til en medarbejder med hele forløbet vedhæftet. Du bestemmer, hvilke emner den svarer på, og hvilke den aldrig rører.
 
 ### For eksempel
 
@@ -45,7 +45,7 @@ Claude eller GPT læser spørgsmålet og skriver svaret. n8n, Zapier eller Make 
 
 ### Hvem det er for
 
-Ejerledede og mellemstore virksomheder med cirka 10 til 500 medarbejdere, i Danmark og udlandet. Det passer bedst, hvor kunderne stiller mange af de samme spørgsmål, og nogle få medarbejdere bruger en del af dagen på at besvare dem. Er du i tvivl om, om en chatbot er det rigtige første skridt? Så rangerer en AI-audit, som er en del af vores [AI-rådgivning](https://mugishamarketing.com/da/ai-konsulent/), hvad der skal bygges først. Mugisha AI ligger i København.
+Ejerledede og mellemstore virksomheder med cirka 10 til 500 medarbejdere, i Danmark og udlandet. Det passer bedst, hvor kunderne stiller mange af de samme spørgsmål, og nogle få medarbejdere bruger en del af dagen på at besvare dem. Er du i tvivl om, om en chatbot er det rigtige første skridt? Så viser en AI-audit, som er en del af vores [AI-rådgivning](https://mugishamarketing.com/da/ai-konsulent/), hvad der skal bygges først. Mugisha AI ligger i København.
 
 ### Dine konti, dine data
 
@@ -55,17 +55,17 @@ Chatbotten ligger på konti, som din virksomhed ejer. Før lancering aftaler vi,
 
 ## Hvad chatbotten skal bruge fra dig.
 
-Hvordan en chatbot adskiller sig fra almindelig automatisering og fra en AI-agent, står i sammenligningstabellen på siden om [AI-agenter](https://mugishamarketing.com/da/ai-agenter/#what). Herunder står det, chatbotten skal bruge fra dig, før den går live.
+Hvordan en chatbot adskiller sig fra almindelig automatisering og fra en AI-agent, står i sammenligningstabellen på siden om [AI-agenter](https://mugishamarketing.com/da/ai-agenter/#what). Herunder ser du, hvad chatbotten skal bruge fra dig, før den går live.
 
 ### Det skal vi bruge fra dig, før chatbotten går live
 
 - Dine FAQ, priser, leveringsvilkår og produktoplysninger som tekst, vi må bruge.
 
-- En afgørelse om, hvilke emner den må tage, og hvilke den aldrig må røre, for eksempel klager eller juridiske spørgsmål.
+- En beslutning om, hvilke emner den må svare på, og hvilke den aldrig må røre, for eksempel klager eller juridiske spørgsmål.
 
 - Regler for overlevering til en medarbejder: hvornår, til hvem og på hvilken kanal.
 
-- Dine åbningstider og hvad der sker uden for dem, for eksempel at chatbotten tager imod henvendelsen, og dit team svarer næste morgen.
+- Dine åbningstider, og hvad der sker uden for dem, for eksempel at chatbotten tager imod henvendelsen, og dit team svarer næste morgen.
 
 - De sprog, den skal svare på.
 
@@ -75,19 +75,19 @@ Hvordan en chatbot adskiller sig fra almindelig automatisering og fra en AI-agen
 
 - En person, der kan opdatere svarene, når priser eller vilkår ændrer sig.
 
-- Det tal, den skal flytte, for eksempel spørgsmål besvaret uden dit team eller bookede møder.
+- Det tal, den skal forbedre, for eksempel spørgsmål besvaret uden dit team eller bookede møder.
 
 Sådan kører et projekt
 
 ## Først et målbart mål, så chatbotten.
 
-Før arbejdet begynder, aftaler vi omfang, tidsplan og det tal, chatbotten skal flytte, f.eks. spørgsmål besvaret uden dit team eller bookede møder.
+Før arbejdet begynder, aftaler vi omfang, tidsplan og det tal, chatbotten skal forbedre, f.eks. spørgsmål besvaret uden dit team eller bookede møder.
 
 01
 
 ### Diagnose
 
-Vi læser de spørgsmål, dit team besvarer i dag, på mail, telefon og chat, og udvælger dem, en chatbot skal tage. Vi aftaler også, hvornår den skal give videre til en medarbejder.
+Vi læser de spørgsmål, dit team besvarer i dag, på mail, telefon og chat, og udvælger dem, en chatbot skal svare på. Vi aftaler også, hvornår den skal give samtalen videre til en medarbejder.
 
 02
 
@@ -117,7 +117,7 @@ Et generelt værktøj svarer ud fra bred viden. Din chatbot svarer ud fra dine e
 
 ### Kan den give en samtale videre til en medarbejder?
 
-Ja. Du bestemmer, hvornår den skal, f.eks. ved klager, tilbud eller noget, den ikke kan svare på. Medarbejderen får oplysningerne og hele samtalen, på mail eller direkte i dit CRM eller din helpdesk.
+Ja. Du bestemmer, hvornår, f.eks. ved klager, tilbud eller noget, den ikke kan svare på. Medarbejderen får oplysningerne og hele samtalen, på mail eller direkte i dit CRM eller din helpdesk.
 
 ### Er vores kundedata sikre?
 
@@ -129,7 +129,7 @@ Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfan
 
 ### Kan vores team selv rette, hvad chatbotten siger?
 
-Ja. Dit team kan opdatere svar, tilføje emner og ændre reglerne for, hvornår en medarbejder overtager, uden kode. Vi viser, hvordan, og afleverer en skriftlig beskrivelse.
+Ja. Dit team kan uden kode opdatere svar, tilføje emner og ændre reglerne for, hvornår en medarbejder tager over. Vi viser hvordan og afleverer en skriftlig vejledning.
 
 ## Fortæl os, hvad dine besøgende spørger om.
 

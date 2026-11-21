@@ -2,14 +2,14 @@
 title: RPA eller AI-automatisering: forskellen | Mugisha AI
 url: https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/
 language: da
-description: RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet: hvordan de virker, hvad der vælter dem, fire eksempler og hvornår du skifter.
+description: RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet: hvordan de virker, hvor de fejler, fire eksempler og hvornår du skifter.
 ---
 
 # RPA eller AI-automatisering: hvad er forskellen?
 
 Opdateret: 21. november 2026 · Gennemgået af [Patrick Mugisha](https://mugishamarketing.com/da/om-os/), stifter
 
-RPA gentager faste klik og tastetryk på skærme og virker, så længe input og skærmbilleder er de samme. AI-automatisering bruger en sprogmodel til at læse og vurdere rodet input som mails og dokumenter, og en arbejdsgang handler så på resultatet. De fleste rigtige opgaver bruger begge: regler til trinene, AI til læsningen.
+RPA gentager faste klik og tastetryk på skærme og virker, så længe input og skærmbilleder er de samme. AI-automatisering bruger en sprogmodel til at læse og vurdere rodet input som mails og dokumenter, og en arbejdsgang handler så på resultatet. De fleste opgaver i praksis kræver begge dele: regler til trinene, AI til læsningen.
 
 ## De fire slags side om side
 
@@ -21,7 +21,7 @@ RPA gentager faste klik og tastetryk på skærme og virker, så længe input og 
 
 | Hvad den kan tage imod | Struktureret input med samme layout hver gang | Struktureret data fra programmer, formularer og filer | Fri tekst, dokumenter og blandede formater | Åbne opgaver med varierende input
 
-| Hvad der vælter den | En flyttet knap, et nyt skærmlayout, en pop-up | Et ændret felt eller en ændret grænseflade | En forkert læsning af usædvanligt input | Et forkert skridt, den tager på egen hånd
+| Hvor den fejler | En flyttet knap, et nyt skærmlayout, en pop-up | Et ændret felt eller en ændret grænseflade | En forkert læsning af usædvanligt input | Et forkert skridt, den tager på egen hånd
 
 | Typisk brug | Flytte data i et system, der ikke har andre veje ind | Formular til CRM, ordre til faktura, notifikationer | Sortere mail, læse fakturaer, skrive svarudkast | Slå op på tværs af systemer og foreslå næste skridt
 
@@ -31,7 +31,7 @@ UiPath, en stor RPA-leverandør, skriver: »Robotic process automation (RPA) use
 
 IBM trækker linjen op mod AI: »The critical difference is that RPA is process-driven, whereas AI is data-driven.« IBM tilføjer: »RPA bots can follow only the processes defined by an end user, while AI bots use machine learning to recognize patterns in data, in particular unstructured data, and learn over time.« Kort sagt følger RPA en proces, som et menneske har defineret, mens AI lærer mønstre i data.
 
-Om den sidste kolonne skriver n8n's dokumentation, at »the agent decides which tools to call to complete a task«. Anthropic skelner mellem workflows, »systems where LLMs and tools are orchestrated through predefined code paths«, og agenter, »systems where LLMs dynamically direct their own processes and tool usage«. Vores [guide til agentisk AI](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/) går længere ind i agentsiden.
+Om den sidste kolonne skriver n8n's dokumentation, at »the agent decides which tools to call to complete a task«. Anthropic skelner mellem workflows, »systems where LLMs and tools are orchestrated through predefined code paths«, og agenter, »systems where LLMs dynamically direct their own processes and tool usage«. Vores [guide til agentisk AI](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/) går mere i dybden med agenter.
 
 ## Fire opgaver, fire svar
 
@@ -39,7 +39,7 @@ Det er illustrationer af, hvordan vi ville sortere opgaver, ikke kundeforløb.
 
 ### En leverandørportal uden andre veje ind
 
-Medarbejdere kopierer fakturalinjer fra en portal ind i regnskabssystemet. Portalen har ingen integration, og siderne ser ens ud hver gang. Det er RPA-terræn. Tilbyder portalen en grænseflade til data, er en arbejdsgang mere stabil.
+Medarbejdere kopierer fakturalinjer fra en portal ind i regnskabssystemet. Portalen har ingen integration, og siderne ser ens ud hver gang. Her passer RPA. Tilbyder portalen en grænseflade til data, er en arbejdsgang mere stabil.
 
 ### En formular, der skal oprette en post
 
@@ -51,11 +51,11 @@ Der kommer mails om ordrer, forsinkelser og returneringer, hver formuleret forsk
 
 ### En henvendelse, der kræver flere opslag
 
-En leverandør spørger, hvorfor en levering er forsinket. For at svare skal man se i ordresystemet, fragtbeskeden og tidligere mails og så vælge, hvad der skal ske. Det passer til en agent med snævre værktøjer og en log, som starter i forslagstilstand.
+En leverandør spørger, hvorfor en levering er forsinket. For at svare skal man tjekke ordresystemet, fragtbeskeden og tidligere mails og så beslutte, hvad der skal ske. Det passer til en agent med få værktøjer og en log, som i starten kun foreslår.
 
 ## Sådan kombinerer du dem
 
-Efter vores erfaring bruger de stærkeste løsninger hver slags, hvor den er billigst og mest forudsigelig. En arbejdsgang er rygraden og flytter data mellem programmer. Et AI-trin læser rodet input. Et RPA-trin bruges kun, hvor et program ikke har andre døre. En agent sparer vi til den del, der virkelig varierer, og et menneske godkender det, der forlader virksomheden. Anthropics råd gælder: »we recommend finding the simplest solution possible, and only increasing complexity when needed«.
+Efter vores erfaring bruger de stærkeste løsninger hver slags, hvor den er billigst og mest forudsigelig. En arbejdsgang er rygraden og flytter data mellem programmer. Et AI-trin læser rodet input. Et RPA-trin bruges kun, hvor et program ikke kan nås på anden måde. En agent sparer vi til den del, der virkelig varierer, og et menneske godkender det, der forlader virksomheden. Anthropics råd gælder: »we recommend finding the simplest solution possible, and only increasing complexity when needed«.
 
 Vores sider om [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), [n8n](https://mugishamarketing.com/da/n8n-konsulent/) og [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) beskriver, hvad vi bygger i hvert tilfælde.
 
@@ -75,7 +75,7 @@ Det er vores vurdering, ikke en regel. Behold en robot, når den kører stabilt,
 
 Overvej at skifte, når:
 
-- den stopper hver gang skærmlayoutet ændrer sig, og det tager længere at rette end selve opgaven;
+- den stopper, hver gang skærmlayoutet ændrer sig, og det tager længere at rette end selve opgaven;
 
 - input er blevet til fri tekst, som robotten ikke kan læse;
 
@@ -83,7 +83,7 @@ Overvej at skifte, når:
 
 - ingen kan sige, hvordan den virker, eller hvem der ejer den.
 
-Også da bør du skifte én opgave ad gangen og køre gammelt og nyt side om side, før robotten slukkes.
+Selv da bør du skifte én opgave ad gangen og køre gammelt og nyt side om side, før robotten slukkes.
 
 ## Ofte stillede spørgsmål
 
@@ -105,7 +105,7 @@ Nogle gange, delvist. Hvor en robot fejler, fordi input varierer, kan et AI-trin
 
 ### Har vi brug for RPA, hvis vi bruger n8n, Make eller Zapier?
 
-Ofte ikke. Har programmerne grænseflader, når arbejdsgangsværktøjerne dem direkte. RPA er mest nyttig, hvor et program kun kan bruges gennem skærmen.
+Ofte ikke. Har programmerne grænseflader, kan værktøjerne koble direkte på dem. RPA er mest nyttig, hvor et program kun kan bruges gennem skærmen.
 
 ### Hvor starter vi, hvis vi er i tvivl om, hvad der passer?
 
@@ -139,7 +139,7 @@ Sider vi har læst, tjekket 20. november 2026:
 
 ## Hvilken slags passer til dig?
 
-Fortæl os opgaven og hvad den tager imod. Vi siger, om RPA, en arbejdsgang, AI eller en agent passer.
+Fortæl os om opgaven, og hvad den tager imod. Vi siger, om RPA, en arbejdsgang, AI eller en agent passer.
 
 [Kontakt os](https://mugishamarketing.com/da/kontakt/)
 

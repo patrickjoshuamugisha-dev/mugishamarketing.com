@@ -2,14 +2,14 @@
 title: AI-automatisering til virksomheder i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-automatisering/
 language: da
-description: AI-automatisering tager gentaget arbejde fra dit team. Vi finder flaskehalsen, bygger arbejdsgangen i n8n, Zapier eller Make og følger det aftalte tal.
+description: AI-automatisering aflaster dit team for gentaget arbejde. Vi finder flaskehalsen, bygger arbejdsgangen i n8n, Zapier eller Make og følger det aftalte tal.
 ---
 
 AI-automatisering
 
-# AI-automatisering, der tager det gentagne arbejde fra dit team.
+# AI-automatisering, der overtager dit teams gentagne opgaver.
 
-AI-automatisering betyder, at software og AI-modeller selv klarer gentaget arbejde i virksomheden, som at sortere henvendelser, opdatere kundedata og skrive udkast til svar. Et menneske afgør stadig, hvilke trin der tjekkes, før noget sendes. Vi bygger det oven på de værktøjer, du allerede bruger.
+AI-automatisering betyder, at software og AI-modeller selv klarer rutinearbejde i virksomheden, som at sortere henvendelser, opdatere kundedata og skrive udkast til svar. Et menneske afgør stadig, hvilke trin der tjekkes, før noget sendes. Vi bygger det oven på de værktøjer, du allerede bruger.
 
 01, Hvad det er
 
@@ -31,17 +31,17 @@ En arbejdsgang med ét klart mål og et tal, vi følger fra den dag, den går i 
 
 ### For eksempel
 
-Lad os sige, at leverandørfakturaer kommer som pdf på mail. Arbejdsgangen læser hver faktura, trækker leverandør, dato og beløb ud og lægger dem ind i dit regnskabssystem. Ser noget mærkeligt ud, går fakturaen til en medarbejder med en note om, hvad der skal tjekkes. De almindelige fakturaer taster ingen.
+Lad os sige, at leverandørfakturaer kommer som pdf på mail. Arbejdsgangen læser hver faktura, trækker leverandør, dato og beløb ud og lægger dem ind i dit regnskabssystem. Ser noget mærkeligt ud, går fakturaen til en medarbejder med en note om, hvad der skal tjekkes. Ingen taster de almindelige fakturaer ind.
 
 ### Fra et rigtigt projekt
 
-En hotelejer ved den danske kyst havde to travle Outlook-indbakker. Vi byggede en AI-mailagent i n8n og Microsoft 365, der sorterede begge indbakker og skrev svarudkast, som hun selv skulle godkende. På en uge sorterede den 121 mails og fandt de 15, der krævede svar. Hun fortalte os, at udkastene ikke var det, hun ville have, så vi satte dem på pause og byggede det, hun bad om i stedet, nemlig én mail kl. 08.00 hver morgen med de samtaler, der stadig venter på hendes svar.
+En hotelejer ved den danske kyst havde to travle Outlook-indbakker. Vi byggede en AI-mailagent i n8n og Microsoft 365, der sorterede begge indbakker og skrev svarudkast, som hun selv skulle godkende. På en uge sorterede den 121 mails og fandt de 15, der krævede svar. Hun fortalte os, at udkastene ikke var det, hun ville have, så vi satte dem på pause og byggede i stedet det, hun bad om: én mail kl. 08.00 hver morgen med de samtaler, der stadig venter på hendes svar.
 
 02, Værktøjer og målgruppe
 
 ## Bygget på værktøjer, du selv ejer.
 
-Vi vælger det værktøj, der passer til opgaven, ikke det, vi bedst kan lide. Arbejdsgangene kører i [n8n](https://mugishamarketing.com/da/n8n-konsulent/), Zapier eller Make. Claude og GPT læser og skriver teksten. Kundeforløb kan ligge i HighLevel, samtaler i ManyChat og udgående mails i Instantly. Hvor dine egne systemer allerede gør jobbet, kobler vi os på dem i stedet for at skifte dem ud. Vælger du værktøjet selv, [sammenligner vores guide n8n, Make og Zapier](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/). Er du i tvivl om, om du skal bruge RPA eller AI? [Vores guide forklarer forskellen](https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/). Mere læsning finder du under [Viden](https://mugishamarketing.com/da/viden/).
+Vi vælger det værktøj, der passer til opgaven, ikke det, vi bedst kan lide. Arbejdsgangene kører i [n8n](https://mugishamarketing.com/da/n8n-konsulent/), Zapier eller Make. Claude og GPT læser og skriver teksten. Kundeforløb kan ligge i HighLevel, samtaler i ManyChat og udgående mails i Instantly. Hvor dine egne systemer allerede gør jobbet, kobler vi os på dem i stedet for at skifte dem ud. Vælger du værktøjet selv, [sammenligner vores guide n8n, Make og Zapier](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/). Er du i tvivl, om du skal bruge RPA eller AI? [Vores guide forklarer forskellen](https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/). Se flere artikler under [Viden](https://mugishamarketing.com/da/viden/).
 
 ### Hvem det er for
 
@@ -53,13 +53,13 @@ Værktøjerne oprettes på konti, din virksomhed ejer, så du beholder fuld adga
 
 ### Usikker på, hvad der er værd at automatisere?
 
-Vores [AI-audit](https://mugishamarketing.com/da/ai-konsulent/) prioriterer dine processer og viser, hvad der skal automatiseres først. Skal AI ud i flere afdelinger, kan du læse om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Til kundechat har vi [AI-chatbot til din hjemmeside](https://mugishamarketing.com/da/ai-chatbot/).
+Vores [AI-audit](https://mugishamarketing.com/da/ai-konsulent/) prioriterer dine processer og viser, hvad der skal automatiseres først. Skal AI ud i flere afdelinger, kan du læse om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Til kundechat har vi en [AI-chatbot til din hjemmeside](https://mugishamarketing.com/da/ai-chatbot/).
 
 03, Hvilke opgaver
 
 ## Hvilke opgaver passer til automatisering?
 
-Ikke alt skal have AI på. Nogle opgaver klares bedst af en fast regel, andre kræver, at en model læser og vurderer, og nogle bør blive hos et menneske. Sådan sorterer vi dem.
+Ikke alt behøver AI. Nogle opgaver klares bedst af en fast regel, andre kræver, at en model læser og vurderer, og nogle bør blive hos et menneske. Sådan sorterer vi dem.
 
 | Opgavetype | Eksempel | Passer til
 
@@ -75,7 +75,7 @@ Ikke alt skal have AI på. Nogle opgaver klares bedst af en fast regel, andre kr
 
 | Skrive første udkast til et standardsvar | Et svarudkast til en kundehenvendelse, som en medarbejder godkender. | Kræver AI, med godkendelse
 
-| Forhandle pris eller tage en utilfreds kunde | Et opkald om en forsinket levering. | Overlades til et menneske
+| Forhandle pris eller håndtere en utilfreds kunde | Et opkald om en forsinket levering. | Overlades til et menneske
 
 | Beslutninger med juridisk eller økonomisk vægt | At godkende en kreditaftale eller afgøre en tvist. | Overlades til et menneske
 
@@ -87,7 +87,7 @@ Mange arbejdsgange blander typerne: en fast regel flytter dataene, en AI-model l
 
 - Input kommer ind på en forudsigelig måde: samme indbakke, samme formular, samme filtype.
 
-- Nogen kan skrive trinene ned, også dem der kræver skøn, og forklare, hvornår man vælger hvad.
+- Nogen kan skrive trinene ned, også dem, der kræver skøn, og forklare, hvornår man vælger hvad.
 
 - Du ved, hvordan et rigtigt resultat ser ud, så det kan tjekkes.
 
@@ -135,15 +135,15 @@ Almindelig automatisering følger faste regler og kræver ensartet input. AI-aut
 
 ### Hvilke opgaver bør vi automatisere først?
 
-Start med arbejde, der gentages ofte, følger et mønster og tager rigtig tid, som at taste data, sortere henvendelser eller sende opfølgning. Vi finder de bedste kandidater i diagnosen, og den med det klareste afkast kommer først.
+Start med arbejde, der gentages ofte, følger et mønster og tager mærkbar tid, som at taste data, sortere henvendelser eller sende opfølgning. Vi finder de bedste kandidater i diagnosen, og den med det klareste afkast kommer først.
 
 ### Erstatter AI-automatisering vores medarbejdere?
 
-Målet er at tage rutinetrinene fra dit team, så de får tid til arbejde, der kræver skøn og kontakt med kunderne. Du bestemmer selv, hvilke trin et menneske stadig godkender.
+Målet er at aflaste dit team for rutinetrinene, så de får tid til arbejde, der kræver skøn og kontakt med kunderne. Du bestemmer selv, hvilke trin et menneske stadig godkender.
 
 ### Hvor lang tid tager et projekt, og hvad koster det?
 
-Projekter starter fra cirka 7.000 kr. ekskl. moms. Det afhænger af omfanget. Hvert projekt har et fast omfang og en tidsplan, som vi aftaler, før arbejdet starter, så du ved, hvad du kan forvente. Skriv til os om din proces, så fortæller vi, hvad der passer.
+Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt har et fast omfang og en tidsplan, som vi aftaler, før arbejdet starter, så du ved, hvad du kan forvente. Skriv til os om din proces, så fortæller vi, hvad der passer.
 
 ### Er vores data i sikkerhed?
 
@@ -151,7 +151,7 @@ Vi aftaler på forhånd, hvilke data hver arbejdsgang bruger, og hvor de sendes 
 
 ### Kan vores team ændre arbejdsgangen bagefter?
 
-Ja. Vi bygger det, så dit team kan ændre det uden kode, og vi afslutter med en dokumenteret overlevering og oplæring. Efter lanceringen kan vi forbedre den sammen med dig, eller du kan køre den selv.
+Ja. Vi bygger den, så dit team kan ændre den uden kode, og vi afslutter med en dokumenteret overlevering og oplæring. Efter lanceringen kan vi forbedre den sammen med dig, eller du kan køre den selv.
 
 ## Fortæl os, hvad der skal automatiseres.
 

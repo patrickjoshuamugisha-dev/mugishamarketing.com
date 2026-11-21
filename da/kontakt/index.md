@@ -2,12 +2,12 @@
 title: Kontakt Mugisha AI, AI-bureau i København
 url: https://mugishamarketing.com/da/kontakt/
 language: da
-description: Fortæl os, hvad der tager tid fra dit team. Skriv et par linjer her eller på mail til vores AI-bureau i København, så vender vi hurtigt tilbage til dig.
+description: Fortæl os, hvad der sluger dit teams tid. Skriv et par linjer her eller på mail til vores AI-bureau i København, så vender vi hurtigt tilbage til dig.
 ---
 
 Kontakt
 
-# Fortæl os, hvad der tager tid fra dit team.
+# Fortæl os, hvad der sluger dit teams tid.
 
 Et par linjer om din virksomhed er nok. Vi vender hurtigt tilbage.
 

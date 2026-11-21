@@ -33,7 +33,7 @@ Derfor bruges »agent« og »agentisk« løst. Her betyder »agentisk AI« hele 
 
 ## Eksempler for en virksomhed med 10 til 500 ansatte
 
-Det følgende er eksempler på den slags opgaver, der passer, og ikke resultater fra en kunde.
+Her er eksempler på opgaver, der passer, ikke resultater fra en kunde.
 
 ### Nye henvendelser
 
@@ -55,7 +55,7 @@ Når en aftale er vundet, tjekker agenten, at kundeoplysningerne er komplette, o
 
 - **Et menneske godkender alt, der forlader virksomheden.** Anthropic skriver, at agenter kan »pause for human feedback at checkpoints or when encountering blockers«, altså holde pause og spørge et menneske ved kontrolpunkter eller forhindringer. Vi starter med, at agenten skriver udkast, og et menneske sender.
 
-- **Grænser.** Bestem, hvilke værktøjer og hvilke data agenten må nå, og hvor mange trin den må tage. Anthropic anbefaler »stopping conditions (such as a maximum number of iterations) to maintain control«, altså stopbetingelser som et højeste antal runder.
+- **Grænser.** Bestem, hvilke værktøjer og hvilke data agenten må bruge, og hvor mange trin den må tage. Anthropic anbefaler »stopping conditions (such as a maximum number of iterations) to maintain control«, altså stopbetingelser som et højeste antal runder.
 
 - **En log.** Hvert trin, agenten tager, bliver skrevet ned, så du kan se, hvad der skete og hvorfor, og rette det, hvis noget går galt.
 
@@ -67,9 +67,9 @@ Når en aftale er vundet, tjekker agenten, at kundeoplysningerne er komplette, o
 
 ## Hvornår du ikke skal bruge agentisk AI
 
-Anthropic anbefaler at »find the simplest solution possible, and only increase complexity when needed«, og skriver, at agentiske systemer ofte bytter hastighed og pris for bedre resultater (»agentic systems often trade latency and cost for better task performance«). I praksis skal du lade være, når:
+Anthropic anbefaler at »find the simplest solution possible, and only increase complexity when needed«, og skriver, at agentiske systemer ofte giver bedre resultater, men er langsommere og dyrere (»agentic systems often trade latency and cost for better task performance«). I praksis skal du lade være, når:
 
-- trinene altid er de samme, fordi almindelig automatisering er enklere og lettere at kontrollere;
+- trinene altid er de samme, for så er almindelig automatisering enklere og lettere at kontrollere;
 
 - en fejl er dyr og ikke kan fortrydes, for eksempel en betaling eller en kontrakt;
 
@@ -107,11 +107,11 @@ Nej. En chatbot taler med dig og svarer. Et agentisk system handler også: det k
 
 ### Er agentisk AI sikkert for en virksomhed?
 
-Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv den en snæver opgave, begræns de værktøjer og data, den kan nå, før log over hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Start med forslag, før den handler.
+Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv det en snæver opgave, begræns de værktøjer og data, det har adgang til, log hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Lad det foreslå, før det handler.
 
 ### Gælder EU’s AI-forordning for agentisk AI?
 
-Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den sorterer AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker.
+Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den inddeler AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker.
 
 ### Skal vi bruge agentisk AI, eller er almindelig automatisering nok?
 

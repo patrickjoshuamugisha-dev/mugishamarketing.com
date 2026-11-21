@@ -107,7 +107,7 @@
      "name": "Er agentisk AI sikkert for en virksomhed?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv den en snæver opgave, begræns de værktøjer og data, den kan nå, før log over hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Start med forslag, før den handler."
+      "text": "Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv det en snæver opgave, begræns de værktøjer og data, det har adgang til, log hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Lad det foreslå, før det handler."
      }
     },
     {
@@ -115,7 +115,7 @@
      "name": "Gælder EU’s AI-forordning for agentisk AI?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den sorterer AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker."
+      "text": "Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den inddeler AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker."
      }
     },
     {
@@ -225,7 +225,7 @@
 <p>Anthropics vejledning <a href="https://www.anthropic.com/engineering/building-effective-agents" rel="noopener">Building effective agents</a> trækker linjen sådan: Arbejdsgange er »systems where LLMs and tools are orchestrated through predefined code paths«, altså systemer, hvor sprogmodeller og værktøjer styres af kodeveje, der er lagt fast på forhånd. Agenter er »systems where LLMs dynamically direct their own processes and tool usage«, altså systemer, hvor modellen selv styrer sin proces og sin brug af værktøjer. OpenAI skriver i sin <a href="https://developers.openai.com/api/docs/guides/agents" rel="noopener">vejledning om agenter</a>, at agenter »can plan and complete tasks using tools, work with other agents, and maintain context across steps«, altså kan planlægge og gennemføre opgaver med værktøjer, samarbejde med andre agenter og holde styr på sammenhængen på tværs af trin. Oversættelserne er vores.</p>
 <p>Derfor bruges »agent« og »agentisk« løst. Her betyder »agentisk AI« hele tilgangen, og »agent« betyder én del af den. Det er vores brug af ordene og ikke en officiel definition.</p>
 <h2>Eksempler for en virksomhed med 10 til 500 ansatte</h2>
-<p>Det følgende er eksempler på den slags opgaver, der passer, og ikke resultater fra en kunde.</p>
+<p>Her er eksempler på opgaver, der passer, ikke resultater fra en kunde.</p>
 <h3>Nye henvendelser</h3>
 <p>Agenten læser en henvendelse fra formularen på hjemmesiden eller fra en indbakke, tjekker i CRM, om kunden allerede findes, skriver et svarudkast og foreslår et tidspunkt til en samtale. Et menneske godkender svaret, før noget bliver sendt.</p>
 <h3>Sortering af indkommende mails</h3>
@@ -237,16 +237,16 @@
 <h2>Sådan kører du den sikkert</h2>
 <ul>
 <li><strong>Et menneske godkender alt, der forlader virksomheden.</strong> Anthropic skriver, at agenter kan »pause for human feedback at checkpoints or when encountering blockers«, altså holde pause og spørge et menneske ved kontrolpunkter eller forhindringer. Vi starter med, at agenten skriver udkast, og et menneske sender.</li>
-<li><strong>Grænser.</strong> Bestem, hvilke værktøjer og hvilke data agenten må nå, og hvor mange trin den må tage. Anthropic anbefaler »stopping conditions (such as a maximum number of iterations) to maintain control«, altså stopbetingelser som et højeste antal runder.</li>
+<li><strong>Grænser.</strong> Bestem, hvilke værktøjer og hvilke data agenten må bruge, og hvor mange trin den må tage. Anthropic anbefaler »stopping conditions (such as a maximum number of iterations) to maintain control«, altså stopbetingelser som et højeste antal runder.</li>
 <li><strong>En log.</strong> Hvert trin, agenten tager, bliver skrevet ned, så du kan se, hvad der skete og hvorfor, og rette det, hvis noget går galt.</li>
 <li><strong>Test før brug.</strong> Anthropic anbefaler »extensive testing in sandboxed environments, along with the appropriate guardrails«, altså omfattende test i afskærmede miljøer med passende værn. Vi kører en agent på testdata, før den rører ved rigtige kunder.</li>
 <li><strong>EU-reglerne.</strong> Europa-Kommissionen skriver, at AI-forordningen trådte i kraft 1. august 2024 og er gældende fra 2. august 2026 med visse undtagelser. Mennesker skal have besked, når de taler med en maskine, og »appropriate human oversight measures« er et krav til højrisikosystemer, altså passende menneskeligt tilsyn. Om en brug er højrisiko, er et juridisk spørgsmål, så spørg din rådgiver, hvis det handler om beslutninger om mennesker.</li>
 <li><strong>Personoplysninger.</strong> Hvis agenten behandler personoplysninger, så aftal, hvor data behandles, og hvem der er databehandler, før den første kørsel, som du ville gøre med ethvert værktøj, der er omfattet af GDPR.</li>
 </ul>
 <h2>Hvornår du ikke skal bruge agentisk AI</h2>
-<p>Anthropic anbefaler at »find the simplest solution possible, and only increase complexity when needed«, og skriver, at agentiske systemer ofte bytter hastighed og pris for bedre resultater (»agentic systems often trade latency and cost for better task performance«). I praksis skal du lade være, når:</p>
+<p>Anthropic anbefaler at »find the simplest solution possible, and only increase complexity when needed«, og skriver, at agentiske systemer ofte giver bedre resultater, men er langsommere og dyrere (»agentic systems often trade latency and cost for better task performance«). I praksis skal du lade være, når:</p>
 <ul>
-<li>trinene altid er de samme, fordi almindelig automatisering er enklere og lettere at kontrollere;</li>
+<li>trinene altid er de samme, for så er almindelig automatisering enklere og lettere at kontrollere;</li>
 <li>en fejl er dyr og ikke kan fortrydes, for eksempel en betaling eller en kontrakt;</li>
 <li>ingen i virksomheden vil eje resultatet og læse loggen;</li>
 <li>data ligger steder, ingen kan komme til, for en agent kan ikke arbejde med det, den ikke kan se.</li>
@@ -268,9 +268,9 @@
 <h3>Er agentisk AI det samme som en chatbot?</h3>
 <p>Nej. En chatbot taler med dig og svarer. Et agentisk system handler også: det kan læse en henvendelse, slå en kunde op, opdatere en post eller skrive et udkast. Derfor har det brug for grænser og godkendelsestrin, som en enkel chatbot ikke behøver.</p>
 <h3>Er agentisk AI sikkert for en virksomhed?</h3>
-<p>Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv den en snæver opgave, begræns de værktøjer og data, den kan nå, før log over hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Start med forslag, før den handler.</p>
+<p>Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv det en snæver opgave, begræns de værktøjer og data, det har adgang til, log hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Lad det foreslå, før det handler.</p>
 <h3>Gælder EU’s AI-forordning for agentisk AI?</h3>
-<p>Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den sorterer AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker.</p>
+<p>Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den inddeler AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker.</p>
 <h3>Skal vi bruge agentisk AI, eller er almindelig automatisering nok?</h3>
 <p>Er trinene altid de samme, er almindelig automatisering enklere, billigere i drift og lettere at kontrollere. Agentisk AI er værd at overveje, når input varierer, og et menneske i dag bruger tid på at læse, sortere og beslutte, hvad der skal ske nu.</p>
 <p>Flere enkle guides finder du under <a href="/da/viden/">viden om AI</a>, eller <a href="/da/kontakt/">skriv til os</a> med den opgave, du har i tankerne.</p>

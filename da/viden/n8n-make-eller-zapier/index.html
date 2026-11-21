@@ -213,11 +213,11 @@
 <p>Vælg Zapier, hvis det vigtigste er at kunne koble mange forskellige apps sammen, for Zapier lister mere end 9.000. Vælg Make, hvis du vil have et visuelt lærred til arbejdsgange med forgreninger og trin, der afhænger af hinanden. Vælg n8n, hvis du vil hoste værktøjet selv, holde data på dine egne servere eller tilføje kode, hvor de færdige trin ikke slår til. Alle tre kan køre AI-trin, så valget handler mest om hosting, prismodel og hvem der skal passe arbejdsgangene.</p>
 <h2>Hvad de tre værktøjer er</h2>
 <h3>n8n</h3>
-<p>n8n kalder sig en platform til agenter og arbejdsgange, du kan følge. Værktøjet lister mere end 500 indbyggede integrationer og kan nå enhver tjeneste med en API gennem et HTTP-trin. Du kan bruge den version, n8n hoster for dig, eller installere det på din egen server. Kildekoden ligger på GitHub, og der findes en gratis Community Edition til selvhosting. Den har næsten alle funktionerne, men mangler blandt andet single sign-on, deling af arbejdsgange og Git-versionsstyring, som hører til de betalte udgaver.</p>
+<p>n8n kalder sig en platform til agenter og arbejdsgange, du kan følge med i. Værktøjet lister mere end 500 indbyggede integrationer og kan nå enhver tjeneste med en API gennem et HTTP-trin. Du kan bruge den version, n8n hoster for dig, eller installere det på din egen server. Kildekoden ligger på GitHub, og der findes en gratis Community Edition til selvhosting. Den har næsten alle funktionerne, men mangler blandt andet single sign-on, deling af arbejdsgange og Git-versionsstyring, som hører til de betalte udgaver.</p>
 <h3>Make</h3>
 <p>Make beskriver sig selv som en AI-automatiseringsplatform til at bygge arbejdsgange og AI-agenter visuelt. Du bygger ved at trække moduler ind på et lærred eller ved at skrive en prompt. Make lister mere end 3.000 indbyggede apps, og enhver tjeneste med en offentlig API kan kobles på gennem en brugerdefineret app. På siden står der, at Make overholder GDPR og har SOC 2 Type II og SOC 3.</p>
 <h3>Zapier</h3>
-<p>Zapier beskriver sig selv som kontrolpunktet, der forbinder enhver AI med ethvert værktøj. Zapier lister mere end 9.000 apps og skriver, at over 3 millioner virksomheder bruger det. Du bygger automatiseringer, kaldet Zaps, ud fra en trigger og en eller flere handlinger. Zapier nævner også GDPR ved siden af sine SOC 2 Type II- og SOC 3-rapporter.</p>
+<p>Zapier beskriver sig selv som det kontrollag, der forbinder enhver AI med ethvert værktøj. Zapier lister mere end 9.000 apps og skriver, at over 3 millioner virksomheder bruger det. Du bygger automatiseringer, kaldet Zaps, ud fra en trigger og en eller flere handlinger. Zapier nævner også GDPR ved siden af sine SOC 2 Type II- og SOC 3-rapporter.</p>
 <h2>De tre værktøjer ved siden af hinanden</h2>
 <div class="tbl-wrap" style="overflow-x:auto"><table style="border-collapse:collapse;min-width:44rem;width:100%;line-height:1.45">
 <thead><tr><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top"></th><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">n8n</th><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Make</th><th scope="col" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Zapier</th></tr></thead>
@@ -227,16 +227,16 @@
 <tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">AI-funktioner</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">AI Agent-node, MCP-klient og MCP-server-trigger, menneskelig godkendelse af værktøjskald</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">AI-agenter, assistenten Maia, en MCP-server, AI-apps. Nogle AI-funktioner bruger flere kreditter</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Zapier Agents, Copilot (beta), AI by Zapier på betalte planer, Zapier MCP</td></tr>
 <tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Kodning</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Ikke til enkle arbejdsgange. Kode kan tilføjes, hvor du har brug for det</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Nej. Du bygger på et lærred med træk og slip eller med prompts</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Nej til almindelige trin. Der findes et Code by Zapier-trin</td></tr>
 <tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Data i EU og selvhosting</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Hostede planer gemmer data i Frankfurt i Tyskland. Selvhostet ligger data, hvor du selv hoster</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Make skriver: »Your Data zone is the Make setting on your organization (US1, US2, EU1, EU2)«, altså at datazonen er en indstilling på organisationen. Men »Selecting the EU1 or EU2 data zone does not automatically mean every request gets processed and stays in the EU«, altså at en EU-zone ikke automatisk betyder, at alle forespørgsler behandles i EU. Make angiver GDPR-overholdelse</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Ingen dataregion nævnt på de sider, vi læste. Zapier angiver GDPR-overholdelse</td></tr>
-<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Bedst til</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Teams, der vil styre hosting og data, eller har brug for egen kode</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Arbejdsgange med forgreninger og mange trin, bygget visuelt</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Hurtig kobling af mange forskellige apps og den længste applist</td></tr>
+<tr><th scope="row" style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Bedst til</th><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Teams, der vil styre hosting og data, eller har brug for egen kode</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Arbejdsgange med forgreninger og mange trin, bygget visuelt</td><td style="border:1px solid var(--line);padding:.5rem .75rem;text-align:left;vertical-align:top">Hurtig kobling af mange forskellige apps og den længste app-liste</td></tr>
 </tbody></table></div>
 <p>Tabellen er et overblik. Priser og plannavne ændrer sig, så tjek leverandørernes sider i kildelisten, før du beslutter dig.</p>
 <h2>Hvornår du skal vælge hvilket</h2>
 <h3>Vælg n8n, når</h3>
 <ul>
-<li>Dine databegrænsninger kræver, at værktøjet kører på servere, du selv kontrollerer, eller på et bestemt sted.</li>
+<li>Dine krav til data betyder, at værktøjet skal køre på servere, du selv kontrollerer, eller et bestemt sted.</li>
 <li>Du regner med at skrive noget egen kode eller koble interne systemer uden færdig connector.</li>
 <li>Du er tryg ved at betale pr. kørsel frem for pr. trin.</li>
-<li>Der er en i din virksomhed, eller en partner, der kan passe en server, hvis du selvhoster.</li>
+<li>Nogen i din virksomhed eller en partner kan passe en server, hvis du selvhoster.</li>
 </ul>
 <h3>Vælg Make, når</h3>
 <ul>
@@ -247,10 +247,10 @@
 <h3>Vælg Zapier, når</h3>
 <ul>
 <li>Du skal koble mange forskellige apps, også mindre udbredte.</li>
-<li>Opgaverne er korte og lige på: når det sker, så gør det.</li>
+<li>Opgaverne er korte og enkle: når det sker, så gør det.</li>
 <li>Du vil have et hostet værktøj, der ikke skal installeres, og en gratis plan at prøve det på.</li>
 </ul>
-<p>Hvis ingen af dem passer tydeligt, afgør de systemer, du allerede bruger, som regel sagen. Tjek, hvilket værktøj der har en færdig connector til dit CRM, dit regnskabsprogram og din mail. En manglende connector koster mere tid end en prisforskel.</p>
+<p>Er der ikke et oplagt valg, afgør de systemer, du allerede bruger, som regel sagen. Tjek, hvilket værktøj der har en færdig connector til dit CRM, dit regnskabsprogram og din mail. En manglende connector koster mere tid end en prisforskel.</p>
 <h2>Hvad det koster i praksis</h2>
 <p>Månedsprisen betyder mindre end afregningsenheden, for de tre værktøjer tæller arbejdet forskelligt.</p>
 <ul>
@@ -258,21 +258,21 @@
 <li>Make tæller kreditter. De fleste handlinger bruger én kredit, mens routere og fejlhåndtering ikke bruger nogen. Når kreditterne er brugt op, stopper scenarierne.</li>
 <li>Zapier tæller opgaver. En opgave er en handling, der er gennemført. Triggere, filtre, formatering og andre indbyggede værktøjer tæller ikke, og mislykkede handlinger bliver ikke afregnet.</li>
 </ul>
-<p>Her er et regneeksempel, ikke et kunderesultat. En arbejdsgang har én trigger og fire handlinger og kører 1.000 gange om måneden. I n8n er det 1.000 kørsler, og det er der plads til inden for de 2.500 på Starter-planen. I Zapier er det op til 4.000 opgaver, fordi triggeren ikke tæller, og det er langt over de 750 opgaver på Professionals indgangsniveau. I Make er det nogle få tusinde kreditter, fordi de fleste handlinger bruger én kredit. Det samme job kan altså være billigst i forskellige værktøjer, afhængigt af antal trin og hvor ofte det kører.</p>
-<p>Tre udgifter ligger uden for planprisen. Selvhoster du n8n, betaler du for en server og for, at nogen holder den opdateret og sikkerhedskopieret. AI-trin kan give en regning fra modeludbyderen, medmindre planen inkluderer modellerne. Selve opbygningen tager også tid: en arbejdsgang, ingen har dokumenteret, bliver dyr første gang ophavsmanden er væk.</p>
+<p>Her er et regneeksempel, ikke et kunderesultat. En arbejdsgang har én trigger og fire handlinger og kører 1.000 gange om måneden. I n8n er det 1.000 kørsler, og det er der plads til inden for de 2.500 på Starter-planen. I Zapier er det op til 4.000 opgaver, fordi triggeren ikke tæller, og det er langt over de 750 opgaver på Professionals indgangsniveau. I Make er det nogle få tusinde kreditter, fordi de fleste handlinger bruger én kredit. Hvilket værktøj der er billigst til samme job, afhænger altså af antal trin, og hvor ofte det kører.</p>
+<p>Tre udgifter ligger uden for planprisen. Selvhoster du n8n, betaler du for en server og for, at nogen holder den opdateret og sikkerhedskopieret. AI-trin kan give en regning fra modeludbyderen, medmindre planen inkluderer modellerne. Selve opbygningen tager også tid: en arbejdsgang, ingen har dokumenteret, bliver dyr, når den, der byggede den, er væk.</p>
 <h2>Almindelige fejl</h2>
 <ul>
-<li>At vælge alene på pris uden at tælle, hvor mange trin arbejdsgangen har, og hvor tit den kører.</li>
+<li>At vælge på pris alene uden at tælle, hvor mange trin arbejdsgangen har, og hvor tit den kører.</li>
 <li>At vælge værktøj, før man har set, hvilke systemer det skal kobles til.</li>
-<li>At bygge på en personlig konto. Når personen stopper, holder arbejdsgangene op eller bliver låst.</li>
+<li>At bygge på en personlig konto. Når personen stopper, går arbejdsgangene i stå eller bliver låst.</li>
 <li>At lade et AI-trin sende beskeder til kunder, uden at nogen kontrollerer de første ugers output.</li>
-<li>At springe fejlalarmer over, så en brudt arbejdsgang tier i dagevis.</li>
-<li>At bygge én kæmpe arbejdsgang i stedet for små, der hver løser ét job.</li>
-<li>At afgøre dataspørgsmålet efter byggeriet. Hvor data behandles, skal aftales før den første arbejdsgang.</li>
+<li>At springe fejlalarmer over, så en fejl går ubemærket hen i dagevis.</li>
+<li>At bygge én kæmpe arbejdsgang i stedet for flere små, der hver løser én opgave.</li>
+<li>At tage stilling til data bagefter. Hvor data behandles, skal aftales før den første arbejdsgang.</li>
 </ul>
 <h2>Sådan arbejder vi med værktøjerne</h2>
-<p>Vi bygger med alle tre og har ingen grund til at presse ét af dem igennem. Om n8n alene kan du læse på siden <a href="/da/n8n-konsulent/">n8n-konsulent</a>. Vi vælger det værktøj, der passer til dine systemer og dit team, og vi fortæller dig hvorfor. Hvert projekt starter med en flaskehals, et klart mål og det tal, det skal flytte. Omfang og tidsplan ligger fast, før arbejdet begynder.</p>
-<p>Vi sætter værktøjerne op på konti, du selv ejer, så du beholder arbejdsgangene, hvis vi skilles. Datareglerne, for eksempel GDPR og hvor data hostes, aftaler vi på forhånd. Vi afslutter med dokumenteret overlevering og oplæring, og vi bygger, så dit team kan ændre det, vi har lavet, uden at skrive kode.</p>
+<p>Vi bygger med alle tre og har ingen grund til at presse ét af dem igennem. Mere om n8n kan du læse på siden <a href="/da/n8n-konsulent/">n8n-konsulent</a>. Vi vælger det værktøj, der passer til dine systemer og dit team, og vi fortæller dig hvorfor. Hvert projekt starter med en flaskehals, et klart mål og det tal, der skal forbedres. Omfang og tidsplan ligger fast, før arbejdet begynder.</p>
+<p>Vi sætter værktøjerne op på konti, du selv ejer, så du beholder arbejdsgangene, hvis samarbejdet stopper. Datareglerne, for eksempel GDPR og hvor data hostes, aftaler vi på forhånd. Vi afslutter med overlevering, dokumentation og oplæring, og vi bygger, så dit team kan ændre det, vi har lavet, uden at skrive kode.</p>
 <h2>Ofte stillede spørgsmål</h2>
 <h3>Er n8n gratis?</h3>
 <p>Community Edition er gratis at selvhoste, og koden ligger på GitHub. De hostede planer er betalte og starter ved 20 euro om måneden ved årlig betaling, for 2.500 kørsler. Selvhosting er uden licensgebyr, men ikke uden arbejde: du skal bruge en server og en, der vedligeholder den.</p>

@@ -2394,9 +2394,9 @@ Vi fjerner hverdagens flaskehalse med AI-automatisering, der styrker din bundlin
 
 ## Vi hjælper virksomheder med at vokse med AI.
 
-Mugisha AI er et ejerledet AI-bureau i København, der rådgiver om AI og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og de samme spørgsmål igen og igen.
+Mugisha AI er et ejerledet AI-bureau i København, der rådgiver om AI og bygger AI-løsninger til virksomheder i Danmark og udlandet. Vi overtager det arbejde, der fylder i dit teams hverdag: opfølgning på leads, flytning af data mellem systemer og svar på de samme spørgsmål.
 
-Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) har et klart afkast som mål. Efter lanceringen bliver vi ved, så løsningen virker, mens du vokser.
+Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) bygges med et klart afkast for øje. Efter lanceringen er vi der stadig, så løsningen virker, mens du vokser.
 
 [Lær os at kende](https://mugishamarketing.com/da/om-os/)
 
@@ -2406,7 +2406,7 @@ Vi har hjulpet over 100 virksomheder på seks kontinenter. Hver [AI-implementeri
 
 **6**kontinenter
 
-Værktøjer vi bygger med
+Værktøjer, vi bygger med
 
 **n8n** **Make** **ChatGPT** **Claude** **Shopify** **Webflow** **Notion** **Airtable** **Meta**
 
@@ -2440,7 +2440,7 @@ Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-autom
 
 ### AI-audit
 
-Vi bruger tid i din virksomhed og ser, hvordan opgaverne bevæger sig fra person til person. Du får en prioriteret køreplan fra en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): hvad der skal bygges først, og hvad hvert trin skal give.
+Vi tilbringer tid i din virksomhed og ser, hvordan opgaverne går fra hånd til hånd. Du får en prioriteret køreplan fra en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): hvad der skal bygges først, og hvad hvert trin skal give.
 
 [Læs mere](https://mugishamarketing.com/da/ai-konsulent/)
 
@@ -2490,7 +2490,7 @@ Grundlæggeren
 
 ## Mød Patrick.
 
-Patrick Mugisha startede i marketing og arbejdede med store internationale personbrands. Derefter flyttede han til USA og blev COO i Fitnesspreneur Academy, hvor han stod for den daglige drift. De fleste dage gik med at slukke brande, rykke for status og holde holdet på sporet. Det trak ham mod AI, for her så han en slankere måde at skalere en virksomhed på.
+Patrick Mugisha startede i marketing og arbejdede med store internationale personbrands. Derefter flyttede han til USA og blev COO i Fitnesspreneur Academy, hvor han stod for den daglige drift. De fleste dage gik med at slukke brande, rykke for status og holde teamet på sporet. Det førte ham til AI, hvor han så en slankere måde at skalere en virksomhed på.
 
 [Læs vores historie ](https://mugishamarketing.com/da/om-os/)
 
@@ -2502,7 +2502,7 @@ Har du andre spørgsmål? Skriv til [patrick@mugishamarketing.com](mailto:patric
 
 ### Hvad koster det, og hvor lang tid tager det?
 
-Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt prissættes ud fra et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder. Du ved, hvad du kan forvente.
+Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt prissættes ud fra et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder. Så ved du, hvad du kan regne med.
 
 ### Hvad hvis AI ikke virker for os?
 
@@ -2520,9 +2520,9 @@ Vi følger løbende med i, hvordan løsningen klarer sig, samler feedback og lav
 
 Dine data behandles på dine vilkår. Vi aftaler på forhånd, hvilke data hver løsning bruger, og hvor de ender. Vi vælger værktøjer, der lever op til dine krav, f.eks. GDPR og hosting i EU, og sætter alt op på konti, som din virksomhed ejer.
 
-## Klar til at se, hvor AI kan løfte din virksomhed?
+## Klar til at se, hvor AI kan aflaste din virksomhed?
 
-Fortæl os lidt om din virksomhed, og om hvordan vi kan hjælpe dig med at skalere med AI.
+Fortæl os lidt om din virksomhed, og hvordan vi kan hjælpe dig med at skalere med AI.
 
 ---
 Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenhagen S, Denmark. Phone +45 30 20 32 29. https://mugishamarketing.com/
@@ -2543,7 +2543,7 @@ Vi finder det arbejde, der sluger dit teams tid, og bygger løsninger, der overt
 
 01, AI-agenter og automatisering
 
-## Overlad det rutinemæssige arbejde til AI.
+## Overlad rutinearbejdet til AI.
 
 Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [automatisering af arbejdsgange](https://mugishamarketing.com/da/ai-automatisering/), der fører en opgave fra start til slut. De læser det, der kommer ind, finder ud af, hvad det er, og tager det næste skridt.
 
@@ -2555,7 +2555,7 @@ At rykke for status, kopiere oplysninger fra ét system til et andet og svare p�
 
 ### Det får du
 
-Et fungerende system med ét klart mål, som måles fra dagen, det går live. Du bestemmer, hvilke trin et menneske tjekker, før noget sendes ud. Til din hjemmeside bygger vi en [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/), og mange arbejdsgange bygger vi i [n8n](https://mugishamarketing.com/da/n8n-konsulent/).
+Et fungerende system med ét klart mål, som måles fra den dag, det går live. Du bestemmer, hvilke trin et menneske tjekker, før noget sendes ud. Til din hjemmeside bygger vi en [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/), og mange arbejdsgange bygger vi i [n8n](https://mugishamarketing.com/da/n8n-konsulent/).
 
 ### For eksempel
 
@@ -2563,7 +2563,7 @@ En ny henvendelse kommer ind via mail, formular eller chat. Agenten læser den, 
 
 02, AI-audit
 
-## Vil du have AI, men ved ikke, hvor du skal starte?
+## Vil du i gang med AI, men ved ikke, hvor du skal starte?
 
 Vores AI-rådgivning begynder hos dem, der udfører arbejdet. Vi følger hver proces fra start til slut og finder ud af, hvor AI gør mest gavn for dig.
 
@@ -2573,7 +2573,7 @@ At gætte på, hvilket værktøj du skal købe, og hvilken proces du skal begynd
 
 ### Det får du
 
-En prioriteret køreplan: hvad der skal bygges først, hvad der kommer bagefter, og hvilket afkast du kan forvente på hvert trin. Læs mere om at arbejde med en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/), eller om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/), hvis vi også skal bygge det første punkt.
+En prioriteret køreplan: hvad der skal bygges først, hvad der kommer bagefter, og hvilket afkast du kan forvente på hvert trin. Læs mere om at arbejde med en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/) eller om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/), hvis vi også skal bygge det første punkt.
 
 ### For eksempel
 
@@ -2690,13 +2690,13 @@ Vores historie
 
 ## Fra at slukke brande til at forebygge dem.
 
-Patrick Mugisha begyndte i marketing, hvor han arbejdede med store internationale personlige brands.
+Patrick Mugisha begyndte i marketing, hvor han arbejdede med store internationale personbrands.
 
 Som COO i Fitnesspreneur Academy i USA stod han for den daglige drift og så, hvor stor en del af et teams uge der går med at rykke for status og holde arbejdet på sporet.
 
 AI viste ham en slankere måde at skalere en virksomhed på, og han begyndte at bygge den slags systemer for andre.
 
-I dag leder Patrick virksomheden Mugisha AI. Vi arbejder direkte med virksomhedsejere om systemer, der fjerner det manuelle arbejde fra deres teams.
+I dag leder Patrick virksomheden Mugisha AI. Vi arbejder direkte med virksomhedsejere om systemer, der sparer deres teams for det manuelle arbejde.
 
 Vores tilgang
 
@@ -2704,7 +2704,7 @@ Vores tilgang
 
 ### Kend arbejdet først
 
-Vi lærer, hvordan arbejdet udføres i din virksomhed, før vi vælger ét eneste værktøj.
+Vi lærer arbejdet i din virksomhed at kende, før vi vælger ét eneste værktøj.
 
 ### Brug AI, hvor det hjælper
 
@@ -2770,7 +2770,7 @@ Bjerrehuus Fine Jewellery
 
 ## Fortæl os om din virksomhed.
 
-En kort besked er nok til at starte samtalen.
+En kort besked er nok til at komme i gang.
 
 [Kontakt os](https://mugishamarketing.com/da/kontakt/)
 
@@ -2782,12 +2782,12 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 title: Kontakt Mugisha AI, AI-bureau i København
 url: https://mugishamarketing.com/da/kontakt/
 language: da
-description: Fortæl os, hvad der tager tid fra dit team. Skriv et par linjer her eller på mail til vores AI-bureau i København, så vender vi hurtigt tilbage til dig.
+description: Fortæl os, hvad der sluger dit teams tid. Skriv et par linjer her eller på mail til vores AI-bureau i København, så vender vi hurtigt tilbage til dig.
 ---
 
 Kontakt
 
-# Fortæl os, hvad der tager tid fra dit team.
+# Fortæl os, hvad der sluger dit teams tid.
 
 Et par linjer om din virksomhed er nok. Vi vender hurtigt tilbage.
 
@@ -2826,13 +2826,13 @@ AI-konsulent
 
 # En AI-konsulent, der også bygger løsningen.
 
-En AI-konsulent finder ud af, hvor AI kan tage arbejde fra dit team, og siger, hvad der skal bygges først. Hos os bygger vi også løsningen, så du får en prioriteret køreplan og en løsning, der virker. Dit team ved bagefter, hvordan den køres.
+En AI-konsulent finder ud af, hvor AI kan aflaste dit team, og hvad der skal bygges først. Vi bygger også løsningen, så du får både en prioriteret køreplan og en løsning, der virker. Bagefter ved dit team, hvordan den skal køres.
 
 01, Hvad det er
 
 ## AI-rådgivning på almindeligt dansk.
 
-En AI-konsulent, også kaldet en AI-rådgiver, gennemgår, hvordan din virksomhed arbejder, måler, hvor tiden går, og vurderer, hvilke trin AI kan overtage. Resultatet er en rangeret liste over, hvad der er værd at bygge, hvad der ikke er, og hvad hvert punkt kan give. Det begynder med arbejdet, ikke med et værktøj.
+En AI-konsulent, også kaldet en AI-rådgiver, gennemgår, hvordan din virksomhed arbejder, måler, hvor tiden går, og vurderer, hvilke trin AI kan overtage. Resultatet er en prioriteret liste over, hvad der er værd at bygge, hvad der ikke er, og hvad hvert punkt kan give. Det begynder med arbejdet, ikke med et værktøj.
 
 [Tal med os om det](https://mugishamarketing.com/da/kontakt/)
 
@@ -2846,13 +2846,13 @@ En prioriteret køreplan, der viser, hvad der skal bygges først, hvad der komme
 
 ### For eksempel
 
-Lad os sige, at dit salgsteam bruger formiddagen på at taste ordrer fra mails ind i systemet, og at tilbud går ud to dage for sent. Vi følger én ordre fra indbakke til faktura og markerer hvert manuelle trin. Køreplanen sætter ordreindtastning først, fordi den tager flest timer, og tilbud som nummer to.
+Lad os sige, at dit salgsteam bruger formiddagen på at taste ordrer fra mails ind i systemet, og at tilbud går ud to dage for sent. Vi følger én ordre fra indbakke til faktura og markerer hvert manuelt trin. Køreplanen sætter ordreindtastning først, fordi den tager flest timer, og tilbud som nummer to.
 
 02, Efter rådgivningen
 
 ## Rådgivning er kun halvdelen af arbejdet.
 
-Mange konsulenter og AI-konsulenthuse afleverer en rapport og går igen. Vi bliver og bygger. De samme folk, der fandt problemet, sætter løsningen op, så intet går tabt mellem planen og det færdige resultat. Læs mere om forløbet under [AI-implementering](https://mugishamarketing.com/da/ai-implementering/).
+Mange konsulenter og AI-konsulenthuse afleverer en rapport og går igen. Vi bliver, til det er bygget. De samme folk, der fandt problemet, sætter løsningen op, så intet går tabt mellem planen og det færdige resultat. Læs mere om forløbet under [AI-implementering](https://mugishamarketing.com/da/ai-implementering/).
 
 ### Det slipper du for
 
@@ -2864,7 +2864,7 @@ En AI-agent eller automatisering, der virker, sat op på konti, din virksomhed s
 
 ### Fra plan til drift
 
-Køreplanen siger, at ordreindtastning kommer først. Vi bygger en automatisering, der læser hver indkommende ordre, tjekker den mod dine data, taster den ind og sender alt, der ser mærkeligt ud, videre til et menneske.
+Ifølge køreplanen kommer ordreindtastning først. Vi bygger en automatisering, der læser hver indkommende ordre, tjekker den mod dine data, taster den ind og sender alt, der ser mærkeligt ud, videre til et menneske.
 
 03, Værktøjer
 
@@ -2888,11 +2888,11 @@ HighLevel, ManyChat og Instantly klarer opfølgning, chat og udsendelse. Vi arbe
 
 ## Til ejerledede og mellemstore virksomheder.
 
-Vi arbejder med virksomheder på cirka 10 til 500 ansatte, i Danmark og i udlandet. Vi har hjulpet mere end 100 virksomheder på seks kontinenter. Alt, hvad vi tilbyder, kan du se under [ydelser](https://mugishamarketing.com/da/ydelser/).
+Vi arbejder med virksomheder på cirka 10 til 500 ansatte i Danmark og udlandet. Vi har hjulpet mere end 100 virksomheder på seks kontinenter. Alt, hvad vi tilbyder, kan du se under [ydelser](https://mugishamarketing.com/da/ydelser/).
 
 ### Passer godt, hvis
 
-Gentagne opgaver sluger timer hver uge, og ingen på dit team har tid til at prøve AI-værktøjer af eller finde ud af, hvilke der betyder noget.
+Gentagne opgaver sluger timer hver uge, og ingen på dit team har tid til at prøve AI-værktøjer af eller finde ud af, hvilke der gør en forskel.
 
 ### Her sidder vi
 
@@ -2906,27 +2906,27 @@ En person, der ved, hvordan arbejdet kører i dag, og som kan svare på vores sp
 
 ## Hvad en AI-audit dækker.
 
-En AI-audit er første trin i rådgivningen: en gennemgang af, hvordan arbejdet faktisk kører, ikke en liste over værktøjer. Vi følger en sag fra første henvendelse til sidste skridt og noterer, hvor opgaverne gentages, hvor data tastes ind i hånden, og hvor arbejdet venter. Resultatet er en rangeret køreplan med det tal, den første løsning skal flytte, og en liste over det, der ikke er værd at bygge. Hvad en audit dækker punkt for punkt, hvordan du forbereder dig, og hvordan du vurderer en rapport, står i vores [guide til AI-audit](https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/).
+En AI-audit er første trin i rådgivningen: en gennemgang af, hvordan arbejdet faktisk kører, ikke en liste over værktøjer. Vi følger en sag fra første henvendelse til sidste skridt og noterer, hvor opgaverne gentages, hvor data tastes ind i hånden, og hvor arbejdet venter. Resultatet er en prioriteret køreplan med det tal, den første løsning skal forbedre, og en liste over det, der ikke er værd at bygge. I vores [guide til AI-audit](https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/) kan du læse, hvad en audit dækker punkt for punkt, hvordan du forbereder dig, og hvordan du vurderer en rapport.
 
-### AI-konsulent, intern ansættelse eller selv: hvornår passer hvad?
+### AI-konsulent, intern ansættelse eller gør det selv: hvad passer hvornår?
 
-Sammenligningen er vores egen vurdering, og vi har en interesse i svaret.
+Sammenligningen er vores egen vurdering, og vi er ikke uvildige.
 
 | Valg | Passer, når | Vær opmærksom på
 
-| En ekstern AI-konsulent | Du vil vide, hvad der er værd at bygge, har en eller få klare opgaver og ingen teknisk person med tid til dem. Du får planen og den første løsning fra de samme folk. | Du køber en afgrænset indsats, ikke en fast kollega. Vælg en konsulent, der også bygger, ellers står du med en rapport og ingen løsning.
+| En ekstern AI-konsulent | Du vil vide, hvad der er værd at bygge, har én eller få klare opgaver og ingen teknisk person med tid til dem. Du får planen og den første løsning fra de samme folk. | Du køber en afgrænset indsats, ikke en fast kollega. Vælg en konsulent, der også bygger, ellers står du med en rapport og ingen løsning.
 
-| En intern ansættelse | AI-arbejdet er løbende og stort nok til en hel stilling, og du kan tiltrække og beholde en person med de kompetencer. | Stillingen skal have opgaver fra første dag, og én person er et sårbart punkt, hvis vedkommende stopper.
+| En intern ansættelse | AI-arbejdet er løbende og stort nok til en hel stilling, og du kan tiltrække og fastholde en person med de rette kompetencer. | Stillingen skal have opgaver fra første dag, og du bliver sårbar, hvis den ene person stopper.
 
-| Selv, med de værktøjer du har | Opgaven er lille og klar, det drejer sig om én proces, og nogen på holdet har både tid og lyst til at prøve sig frem. | Tiden tages fra andet arbejde, og forsøg kan gå i stå mellem prøve og daglig brug. Skriv ned, hvordan løsningen virker, så den ikke afhænger af én person.
+| Gør det selv med de værktøjer, du har | Opgaven er lille og klar, det drejer sig om én proces, og nogen på holdet har både tid og lyst til at prøve sig frem. | Tiden går fra andet arbejde, og forsøget kan gå i stå, før det bliver en del af hverdagen. Skriv ned, hvordan løsningen virker, så den ikke afhænger af én person.
 
-Efter vores vurdering er en ekstern konsulent for en virksomhed med en eller to klare opgaver et mindre skridt end en ansættelse. Har du arbejde nok til en hel stilling hele året, er en intern ansættelse det rigtige. Mener vi, at du ikke har brug for os, siger vi det.
+Har du én eller to klare opgaver, er en ekstern konsulent efter vores vurdering et mindre skridt end en ansættelse. Har du arbejde nok til en hel stilling hele året, er en intern ansættelse det rigtige. Mener vi, at du ikke har brug for os, siger vi det.
 
 Fra audit til drift
 
 ## Diagnose, udvikling, forbedring.
 
-Auditten har et fast omfang og en tidsplan, som vi aftaler på forhånd, og køreplanen peger på det tal, den første løsning skal flytte.
+Auditten har et fast omfang og en tidsplan, som vi aftaler på forhånd, og køreplanen peger på det tal, den første løsning skal forbedre.
 
 01
 
@@ -2938,13 +2938,13 @@ Vi sætter os ned med dem, der udfører arbejdet, og følger en sag fra første 
 
 ### Udvikling
 
-Vi bygger det første punkt på køreplanen på konti, din virksomhed selv ejer. Før den går i drift, gennemgår vi løsningen med dit team og afleverer en skriftlig beskrivelse, så de kan ændre den uden kode.
+Vi bygger det første punkt på køreplanen på konti, din virksomhed selv ejer. Før løsningen går i drift, gennemgår vi den med dit team og afleverer en skriftlig beskrivelse, så de kan ændre den uden kode.
 
 03
 
 ### Forbedring
 
-Når det første punkt kører, måler vi mod det aftalte tal og justerer, hvor tallet ikke flytter sig. Vil du overtage selv, lærer vi dit team at køre det.
+Når det første punkt kører, måler vi på det aftalte tal og justerer, hvor det ikke rykker sig. Vil du selv overtage, lærer vi dit team at køre det.
 
 Ofte stillede spørgsmål
 
@@ -2954,7 +2954,7 @@ Har du noget andet på hjerte? Skriv til [patrick@mugishamarketing.com](mailto:p
 
 ### Hvad laver en AI-konsulent?
 
-En AI-konsulent finder ud af, hvordan din virksomhed kører i dag, hvor AI kan tage arbejde fra dit team, og hvad der skal bygges først. Hos Mugisha AI bygger vi også løsningen, så rådgivningen ender som et system, der virker.
+En AI-konsulent finder ud af, hvordan din virksomhed kører i dag, hvor AI kan aflaste dit team, og hvad der skal bygges først. Hos Mugisha AI bygger vi også løsningen, så rådgivningen ender med et system, der virker.
 
 ### Hvad er forskellen på en AI-audit og AI-rådgivning?
 
@@ -2962,7 +2962,7 @@ AI-auditten er første skridt i rådgivningen. Vi følger dine processer fra sta
 
 ### Hvad koster AI-rådgivning?
 
-Projekter starter fra cirka 7.000 kr. ekskl. moms. Det afhænger af omfanget. Hvert projekt har et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet går i gang, så du ved, hvad du siger ja til.
+Projekter starter fra cirka 7.000 kr. ekskl. moms. Prisen afhænger af omfanget. Hvert projekt har et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet går i gang, så du ved, hvad du siger ja til.
 
 ### Skal vi have teknisk personale internt?
 
@@ -2974,7 +2974,7 @@ Det afklarer vi, før noget bygges. I auditten kortlægger vi, hvilke data en l�
 
 ### Hvad sker der efter køreplanen?
 
-Det bestemmer du. Køreplanen virker også uden os: du kan give den til et internt team eller en anden leverandør. Vælger du os, bygger vi det første punkt og følger det aftalte tal efter lanceringen. Vil du selv overtage driften, viser vi dit team, hvordan.
+Det bestemmer du. Køreplanen kan også bruges uden os: du kan give den til et internt team eller en anden leverandør. Vælger du os, bygger vi det første punkt og følger det aftalte tal efter lanceringen. Vil du selv overtage driften, viser vi dit team, hvordan.
 
 ## Fortæl os, hvor tiden går hen.
 
@@ -2990,14 +2990,14 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 title: AI-automatisering til virksomheder i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-automatisering/
 language: da
-description: AI-automatisering tager gentaget arbejde fra dit team. Vi finder flaskehalsen, bygger arbejdsgangen i n8n, Zapier eller Make og følger det aftalte tal.
+description: AI-automatisering aflaster dit team for gentaget arbejde. Vi finder flaskehalsen, bygger arbejdsgangen i n8n, Zapier eller Make og følger det aftalte tal.
 ---
 
 AI-automatisering
 
-# AI-automatisering, der tager det gentagne arbejde fra dit team.
+# AI-automatisering, der overtager dit teams gentagne opgaver.
 
-AI-automatisering betyder, at software og AI-modeller selv klarer gentaget arbejde i virksomheden, som at sortere henvendelser, opdatere kundedata og skrive udkast til svar. Et menneske afgør stadig, hvilke trin der tjekkes, før noget sendes. Vi bygger det oven på de værktøjer, du allerede bruger.
+AI-automatisering betyder, at software og AI-modeller selv klarer rutinearbejde i virksomheden, som at sortere henvendelser, opdatere kundedata og skrive udkast til svar. Et menneske afgør stadig, hvilke trin der tjekkes, før noget sendes. Vi bygger det oven på de værktøjer, du allerede bruger.
 
 01, Hvad det er
 
@@ -3019,17 +3019,17 @@ En arbejdsgang med ét klart mål og et tal, vi følger fra den dag, den går i 
 
 ### For eksempel
 
-Lad os sige, at leverandørfakturaer kommer som pdf på mail. Arbejdsgangen læser hver faktura, trækker leverandør, dato og beløb ud og lægger dem ind i dit regnskabssystem. Ser noget mærkeligt ud, går fakturaen til en medarbejder med en note om, hvad der skal tjekkes. De almindelige fakturaer taster ingen.
+Lad os sige, at leverandørfakturaer kommer som pdf på mail. Arbejdsgangen læser hver faktura, trækker leverandør, dato og beløb ud og lægger dem ind i dit regnskabssystem. Ser noget mærkeligt ud, går fakturaen til en medarbejder med en note om, hvad der skal tjekkes. Ingen taster de almindelige fakturaer ind.
 
 ### Fra et rigtigt projekt
 
-En hotelejer ved den danske kyst havde to travle Outlook-indbakker. Vi byggede en AI-mailagent i n8n og Microsoft 365, der sorterede begge indbakker og skrev svarudkast, som hun selv skulle godkende. På en uge sorterede den 121 mails og fandt de 15, der krævede svar. Hun fortalte os, at udkastene ikke var det, hun ville have, så vi satte dem på pause og byggede det, hun bad om i stedet, nemlig én mail kl. 08.00 hver morgen med de samtaler, der stadig venter på hendes svar.
+En hotelejer ved den danske kyst havde to travle Outlook-indbakker. Vi byggede en AI-mailagent i n8n og Microsoft 365, der sorterede begge indbakker og skrev svarudkast, som hun selv skulle godkende. På en uge sorterede den 121 mails og fandt de 15, der krævede svar. Hun fortalte os, at udkastene ikke var det, hun ville have, så vi satte dem på pause og byggede i stedet det, hun bad om: én mail kl. 08.00 hver morgen med de samtaler, der stadig venter på hendes svar.
 
 02, Værktøjer og målgruppe
 
 ## Bygget på værktøjer, du selv ejer.
 
-Vi vælger det værktøj, der passer til opgaven, ikke det, vi bedst kan lide. Arbejdsgangene kører i [n8n](https://mugishamarketing.com/da/n8n-konsulent/), Zapier eller Make. Claude og GPT læser og skriver teksten. Kundeforløb kan ligge i HighLevel, samtaler i ManyChat og udgående mails i Instantly. Hvor dine egne systemer allerede gør jobbet, kobler vi os på dem i stedet for at skifte dem ud. Vælger du værktøjet selv, [sammenligner vores guide n8n, Make og Zapier](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/). Er du i tvivl om, om du skal bruge RPA eller AI? [Vores guide forklarer forskellen](https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/). Mere læsning finder du under [Viden](https://mugishamarketing.com/da/viden/).
+Vi vælger det værktøj, der passer til opgaven, ikke det, vi bedst kan lide. Arbejdsgangene kører i [n8n](https://mugishamarketing.com/da/n8n-konsulent/), Zapier eller Make. Claude og GPT læser og skriver teksten. Kundeforløb kan ligge i HighLevel, samtaler i ManyChat og udgående mails i Instantly. Hvor dine egne systemer allerede gør jobbet, kobler vi os på dem i stedet for at skifte dem ud. Vælger du værktøjet selv, [sammenligner vores guide n8n, Make og Zapier](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/). Er du i tvivl, om du skal bruge RPA eller AI? [Vores guide forklarer forskellen](https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/). Se flere artikler under [Viden](https://mugishamarketing.com/da/viden/).
 
 ### Hvem det er for
 
@@ -3041,13 +3041,13 @@ Værktøjerne oprettes på konti, din virksomhed ejer, så du beholder fuld adga
 
 ### Usikker på, hvad der er værd at automatisere?
 
-Vores [AI-audit](https://mugishamarketing.com/da/ai-konsulent/) prioriterer dine processer og viser, hvad der skal automatiseres først. Skal AI ud i flere afdelinger, kan du læse om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Til kundechat har vi [AI-chatbot til din hjemmeside](https://mugishamarketing.com/da/ai-chatbot/).
+Vores [AI-audit](https://mugishamarketing.com/da/ai-konsulent/) prioriterer dine processer og viser, hvad der skal automatiseres først. Skal AI ud i flere afdelinger, kan du læse om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Til kundechat har vi en [AI-chatbot til din hjemmeside](https://mugishamarketing.com/da/ai-chatbot/).
 
 03, Hvilke opgaver
 
 ## Hvilke opgaver passer til automatisering?
 
-Ikke alt skal have AI på. Nogle opgaver klares bedst af en fast regel, andre kræver, at en model læser og vurderer, og nogle bør blive hos et menneske. Sådan sorterer vi dem.
+Ikke alt behøver AI. Nogle opgaver klares bedst af en fast regel, andre kræver, at en model læser og vurderer, og nogle bør blive hos et menneske. Sådan sorterer vi dem.
 
 | Opgavetype | Eksempel | Passer til
 
@@ -3063,7 +3063,7 @@ Ikke alt skal have AI på. Nogle opgaver klares bedst af en fast regel, andre kr
 
 | Skrive første udkast til et standardsvar | Et svarudkast til en kundehenvendelse, som en medarbejder godkender. | Kræver AI, med godkendelse
 
-| Forhandle pris eller tage en utilfreds kunde | Et opkald om en forsinket levering. | Overlades til et menneske
+| Forhandle pris eller håndtere en utilfreds kunde | Et opkald om en forsinket levering. | Overlades til et menneske
 
 | Beslutninger med juridisk eller økonomisk vægt | At godkende en kreditaftale eller afgøre en tvist. | Overlades til et menneske
 
@@ -3075,7 +3075,7 @@ Mange arbejdsgange blander typerne: en fast regel flytter dataene, en AI-model l
 
 - Input kommer ind på en forudsigelig måde: samme indbakke, samme formular, samme filtype.
 
-- Nogen kan skrive trinene ned, også dem der kræver skøn, og forklare, hvornår man vælger hvad.
+- Nogen kan skrive trinene ned, også dem, der kræver skøn, og forklare, hvornår man vælger hvad.
 
 - Du ved, hvordan et rigtigt resultat ser ud, så det kan tjekkes.
 
@@ -3123,15 +3123,15 @@ Almindelig automatisering følger faste regler og kræver ensartet input. AI-aut
 
 ### Hvilke opgaver bør vi automatisere først?
 
-Start med arbejde, der gentages ofte, følger et mønster og tager rigtig tid, som at taste data, sortere henvendelser eller sende opfølgning. Vi finder de bedste kandidater i diagnosen, og den med det klareste afkast kommer først.
+Start med arbejde, der gentages ofte, følger et mønster og tager mærkbar tid, som at taste data, sortere henvendelser eller sende opfølgning. Vi finder de bedste kandidater i diagnosen, og den med det klareste afkast kommer først.
 
 ### Erstatter AI-automatisering vores medarbejdere?
 
-Målet er at tage rutinetrinene fra dit team, så de får tid til arbejde, der kræver skøn og kontakt med kunderne. Du bestemmer selv, hvilke trin et menneske stadig godkender.
+Målet er at aflaste dit team for rutinetrinene, så de får tid til arbejde, der kræver skøn og kontakt med kunderne. Du bestemmer selv, hvilke trin et menneske stadig godkender.
 
 ### Hvor lang tid tager et projekt, og hvad koster det?
 
-Projekter starter fra cirka 7.000 kr. ekskl. moms. Det afhænger af omfanget. Hvert projekt har et fast omfang og en tidsplan, som vi aftaler, før arbejdet starter, så du ved, hvad du kan forvente. Skriv til os om din proces, så fortæller vi, hvad der passer.
+Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt har et fast omfang og en tidsplan, som vi aftaler, før arbejdet starter, så du ved, hvad du kan forvente. Skriv til os om din proces, så fortæller vi, hvad der passer.
 
 ### Er vores data i sikkerhed?
 
@@ -3139,7 +3139,7 @@ Vi aftaler på forhånd, hvilke data hver arbejdsgang bruger, og hvor de sendes 
 
 ### Kan vores team ændre arbejdsgangen bagefter?
 
-Ja. Vi bygger det, så dit team kan ændre det uden kode, og vi afslutter med en dokumenteret overlevering og oplæring. Efter lanceringen kan vi forbedre den sammen med dig, eller du kan køre den selv.
+Ja. Vi bygger den, så dit team kan ændre den uden kode, og vi afslutter med en dokumenteret overlevering og oplæring. Efter lanceringen kan vi forbedre den sammen med dig, eller du kan køre den selv.
 
 ## Fortæl os, hvad der skal automatiseres.
 
@@ -3162,7 +3162,7 @@ n8n-konsulent
 
 # Din n8n-konsulent til arbejdsgange, dit team kan overtage.
 
-En n8n-konsulent opsætter, bygger og vedligeholder arbejdsgange i n8n, så systemer, mails og dokumenter arbejder sammen uden at nogen skal kopiere i hånden. Konsulenten vælger, hvor n8n skal køre, tester arbejdsgangene, lader et menneske godkende det vigtige og afleverer det hele dokumenteret, så virksomhedens eget team kan overtage.
+En n8n-konsulent bygger og vedligeholder arbejdsgange i n8n, så systemer, mails og dokumenter arbejder sammen, uden at nogen skal kopiere i hånden. Konsulenten vælger, hvor n8n skal køre, tester arbejdsgangene, lader et menneske godkende det vigtige og afleverer det hele med dokumentation, så virksomhedens eget team kan tage over.
 
 01, Hvad vi bygger
 
@@ -3170,7 +3170,7 @@ En n8n-konsulent opsætter, bygger og vedligeholder arbejdsgange i n8n, så syst
 
 n8n er et værktøj, der binder systemer sammen i arbejdsgange. Ifølge n8n selv bygger man dem visuelt og kan tilføje kode, hvor de færdige trin ikke rækker.
 
-Leder du efter en n8n-ekspert eller en n8n-udvikler, er det disse typer arbejdsgange, vi bygger i n8n.
+Leder du efter en n8n-ekspert eller en n8n-udvikler, er det den slags arbejdsgange, vi bygger.
 
 [Tal med os om n8n](https://mugishamarketing.com/da/kontakt/)
 
@@ -3180,17 +3180,17 @@ Nye henvendelser fra formularer og mails havner i dit CRM og går videre til den
 
 ### CRM og dokumenter
 
-Oplysninger holdes ens i CRM, regnskab og regneark, uden dobbelt indtastning. Fakturaer og andre pdf-filer læses, og leverandør, dato og beløb lægges ind i det rigtige system.
+Oplysningerne holdes ens i CRM, regnskab og regneark uden dobbeltindtastning. Fakturaer og andre pdf-filer læses, og leverandør, dato og beløb lægges ind i det rigtige system.
 
 ### AI-agenter med godkendelse
 
 En agent kan forberede et svar eller en handling, og et menneske godkender, før noget når en kunde. n8n skriver selv, at man kan tilføje menneskelig godkendelse, hvor det er nødvendigt.
 
-### Fra et rigtigt projekt
+### Fra et af vores projekter
 
-En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og billederne, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
+En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og billederne, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer sagen over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
 
-02, Rigtigt værktøj
+02, Det rigtige værktøj
 
 ## n8n er ikke altid det rigtige valg.
 
@@ -3216,7 +3216,7 @@ n8n kan køre hos n8n selv eller på en server, du selv driver. Valget afgør, h
 
 | Spørgsmål | n8n Cloud | Egen server
 
-| Hvem driver det | n8n selv, som tager sig af hosting, opdateringer og skalering. | Dig selv, på egen infrastruktur, lokalt eller i en privat cloud.
+| Hvem driver det | n8n selv, som tager sig af hosting, opdateringer og skalering. | Du selv, på egen infrastruktur, lokalt eller i en privat cloud.
 
 | Hvor ligger data | På servere i Frankfurt i Tyskland. | Dér, hvor du selv vælger at hoste n8n.
 
@@ -3232,13 +3232,13 @@ Aktuelle planer og priser står hos n8n, se Kilder nedenfor.
 
 - Processen er valgt, og en person i din virksomhed ejer den og kan svare på spørgsmål om den.
 
-- Trinene kan skrives ned, også dem der kræver skøn.
+- Trinene kan skrives ned, også dem, der kræver skøn.
 
 - Du ved, hvor data må ligge, og hvilke data en AI-model må se.
 
 - Valget mellem n8n Cloud og egen server er truffet, eller vi tager det sammen.
 
-- Selvhoster du, har nogen ansvaret for server og opdateringer.
+- Selvhoster du, er nogen ansvarlig for server og opdateringer.
 
 - Adgangene til de systemer, der kobles på, ligger på konti, virksomheden ejer.
 
@@ -3286,7 +3286,7 @@ Vi bygger arbejdsgangen i n8n på konti, du ejer, tester den på rigtige sager o
 
 ### Overlevering
 
-Dit team får arbejdsgangene kørende på konti, din virksomhed ejer, en skriftlig beskrivelse af hver med de systemer og adgange, den bruger, og en gennemgang, så teamet kan ændre dem uden kode.
+Arbejdsgangene kører på konti, din virksomhed ejer. Du får en skriftlig beskrivelse af hver, med systemer og adgange, og en gennemgang, så dit team kan ændre dem uden kode.
 
 Ofte stillede spørgsmål
 
@@ -3308,7 +3308,7 @@ Ja. n8n har et trin til Anthropics Claude-modeller, og dokumentationen nævner O
 
 ### Er n8n GDPR-sikkert?
 
-Hosting alene gør ikke en arbejdsgang GDPR-sikker. n8n Cloud gemmer data i Frankfurt, og på egen server ligger data, hvor du vælger. Sender en arbejdsgang tekst til en AI-model, forlader den dog n8n og går til modeludbyderen. Derfor aftaler vi på forhånd, hvilke data hver arbejdsgang bruger.
+Hosting alene gør ikke en arbejdsgang GDPR-sikker. n8n Cloud gemmer data i Frankfurt, og på egen server ligger data, hvor du vælger. Sender en arbejdsgang tekst til en AI-model, forlader teksten dog n8n og går til modeludbyderen. Derfor aftaler vi på forhånd, hvilke data hver arbejdsgang bruger.
 
 ### Hvem ejer arbejdsgangene?
 
@@ -3320,7 +3320,7 @@ Ja. n8n bygges visuelt, og kode er kun nødvendig, hvor de færdige trin ikke sl
 
 ## Fortæl os, hvad n8n skal klare.
 
-Skriv et par linjer om processen, eller om den n8n-opsætning, du har i dag. Du kan også se alle [vores ydelser](https://mugishamarketing.com/da/ydelser/).
+Skriv et par linjer om processen eller om den n8n-opsætning, du har i dag. Du kan også se alle [vores ydelser](https://mugishamarketing.com/da/ydelser/).
 
 [Kontakt os](https://mugishamarketing.com/da/kontakt/)
 
@@ -3332,12 +3332,12 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 title: AI-agenter til virksomheder i Danmark | Mugisha AI
 url: https://mugishamarketing.com/da/ai-agenter/
 language: da
-description: Hvad er en AI-agent? Vi bygger AI-agenter, der tager rutinearbejde fra dit team i de systemer, du allerede bruger. Fast omfang aftalt på forhånd.
+description: Hvad er en AI-agent? Vi bygger AI-agenter, der overtager rutinearbejdet i de systemer, dit team allerede bruger. Fast omfang aftalt på forhånd.
 ---
 
 AI-agenter
 
-# AI-agenter, der klarer det rutinemæssige arbejde.
+# AI-agenter, der klarer rutinearbejdet.
 
 En AI-agent er software, der løser en opgave fra start til slut. Den læser det, der kommer ind, vurderer, hvad det er, og udfører næste skridt i dine egne systemer, for eksempel mail, CRM eller webshop. Vi bygger AI-agenter til ejerledede og mellemstore virksomheder i Danmark og udlandet.
 
@@ -3377,17 +3377,17 @@ En fungerende agent med ét klart mål, målt fra den dag, den går live. Du bes
 
 ### Fra et rigtigt projekt
 
-En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og billederne, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
+En dansk webshop, der også sælger på Amazon, fik en AI-supportagent bygget i n8n. Den læser hver kundemail og dens billeder, vælger kompensation efter ejerens egne regler og skriver svaret. Ejeren godkender, retter eller springer svaret over, før noget sendes. Agenten har kørt siden 25. september 2026 og håndterede 23 kundesager og 35 svar den første måned.
 
 03, Værktøjer og målgruppe
 
 ## Bygget med de værktøjer, der passer.
 
-AI-agenter er en del af det bredere arbejde med [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/) og [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Er du i tvivl om, hvilken opgave en agent skal tage først, giver en AI-audit hos en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/) dig en prioriteret køreplan. Alle ydelser står på siden om [vores ydelser](https://mugishamarketing.com/da/ydelser/).
+AI-agenter er en del af det bredere arbejde med [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/) og [AI-implementering](https://mugishamarketing.com/da/ai-implementering/). Er du i tvivl om, hvilken opgave en agent skal tage først, giver en AI-audit hos en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/) dig en prioriteret køreplan. Se også alle [vores ydelser](https://mugishamarketing.com/da/ydelser/).
 
-### Værktøjer vi bygger med
+### Værktøjer, vi bygger med
 
-Vi bygger med n8n, Zapier og Make til at forbinde systemer, Claude og GPT til at læse og skrive, HighLevel til kundeoplysninger og forløb, ManyChat til chatkanaler og Instantly til udgående mails. Er du i tvivl om valget mellem n8n, Make og Zapier? [Vores guide stiller dem op mod hinanden](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/), og resten af vores [viden om AI](https://mugishamarketing.com/da/viden/) ligger samlet.
+Vi bygger med n8n, Zapier og Make til at forbinde systemer, Claude og GPT til at læse og skrive, HighLevel til kundeoplysninger og forløb, ManyChat til chatkanaler og Instantly til udgående mails. Er du i tvivl om valget mellem n8n, Make og Zapier? [Vores guide stiller dem op mod hinanden](https://mugishamarketing.com/da/viden/n8n-make-eller-zapier/), og resten af vores [viden om AI](https://mugishamarketing.com/da/viden/) er samlet ét sted.
 
 ### Dine egne systemer
 
@@ -3395,7 +3395,7 @@ Agenterne arbejder sammen med de systemer, du allerede bruger, for eksempel mail
 
 ### Hvem det er til
 
-Ejerledede og mellemstore virksomheder med cirka 10 til 500 ansatte, i Danmark og udlandet. Vi har hjulpet over 100 virksomheder på seks kontinenter. Mugisha AI ligger i København.
+Ejerledede og mellemstore virksomheder med cirka 10 til 500 ansatte i Danmark og udlandet. Vi har hjulpet over 100 virksomheder på seks kontinenter. Mugisha AI ligger i København.
 
 04, Regler
 
@@ -3417,7 +3417,7 @@ En agent må kun det, du har givet den lov til. Følgende skal være på plads, 
 
 - En test på rigtige sager, før den kommer i nærheden af en kunde.
 
-- En person med navn, der ser på resultaterne de første uger og kan slå agenten fra.
+- En navngiven person, der følger resultaterne de første uger og kan slå agenten fra.
 
 - Aftalte regler for, hvilke data den må bruge, og hvor de behandles.
 
@@ -3437,7 +3437,7 @@ Vi følger arbejdet, som det kører i dag, taler med dem, der udfører det, og v
 
 ### Udvikling
 
-Vi bygger agenten på konti, du selv ejer, tester den på rigtige sager og fastsætter reglerne for, hvornår den overdrager til et menneske. Inden den går live, gennemgår vi den med dit team og afleverer en skriftlig beskrivelse.
+Vi bygger agenten på konti, du selv ejer, tester den på rigtige sager og fastsætter reglerne for, hvornår et menneske tager over. Inden den går live, gennemgår vi den med dit team og afleverer en skriftlig beskrivelse.
 
 03
 
@@ -3461,11 +3461,11 @@ Ja, i de fleste tilfælde. Vi forbinder agenter til dine egne systemer, for ekse
 
 ### Kan en AI-agent lave fejl?
 
-Ja, ligesom mennesker kan. Derfor fastsætter vi reglerne, før den går live: hvad agenten selv må gøre, hvad et menneske godkender først, og hvornår den skal stoppe og spørge. Vi tester den på rigtige sager, og efter lanceringen følger vi det aftalte tal og forbedrer agenten.
+Ja, det kan mennesker også. Derfor fastsætter vi reglerne, før den går live: hvad agenten selv må gøre, hvad et menneske godkender først, og hvornår den skal stoppe og spørge. Vi tester den på rigtige sager, og efter lanceringen følger vi det aftalte tal og forbedrer agenten.
 
 ### Hvad koster en AI-agent, og hvor lang tid tager det?
 
-Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt har et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder, så du ved, hvad du kan forvente. Første skridt er at fortælle os, hvilken opgave du gerne vil af dit teams bord.
+Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfanget. Hvert projekt har et fast omfang og en fast tidsplan, som vi aftaler, før arbejdet begynder, så du ved, hvad du kan forvente. Første skridt er at fortælle os, hvilken opgave du gerne vil have af dit teams bord.
 
 ### Skal vi have teknikere ansat?
 
@@ -3489,14 +3489,14 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 title: AI-implementering i danske virksomheder | Mugisha AI
 url: https://mugishamarketing.com/da/ai-implementering/
 language: da
-description: AI-implementering i virksomheder med 10 til 500 ansatte: vi kobler AI på dine systemer, bygger løsningen, oplærer dit team og følger ét aftalt tal.
+description: AI-implementering i virksomheder med 10 til 500 ansatte: vi kobler AI på dine systemer, bygger løsningen, oplærer dit team og måler på ét aftalt tal.
 ---
 
 AI-implementering
 
 # AI-implementering, som dit team bruger.
 
-AI-implementering betyder, at AI kommer til at arbejde i din virksomheds hverdag. Vi kobler den på dine systemer, sætter reglerne for, hvad den må, og oplærer dem, der skal bruge den. Du får en løsning i drift og ét aftalt tal, der viser, om den betaler sig.
+AI-implementering betyder, at AI bliver en del af hverdagen i din virksomhed. Vi kobler den på dine systemer, sætter reglerne for, hvad den må, og oplærer dem, der skal bruge den. Du får en løsning i drift og ét aftalt tal, der viser, om den betaler sig.
 
 01, Hvad det er
 
@@ -3512,27 +3512,27 @@ At sortere indgående henvendelser, kopiere oplysninger mellem systemer, skrive 
 
 ### Det får du
 
-Et fungerende system, der er koblet på de værktøjer, du bruger i forvejen, med ét aftalt mål og et tal, vi følger fra lanceringen. Du bestemmer, hvilke trin et menneske godkender først. Dit team kan ændre det uden kode, og det kører på konti, din virksomhed selv ejer.
+Et fungerende system, koblet på de værktøjer, du bruger i forvejen, med ét aftalt mål og et tal, vi måler på fra lanceringen. Du bestemmer, hvilke trin et menneske godkender først. Dit team kan ændre det uden kode, og det kører på konti, din virksomhed selv ejer.
 
 ### For eksempel
 
-Tag en grossist, der får ordrer og spørgsmål på mail, hvor en medarbejder taster hver henvendelse ind i ordresystemet. Vi kobler indbakken på systemet. AI'en læser hver mail, udfylder ordren og markerer det uklare, så en medarbejder kan tjekke det. Målet aftaler vi først, for eksempel tiden fra modtaget ordre til bekræftet ordre.
+Tag en grossist, der får ordrer og spørgsmål på mail. En medarbejder taster hver henvendelse ind i ordresystemet. Vi kobler indbakken på systemet. AI'en læser hver mail, udfylder ordren og markerer det uklare, så en medarbejder kan tjekke det. Målet aftaler vi på forhånd, for eksempel tiden fra modtaget til bekræftet ordre.
 
-### Fra et rigtigt projekt
+### Fra et af vores projekter
 
-En hotelejer ved den danske kyst havde to travle Outlook-indbakker. Vi byggede en AI-mailagent i n8n og Microsoft 365, der sorterede begge indbakker og skrev svarudkast, som hun selv skulle godkende. På en uge sorterede den 121 mails og fandt de 15, der krævede svar. Hun fortalte os, at udkastene ikke var det, hun ville have, så vi satte dem på pause og byggede det, hun bad om i stedet, nemlig én mail kl. 08.00 hver morgen med de samtaler, der stadig venter på hendes svar.
+En hotelejer ved den danske kyst havde to travle Outlook-indbakker. Vi byggede en AI-mailagent i n8n og Microsoft 365, der sorterede begge indbakker og skrev svarudkast, som hun selv skulle godkende. På en uge sorterede den 121 mails og fandt de 15, der krævede svar. Hun fortalte os, at det ikke var udkast, hun ville have. Vi satte dem på pause og byggede i stedet det, hun bad om: én mail kl. 08.00 hver morgen med de samtaler, der stadig venter på hendes svar.
 
 02, Værktøjer og målgruppe
 
 ## Bygget med værktøjer, du kan beholde.
 
-Vi bygger med n8n, Zapier og Make til automatiseringen, Claude og GPT til selve AI-delen, HighLevel, ManyChat og Instantly, hvor der er leads og udsendelse, og med dine egne systemer omkring. Vi vælger det, der passer til din opgave.
+Automatiseringen bygger vi i n8n, Zapier og Make og AI-delen med Claude og GPT. HighLevel, ManyChat og Instantly bruger vi til leads og udsendelser, og det hele kobles på dine egne systemer. Vi vælger det, der passer til din opgave.
 
-Ved du ikke, hvor du skal starte? Så rangerer en AI-audit mulighederne først, og du kan læse om vores arbejde som [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/). Se også, hvordan vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), eller gå til [alle vores ydelser](https://mugishamarketing.com/da/ydelser/).
+Ved du ikke, hvor du skal starte? Så prioriterer en AI-audit mulighederne først, og du kan læse om vores arbejde som [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/). Se også, hvordan vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), eller gå til [alle vores ydelser](https://mugishamarketing.com/da/ydelser/).
 
 ### Hvem det er for
 
-Et team på cirka 10 til 500 ansatte, i Danmark eller udlandet, hvor de samme manuelle opgaver sluger timer hver uge, og ingen har tid til at bygge løsningen. Tal for, hvor mange danske virksomheder der allerede bruger AI, finder du på vores [side med tal og kilder](https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/). Mugisha AI ligger i København.
+Virksomheder med cirka 10 til 500 ansatte i Danmark eller udlandet, hvor de samme manuelle opgaver sluger timer hver uge, og ingen har tid til at bygge løsningen. Tal for, hvor mange danske virksomheder der allerede bruger AI, finder du på vores [side med tal og kilder](https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/). Mugisha AI ligger i København.
 
 ### Dine konti, dine data
 
@@ -3540,7 +3540,7 @@ Værktøjerne sættes op på konti, din virksomhed ejer. Vi aftaler dataregler s
 
 ### Sådan er aftalen
 
-Omfang og tidsplan ligger fast, før vi går i gang. Forløbet slutter med dokumentation og oplæring, så dit team kan køre videre.
+Omfang og tidsplan ligger fast, før vi går i gang. Forløbet slutter med dokumentation og oplæring, så dit team selv kan tage over.
 
 03, Faserne
 
@@ -3548,33 +3548,33 @@ Omfang og tidsplan ligger fast, før vi går i gang. Forløbet slutter med dokum
 
 Tabellen viser, hvad der sker i hver fase, hvem hos dig der skal bruge tid, og hvad du har i hånden, når fasen er slut. Varigheden aftaler vi, når omfanget er kendt.
 
-| Fase | Det sker | Hvem hos dig | Det har du til sidst
+| Fase | Hvad der sker | Hvem hos dig | Det har du til sidst
 
-| Kortlægning | Vi følger arbejdet, som det kører i dag, og vælger den opgave, der skal først. | Den, der udfører arbejdet i dag, og en, der kan træffe beslutninger. | En beskrivelse af opgaven, et mål og det tal, der skal flytte sig.
+| Kortlægning | Vi følger arbejdet, som det kører i dag, og vælger den opgave, der skal løses først. | Den, der udfører arbejdet i dag, og en, der kan træffe beslutninger. | En beskrivelse af opgaven, et mål og det tal, der skal flytte sig.
 
-| Opsætning | Vi opretter konti, kobler systemerne sammen og sætter reglerne for, hvad AI’en selv må. | Den, der administrerer dine systemer og kan give adgang. | En løsning koblet på dine systemer, som endnu ikke rører rigtige sager.
+| Opsætning | Vi opretter konti, kobler systemerne sammen og sætter reglerne for, hvad AI’en selv må. | Den, der administrerer dine systemer og kan give adgang. | En løsning koblet på dine systemer, som endnu ikke bruges på rigtige sager.
 
 | Prøvekørsel | Vi kører løsningen på rigtige sager med dit team ved siden af og retter fejl. | De medarbejdere, der skal bruge den. | Et testresultat målt mod det aftalte mål og en liste over rettelser.
 
-| Drift | Løsningen tages i brug, og et menneske godkender de trin, du har aftalt. | Teamet, der bruger den hver dag. | En løsning i daglig brug og en overlevering, der beskriver, hvordan den virker.
+| Drift | Løsningen tages i brug, og et menneske godkender de trin, du har aftalt. | Teamet, der bruger den hver dag. | En løsning i daglig brug og dokumentation af, hvordan den virker.
 
-| Forbedring | Vi følger tallet, samler feedback og retter, hvor det ikke flytter sig. | Den, der ejer tallet. | En opdateret løsning og et tal, der viser, om den betaler sig.
+| Forbedring | Vi måler tallet, samler feedback og justerer, hvor det ikke rykker sig. | Den, der står for tallet. | En opdateret løsning og et tal, der viser, om den betaler sig.
 
 ### Hvorfor AI-projekter går i stå, og hvad vi gør ved det
 
-- **Ingen ejer.** Ingen hos dig har ansvaret efter lanceringen. Vi aftaler en ejer på din side, før vi bygger.
+- **Ingen ejer.** Ingen hos dig har ansvaret efter lanceringen. Vi aftaler en ejer hos dig, før vi bygger.
 
 - **Intet tal.** Man kan ikke se, om det virker. Vi aftaler ét tal og måler fra dag ét.
 
-- **For stor første opgave.** Projektet forsøger at ændre alt på én gang. Vi vælger én afgrænset opgave først.
+- **For stor første opgave.** Projektet vil ændre alt på én gang. Vi vælger én afgrænset opgave først.
 
 - **Løsningen passer ikke ind i hverdagen.** Teamet skal åbne endnu et værktøj. Vi kobler den på de systemer, du bruger i forvejen.
 
-- **Ingen tillid til resultatet.** Folk tjekker alt selv. Vi sætter godkendelsestrin og tester på rigtige sager sammen med teamet.
+- **Ingen tillid til resultatet.** Folk tjekker alt efter selv. Vi sætter godkendelsestrin og tester på rigtige sager sammen med teamet.
 
-- **Opsætning på en privat konto.** Den holder op med at virke, når personen stopper. Vi bygger på konti, din virksomhed ejer.
+- **Opsætning på en privat konto.** Den holder op med at virke, når medarbejderen stopper. Vi bygger på konti, din virksomhed ejer.
 
-- **Ingen opfølgning.** Løsningen forældes stille og roligt. Vi følger tallet efter lanceringen og retter, og dit team kan ændre den uden kode.
+- **Ingen opfølgning.** Løsningen bliver langsomt forældet. Vi følger tallet efter lanceringen og retter, og dit team kan ændre den uden kode.
 
 Sådan kører en implementering
 
@@ -3592,13 +3592,13 @@ Vi begynder hos dem, der udfører arbejdet, og følger hver proces hele vejen ig
 
 ### Udvikling
 
-Vi kobler værktøjerne sammen, sætter regler for, hvad AI'en selv må, og hvad et menneske tjekker, og tester med dit team. Overleveringen kommer med skriftlig dokumentation og oplæring af dem, der skal bruge løsningen.
+Vi kobler værktøjerne sammen, sætter regler for, hvad AI'en selv må, og hvad et menneske tjekker, og tester med dit team. Ved overleveringen får du skriftlig dokumentation, og brugerne bliver oplært.
 
 03
 
 ### Forbedring
 
-Efter lanceringen følger vi det aftalte tal, samler feedback og laver forbedringer. Vil dit team overtage driften, er oplæringen en del af forløbet.
+Efter lanceringen følger vi det aftalte tal, samler feedback og forbedrer løsningen. Vil dit team overtage driften, er oplæringen en del af forløbet.
 
 Ofte stillede spørgsmål
 
@@ -3608,7 +3608,7 @@ Mangler du et svar? [Skriv til os](https://mugishamarketing.com/da/kontakt/).
 
 ### Hvad er AI-implementering?
 
-AI-implementering er arbejdet med at få AI ind i virksomhedens daglige drift. Det dækker valg af opgave, kobling til dine systemer, regler for, hvad AI'en selv må, og oplæring af dit team. Et værktøj, du kun har prøvet én gang, er ikke implementering. Det er i brug, når arbejdet kører igennem det hver dag.
+AI-implementering er arbejdet med at få AI ind i virksomhedens daglige drift. Det dækker valg af opgave, kobling til dine systemer, regler for, hvad AI'en selv må, og oplæring af dit team. Et værktøj, du kun har prøvet én gang, er ikke implementeret. Det er det først, når arbejdet kører igennem det hver dag.
 
 ### Hvor lang tid tager en AI-implementering?
 
@@ -3651,25 +3651,25 @@ AI-chatbot
 
 # En AI-chatbot til din hjemmeside, der svarer som dit team.
 
-En AI-chatbot til din hjemmeside svarer på besøgendes spørgsmål med dine egne priser, vilkår og produktoplysninger. Den kan også tage imod henvendelser, booke møder og give samtalen videre til en medarbejder, når det giver mening. Vi bygger den, kobler den på dine systemer og forbedrer den efter lanceringen.
+En AI-chatbot til din hjemmeside svarer på besøgendes spørgsmål med dine egne priser, vilkår og produktoplysninger. Den kan også tage imod henvendelser, booke møder og give samtalen videre til en medarbejder, når der er brug for det. Vi bygger den, kobler den på dine systemer og forbedrer den efter lanceringen.
 
 01, Hvad det er
 
 ## En chatbot, der kender din virksomhed.
 
-En AI-chatbot til en hjemmeside er et chatvindue, der læser besøgendes spørgsmål, som de er skrevet, og svarer ud fra det materiale, du giver den: FAQ, priser, produktsider og vilkår. Kender den ikke svaret, siger den det og giver samtalen videre til dit team.
+En AI-chatbot til en hjemmeside er et chatvindue, der læser de besøgendes spørgsmål og svarer ud fra det materiale, du giver den: FAQ, priser, produktsider og vilkår. Kender den ikke svaret, siger den det og giver samtalen videre til dit team.
 
-Ældre chatbots følger en fast menu: vælg en mulighed, få et standardsvar. En AI-chatbot læser spørgsmålet, som det er skrevet, og kan svare på formuleringer, den ikke har set før. Det er forskellen på en menu og AI-kundeservice.
+Ældre chatbots følger en fast menu: vælg en mulighed, få et standardsvar. En AI-chatbot forstår spørgsmålet, som det er skrevet, og kan svare på formuleringer, den ikke har set før. Det er forskellen på en menu og AI-kundeservice.
 
 [Tal med os om det](https://mugishamarketing.com/da/kontakt/)
 
 ### Det arbejde, du slipper for
 
-De samme spørgsmål til din kundeservice, der kommer ind på mail, telefon og chat: åbningstider, levering, hvad der er med, og hvordan man bestiller. Chatbotten tager også første runde med nye leads, så dit team starter samtalen længere fremme. Når opgaven rækker ud over at svare, kan chatbotten være indgangen til en [AI-agent](https://mugishamarketing.com/da/ai-agenter/), der handler på henvendelsen.
+De samme spørgsmål, der kommer ind til din kundeservice på mail, telefon og chat: åbningstider, levering, hvad der følger med, og hvordan man bestiller. Chatbotten tager også den første samtale med nye leads, så dit team ikke starter fra bunden. Når opgaven rækker ud over at svare, kan chatbotten være indgangen til en [AI-agent](https://mugishamarketing.com/da/ai-agenter/), der tager sig af henvendelsen.
 
 ### Det får du
 
-En chatbot på dit website, bygget på dine egne oplysninger og sat op til at ramme din tone. Den indsamler de oplysninger, dit team har brug for, booker møder i din kalender og giver samtalen videre til en medarbejder med hele forløbet vedhæftet. Du bestemmer, hvilke emner den tager, og hvilke den aldrig rører.
+En chatbot på dit website, bygget på dine egne oplysninger og sat op til at ramme din tone. Den indsamler de oplysninger, dit team har brug for, booker møder i din kalender og giver samtalen videre til en medarbejder med hele forløbet vedhæftet. Du bestemmer, hvilke emner den svarer på, og hvilke den aldrig rører.
 
 ### For eksempel
 
@@ -3687,7 +3687,7 @@ Claude eller GPT læser spørgsmålet og skriver svaret. n8n, Zapier eller Make 
 
 ### Hvem det er for
 
-Ejerledede og mellemstore virksomheder med cirka 10 til 500 medarbejdere, i Danmark og udlandet. Det passer bedst, hvor kunderne stiller mange af de samme spørgsmål, og nogle få medarbejdere bruger en del af dagen på at besvare dem. Er du i tvivl om, om en chatbot er det rigtige første skridt? Så rangerer en AI-audit, som er en del af vores [AI-rådgivning](https://mugishamarketing.com/da/ai-konsulent/), hvad der skal bygges først. Mugisha AI ligger i København.
+Ejerledede og mellemstore virksomheder med cirka 10 til 500 medarbejdere, i Danmark og udlandet. Det passer bedst, hvor kunderne stiller mange af de samme spørgsmål, og nogle få medarbejdere bruger en del af dagen på at besvare dem. Er du i tvivl om, om en chatbot er det rigtige første skridt? Så viser en AI-audit, som er en del af vores [AI-rådgivning](https://mugishamarketing.com/da/ai-konsulent/), hvad der skal bygges først. Mugisha AI ligger i København.
 
 ### Dine konti, dine data
 
@@ -3697,17 +3697,17 @@ Chatbotten ligger på konti, som din virksomhed ejer. Før lancering aftaler vi,
 
 ## Hvad chatbotten skal bruge fra dig.
 
-Hvordan en chatbot adskiller sig fra almindelig automatisering og fra en AI-agent, står i sammenligningstabellen på siden om [AI-agenter](https://mugishamarketing.com/da/ai-agenter/#what). Herunder står det, chatbotten skal bruge fra dig, før den går live.
+Hvordan en chatbot adskiller sig fra almindelig automatisering og fra en AI-agent, står i sammenligningstabellen på siden om [AI-agenter](https://mugishamarketing.com/da/ai-agenter/#what). Herunder ser du, hvad chatbotten skal bruge fra dig, før den går live.
 
 ### Det skal vi bruge fra dig, før chatbotten går live
 
 - Dine FAQ, priser, leveringsvilkår og produktoplysninger som tekst, vi må bruge.
 
-- En afgørelse om, hvilke emner den må tage, og hvilke den aldrig må røre, for eksempel klager eller juridiske spørgsmål.
+- En beslutning om, hvilke emner den må svare på, og hvilke den aldrig må røre, for eksempel klager eller juridiske spørgsmål.
 
 - Regler for overlevering til en medarbejder: hvornår, til hvem og på hvilken kanal.
 
-- Dine åbningstider og hvad der sker uden for dem, for eksempel at chatbotten tager imod henvendelsen, og dit team svarer næste morgen.
+- Dine åbningstider, og hvad der sker uden for dem, for eksempel at chatbotten tager imod henvendelsen, og dit team svarer næste morgen.
 
 - De sprog, den skal svare på.
 
@@ -3717,19 +3717,19 @@ Hvordan en chatbot adskiller sig fra almindelig automatisering og fra en AI-agen
 
 - En person, der kan opdatere svarene, når priser eller vilkår ændrer sig.
 
-- Det tal, den skal flytte, for eksempel spørgsmål besvaret uden dit team eller bookede møder.
+- Det tal, den skal forbedre, for eksempel spørgsmål besvaret uden dit team eller bookede møder.
 
 Sådan kører et projekt
 
 ## Først et målbart mål, så chatbotten.
 
-Før arbejdet begynder, aftaler vi omfang, tidsplan og det tal, chatbotten skal flytte, f.eks. spørgsmål besvaret uden dit team eller bookede møder.
+Før arbejdet begynder, aftaler vi omfang, tidsplan og det tal, chatbotten skal forbedre, f.eks. spørgsmål besvaret uden dit team eller bookede møder.
 
 01
 
 ### Diagnose
 
-Vi læser de spørgsmål, dit team besvarer i dag, på mail, telefon og chat, og udvælger dem, en chatbot skal tage. Vi aftaler også, hvornår den skal give videre til en medarbejder.
+Vi læser de spørgsmål, dit team besvarer i dag, på mail, telefon og chat, og udvælger dem, en chatbot skal svare på. Vi aftaler også, hvornår den skal give samtalen videre til en medarbejder.
 
 02
 
@@ -3759,7 +3759,7 @@ Et generelt værktøj svarer ud fra bred viden. Din chatbot svarer ud fra dine e
 
 ### Kan den give en samtale videre til en medarbejder?
 
-Ja. Du bestemmer, hvornår den skal, f.eks. ved klager, tilbud eller noget, den ikke kan svare på. Medarbejderen får oplysningerne og hele samtalen, på mail eller direkte i dit CRM eller din helpdesk.
+Ja. Du bestemmer, hvornår, f.eks. ved klager, tilbud eller noget, den ikke kan svare på. Medarbejderen får oplysningerne og hele samtalen, på mail eller direkte i dit CRM eller din helpdesk.
 
 ### Er vores kundedata sikre?
 
@@ -3771,7 +3771,7 @@ Projekter starter fra cirka 7.000 kr. ekskl. moms. Begge dele afhænger af omfan
 
 ### Kan vores team selv rette, hvad chatbotten siger?
 
-Ja. Dit team kan opdatere svar, tilføje emner og ændre reglerne for, hvornår en medarbejder overtager, uden kode. Vi viser, hvordan, og afleverer en skriftlig beskrivelse.
+Ja. Dit team kan uden kode opdatere svar, tilføje emner og ændre reglerne for, hvornår en medarbejder tager over. Vi viser hvordan og afleverer en skriftlig vejledning.
 
 ## Fortæl os, hvad dine besøgende spørger om.
 
@@ -3800,7 +3800,7 @@ Enkle guides til ejere og ledere i virksomheder med 10 til 500 ansatte, som vil 
 
 ### [Hvad er agentisk AI?](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/)
 
-Hvad agentisk AI betyder, og hvordan det adskiller sig fra en chatbot, fast automatisering og en enkelt AI-agent, med eksempler, sikkerhedstrin, EU-regler og hvornår du lader være.
+Hvad agentisk AI betyder, og hvordan det adskiller sig fra en chatbot, fast automatisering og en enkelt AI-agent, med eksempler, sikkerhedstrin, EU-regler og hvornår du skal lade være.
 
 ### [AI i danske virksomheder: tal og kilder 2026](https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/)
 
@@ -3812,21 +3812,21 @@ En sammenligning af hosting, prismodel, AI-funktioner og placering af data for d
 
 ### [Hvad er en AI-audit?](https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/)
 
-Hvad en AI-audit ser på, hvad du får til sidst, forskellen på AI-strategi, AI-workshop og AI-readiness, og hvordan du vurderer rapporten.
+Hvad en AI-audit ser på, hvad du får ud af den, forskellen på AI-strategi, AI-workshop og AI-readiness, og hvordan du vurderer rapporten.
 
 ### [RPA eller AI-automatisering: hvad er forskellen?](https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/)
 
-RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet på, hvordan de virker, hvad de kan læse, og hvad der vælter dem, med fire eksempler.
+RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet på, hvordan de virker, hvad de kan læse, og hvor de fejler, med fire eksempler.
 
 ## Vores ydelser
 
-Når du er klar til at gå fra at læse til at bygge, er det de seks ydelser, guiderne fører til.
+Når du er klar til at bygge, er det disse seks ydelser, guiderne peger på.
 
 - [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): hjælp til at vælge, hvor AI passer i din virksomhed, og hvad du gør først.
 
 - [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/): arbejdsgange, der flytter arbejde og data mellem dine systemer.
 
-- [AI-agenter](https://mugishamarketing.com/da/ai-agenter/): AI, der tager en afgrænset opgave med grænser og et menneske i løkken.
+- [AI-agenter](https://mugishamarketing.com/da/ai-agenter/): AI, der løser en afgrænset opgave inden for klare grænser, mens et menneske godkender.
 
 - [n8n-konsulent](https://mugishamarketing.com/da/n8n-konsulent/): arbejdsgange i n8n, bygget, overtaget og afleveret til dit team.
 
@@ -3834,7 +3834,7 @@ Når du er klar til at gå fra at læse til at bygge, er det de seks ydelser, gu
 
 - [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/): en chatbot på din hjemmeside, der svarer ud fra dit eget materiale.
 
-## Ikke sikker på, hvor du starter?
+## I tvivl om, hvor du skal starte?
 
 Fortæl os, hvad der tager mest af dit teams tid. Vi siger, om AI kan hjælpe, og hvor vi ville begynde.
 
@@ -3861,7 +3861,7 @@ Vælg Zapier, hvis det vigtigste er at kunne koble mange forskellige apps sammen
 
 ### n8n
 
-n8n kalder sig en platform til agenter og arbejdsgange, du kan følge. Værktøjet lister mere end 500 indbyggede integrationer og kan nå enhver tjeneste med en API gennem et HTTP-trin. Du kan bruge den version, n8n hoster for dig, eller installere det på din egen server. Kildekoden ligger på GitHub, og der findes en gratis Community Edition til selvhosting. Den har næsten alle funktionerne, men mangler blandt andet single sign-on, deling af arbejdsgange og Git-versionsstyring, som hører til de betalte udgaver.
+n8n kalder sig en platform til agenter og arbejdsgange, du kan følge med i. Værktøjet lister mere end 500 indbyggede integrationer og kan nå enhver tjeneste med en API gennem et HTTP-trin. Du kan bruge den version, n8n hoster for dig, eller installere det på din egen server. Kildekoden ligger på GitHub, og der findes en gratis Community Edition til selvhosting. Den har næsten alle funktionerne, men mangler blandt andet single sign-on, deling af arbejdsgange og Git-versionsstyring, som hører til de betalte udgaver.
 
 ### Make
 
@@ -3869,7 +3869,7 @@ Make beskriver sig selv som en AI-automatiseringsplatform til at bygge arbejdsga
 
 ### Zapier
 
-Zapier beskriver sig selv som kontrolpunktet, der forbinder enhver AI med ethvert værktøj. Zapier lister mere end 9.000 apps og skriver, at over 3 millioner virksomheder bruger det. Du bygger automatiseringer, kaldet Zaps, ud fra en trigger og en eller flere handlinger. Zapier nævner også GDPR ved siden af sine SOC 2 Type II- og SOC 3-rapporter.
+Zapier beskriver sig selv som det kontrollag, der forbinder enhver AI med ethvert værktøj. Zapier lister mere end 9.000 apps og skriver, at over 3 millioner virksomheder bruger det. Du bygger automatiseringer, kaldet Zaps, ud fra en trigger og en eller flere handlinger. Zapier nævner også GDPR ved siden af sine SOC 2 Type II- og SOC 3-rapporter.
 
 ## De tre værktøjer ved siden af hinanden
 
@@ -3885,7 +3885,7 @@ Zapier beskriver sig selv som kontrolpunktet, der forbinder enhver AI med ethver
 
 | Data i EU og selvhosting | Hostede planer gemmer data i Frankfurt i Tyskland. Selvhostet ligger data, hvor du selv hoster | Make skriver: »Your Data zone is the Make setting on your organization (US1, US2, EU1, EU2)«, altså at datazonen er en indstilling på organisationen. Men »Selecting the EU1 or EU2 data zone does not automatically mean every request gets processed and stays in the EU«, altså at en EU-zone ikke automatisk betyder, at alle forespørgsler behandles i EU. Make angiver GDPR-overholdelse | Ingen dataregion nævnt på de sider, vi læste. Zapier angiver GDPR-overholdelse
 
-| Bedst til | Teams, der vil styre hosting og data, eller har brug for egen kode | Arbejdsgange med forgreninger og mange trin, bygget visuelt | Hurtig kobling af mange forskellige apps og den længste applist
+| Bedst til | Teams, der vil styre hosting og data, eller har brug for egen kode | Arbejdsgange med forgreninger og mange trin, bygget visuelt | Hurtig kobling af mange forskellige apps og den længste app-liste
 
 Tabellen er et overblik. Priser og plannavne ændrer sig, så tjek leverandørernes sider i kildelisten, før du beslutter dig.
 
@@ -3893,13 +3893,13 @@ Tabellen er et overblik. Priser og plannavne ændrer sig, så tjek leverandører
 
 ### Vælg n8n, når
 
-- Dine databegrænsninger kræver, at værktøjet kører på servere, du selv kontrollerer, eller på et bestemt sted.
+- Dine krav til data betyder, at værktøjet skal køre på servere, du selv kontrollerer, eller et bestemt sted.
 
 - Du regner med at skrive noget egen kode eller koble interne systemer uden færdig connector.
 
 - Du er tryg ved at betale pr. kørsel frem for pr. trin.
 
-- Der er en i din virksomhed, eller en partner, der kan passe en server, hvis du selvhoster.
+- Nogen i din virksomhed eller en partner kan passe en server, hvis du selvhoster.
 
 ### Vælg Make, når
 
@@ -3913,11 +3913,11 @@ Tabellen er et overblik. Priser og plannavne ændrer sig, så tjek leverandører
 
 - Du skal koble mange forskellige apps, også mindre udbredte.
 
-- Opgaverne er korte og lige på: når det sker, så gør det.
+- Opgaverne er korte og enkle: når det sker, så gør det.
 
 - Du vil have et hostet værktøj, der ikke skal installeres, og en gratis plan at prøve det på.
 
-Hvis ingen af dem passer tydeligt, afgør de systemer, du allerede bruger, som regel sagen. Tjek, hvilket værktøj der har en færdig connector til dit CRM, dit regnskabsprogram og din mail. En manglende connector koster mere tid end en prisforskel.
+Er der ikke et oplagt valg, afgør de systemer, du allerede bruger, som regel sagen. Tjek, hvilket værktøj der har en færdig connector til dit CRM, dit regnskabsprogram og din mail. En manglende connector koster mere tid end en prisforskel.
 
 ## Hvad det koster i praksis
 
@@ -3929,31 +3929,31 @@ Månedsprisen betyder mindre end afregningsenheden, for de tre værktøjer tæll
 
 - Zapier tæller opgaver. En opgave er en handling, der er gennemført. Triggere, filtre, formatering og andre indbyggede værktøjer tæller ikke, og mislykkede handlinger bliver ikke afregnet.
 
-Her er et regneeksempel, ikke et kunderesultat. En arbejdsgang har én trigger og fire handlinger og kører 1.000 gange om måneden. I n8n er det 1.000 kørsler, og det er der plads til inden for de 2.500 på Starter-planen. I Zapier er det op til 4.000 opgaver, fordi triggeren ikke tæller, og det er langt over de 750 opgaver på Professionals indgangsniveau. I Make er det nogle få tusinde kreditter, fordi de fleste handlinger bruger én kredit. Det samme job kan altså være billigst i forskellige værktøjer, afhængigt af antal trin og hvor ofte det kører.
+Her er et regneeksempel, ikke et kunderesultat. En arbejdsgang har én trigger og fire handlinger og kører 1.000 gange om måneden. I n8n er det 1.000 kørsler, og det er der plads til inden for de 2.500 på Starter-planen. I Zapier er det op til 4.000 opgaver, fordi triggeren ikke tæller, og det er langt over de 750 opgaver på Professionals indgangsniveau. I Make er det nogle få tusinde kreditter, fordi de fleste handlinger bruger én kredit. Hvilket værktøj der er billigst til samme job, afhænger altså af antal trin, og hvor ofte det kører.
 
-Tre udgifter ligger uden for planprisen. Selvhoster du n8n, betaler du for en server og for, at nogen holder den opdateret og sikkerhedskopieret. AI-trin kan give en regning fra modeludbyderen, medmindre planen inkluderer modellerne. Selve opbygningen tager også tid: en arbejdsgang, ingen har dokumenteret, bliver dyr første gang ophavsmanden er væk.
+Tre udgifter ligger uden for planprisen. Selvhoster du n8n, betaler du for en server og for, at nogen holder den opdateret og sikkerhedskopieret. AI-trin kan give en regning fra modeludbyderen, medmindre planen inkluderer modellerne. Selve opbygningen tager også tid: en arbejdsgang, ingen har dokumenteret, bliver dyr, når den, der byggede den, er væk.
 
 ## Almindelige fejl
 
-- At vælge alene på pris uden at tælle, hvor mange trin arbejdsgangen har, og hvor tit den kører.
+- At vælge på pris alene uden at tælle, hvor mange trin arbejdsgangen har, og hvor tit den kører.
 
 - At vælge værktøj, før man har set, hvilke systemer det skal kobles til.
 
-- At bygge på en personlig konto. Når personen stopper, holder arbejdsgangene op eller bliver låst.
+- At bygge på en personlig konto. Når personen stopper, går arbejdsgangene i stå eller bliver låst.
 
 - At lade et AI-trin sende beskeder til kunder, uden at nogen kontrollerer de første ugers output.
 
-- At springe fejlalarmer over, så en brudt arbejdsgang tier i dagevis.
+- At springe fejlalarmer over, så en fejl går ubemærket hen i dagevis.
 
-- At bygge én kæmpe arbejdsgang i stedet for små, der hver løser ét job.
+- At bygge én kæmpe arbejdsgang i stedet for flere små, der hver løser én opgave.
 
-- At afgøre dataspørgsmålet efter byggeriet. Hvor data behandles, skal aftales før den første arbejdsgang.
+- At tage stilling til data bagefter. Hvor data behandles, skal aftales før den første arbejdsgang.
 
 ## Sådan arbejder vi med værktøjerne
 
-Vi bygger med alle tre og har ingen grund til at presse ét af dem igennem. Om n8n alene kan du læse på siden [n8n-konsulent](https://mugishamarketing.com/da/n8n-konsulent/). Vi vælger det værktøj, der passer til dine systemer og dit team, og vi fortæller dig hvorfor. Hvert projekt starter med en flaskehals, et klart mål og det tal, det skal flytte. Omfang og tidsplan ligger fast, før arbejdet begynder.
+Vi bygger med alle tre og har ingen grund til at presse ét af dem igennem. Mere om n8n kan du læse på siden [n8n-konsulent](https://mugishamarketing.com/da/n8n-konsulent/). Vi vælger det værktøj, der passer til dine systemer og dit team, og vi fortæller dig hvorfor. Hvert projekt starter med en flaskehals, et klart mål og det tal, der skal forbedres. Omfang og tidsplan ligger fast, før arbejdet begynder.
 
-Vi sætter værktøjerne op på konti, du selv ejer, så du beholder arbejdsgangene, hvis vi skilles. Datareglerne, for eksempel GDPR og hvor data hostes, aftaler vi på forhånd. Vi afslutter med dokumenteret overlevering og oplæring, og vi bygger, så dit team kan ændre det, vi har lavet, uden at skrive kode.
+Vi sætter værktøjerne op på konti, du selv ejer, så du beholder arbejdsgangene, hvis samarbejdet stopper. Datareglerne, for eksempel GDPR og hvor data hostes, aftaler vi på forhånd. Vi afslutter med overlevering, dokumentation og oplæring, og vi bygger, så dit team kan ændre det, vi har lavet, uden at skrive kode.
 
 ## Ofte stillede spørgsmål
 
@@ -4060,7 +4060,7 @@ Derfor bruges »agent« og »agentisk« løst. Her betyder »agentisk AI« hele 
 
 ## Eksempler for en virksomhed med 10 til 500 ansatte
 
-Det følgende er eksempler på den slags opgaver, der passer, og ikke resultater fra en kunde.
+Her er eksempler på opgaver, der passer, ikke resultater fra en kunde.
 
 ### Nye henvendelser
 
@@ -4082,7 +4082,7 @@ Når en aftale er vundet, tjekker agenten, at kundeoplysningerne er komplette, o
 
 - **Et menneske godkender alt, der forlader virksomheden.** Anthropic skriver, at agenter kan »pause for human feedback at checkpoints or when encountering blockers«, altså holde pause og spørge et menneske ved kontrolpunkter eller forhindringer. Vi starter med, at agenten skriver udkast, og et menneske sender.
 
-- **Grænser.** Bestem, hvilke værktøjer og hvilke data agenten må nå, og hvor mange trin den må tage. Anthropic anbefaler »stopping conditions (such as a maximum number of iterations) to maintain control«, altså stopbetingelser som et højeste antal runder.
+- **Grænser.** Bestem, hvilke værktøjer og hvilke data agenten må bruge, og hvor mange trin den må tage. Anthropic anbefaler »stopping conditions (such as a maximum number of iterations) to maintain control«, altså stopbetingelser som et højeste antal runder.
 
 - **En log.** Hvert trin, agenten tager, bliver skrevet ned, så du kan se, hvad der skete og hvorfor, og rette det, hvis noget går galt.
 
@@ -4094,9 +4094,9 @@ Når en aftale er vundet, tjekker agenten, at kundeoplysningerne er komplette, o
 
 ## Hvornår du ikke skal bruge agentisk AI
 
-Anthropic anbefaler at »find the simplest solution possible, and only increase complexity when needed«, og skriver, at agentiske systemer ofte bytter hastighed og pris for bedre resultater (»agentic systems often trade latency and cost for better task performance«). I praksis skal du lade være, når:
+Anthropic anbefaler at »find the simplest solution possible, and only increase complexity when needed«, og skriver, at agentiske systemer ofte giver bedre resultater, men er langsommere og dyrere (»agentic systems often trade latency and cost for better task performance«). I praksis skal du lade være, når:
 
-- trinene altid er de samme, fordi almindelig automatisering er enklere og lettere at kontrollere;
+- trinene altid er de samme, for så er almindelig automatisering enklere og lettere at kontrollere;
 
 - en fejl er dyr og ikke kan fortrydes, for eksempel en betaling eller en kontrakt;
 
@@ -4134,11 +4134,11 @@ Nej. En chatbot taler med dig og svarer. Et agentisk system handler også: det k
 
 ### Er agentisk AI sikkert for en virksomhed?
 
-Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv den en snæver opgave, begræns de værktøjer og data, den kan nå, før log over hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Start med forslag, før den handler.
+Det kan bruges ansvarligt, men det er ikke sikkert af sig selv. Giv det en snæver opgave, begræns de værktøjer og data, det har adgang til, log hvert trin, og lad et menneske godkende alt, der forlader virksomheden. Lad det foreslå, før det handler.
 
 ### Gælder EU’s AI-forordning for agentisk AI?
 
-Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den sorterer AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker.
+Europa-Kommissionens side skriver, at AI-forordningen er gældende fra 2. august 2026 med visse undtagelser, og at den inddeler AI-systemer efter risiko. Hvilket niveau en agent hører under, afhænger af, hvad den gør. Vi giver ikke juridisk rådgivning, så spørg din rådgiver, hvis det rammer mennesker.
 
 ### Skal vi bruge agentisk AI, eller er almindelig automatisering nok?
 
@@ -4311,7 +4311,7 @@ Eurostat spørger de virksomheder, der har overvejet AI, hvorfor de ikke bruger 
 
 Kilde: Eurostat, [datasættet](https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/isoc_eb_ai?format=JSON&lang=en&geo=DK&geo=EU27_2020) (isoc_eb_ai). Tallene er andel af de virksomheder, der har overvejet at bruge AI. Procenterne summer ikke til 100, så virksomhederne har åbenbart kunnet angive mere end én grund.
 
-Digitaliseringsstyrelsen kommer til samme billede: Virksomheder, der ikke bruger AI, begrunder det »oftest med mangel på relevant viden og erfaring samt overvejelser om overholdelse af regler om databeskyttelse og privatliv, snarere end tekniske og økonomiske begrænsninger« ([side om rapporten](https://digst.dk/kunstig-intelligens/danske-virksomheders-anvendelse-af-ai/)). I Dansk Erhvervs medlemsundersøgelse er de største barrierer mangel på medarbejderkompetencer (36 pct.), mangel på indsigt og viden (30 pct.) og mangel på tid (30 pct.).
+Digitaliseringsstyrelsen tegner samme billede: Virksomheder, der ikke bruger AI, begrunder det »oftest med mangel på relevant viden og erfaring samt overvejelser om overholdelse af regler om databeskyttelse og privatliv, snarere end tekniske og økonomiske begrænsninger« ([side om rapporten](https://digst.dk/kunstig-intelligens/danske-virksomheders-anvendelse-af-ai/)). I Dansk Erhvervs medlemsundersøgelse er de største barrierer mangel på medarbejderkompetencer (36 pct.), mangel på indsigt og viden (30 pct.) og mangel på tid (30 pct.).
 
 Dansk Industri skriver i sin analyse fra 16. september 2026, at knap 80 pct. af de adspurgte virksomheder bruger AI »i en eller anden form«, men at brugen for 42 pct. er ad hoc, mens 24 pct. bruger AI systematisk i udvalgte afdelinger og 11 pct. i stort set alle afdelinger. DI skriver selv, at tallene ikke kan sammenlignes direkte med Eurostats, fordi AI-brug er afgrænset forskelligt. Analysen oplyser ikke, hvor mange der er spurgt.
 
@@ -4351,15 +4351,15 @@ Europa-Kommissionen skriver, at AI-forordningen trådte i kraft 1. august 2024 o
 
 - **2. august 2028:** regler for højrisikosystemer, der indgår i regulerede produkter som lifte og legetøj (bilag I).
 
-Datoerne for højrisikoreglerne er udvidet. For bilag III skriver Kommissionen, at det sker som følge af den politiske aftale om forenklingsforslaget »AI Omnibus«. Ifølge Kommissionen blev forslaget vedtaget 19. november 2025, der blev opnået politisk enighed 7. maj 2026, og det trådte i kraft 27. juli 2026. Vi giver ikke juridisk rådgivning. Spørg din rådgiver, hvad datoerne betyder for netop din brug.
+Datoerne for højrisikoreglerne er udskudt. For bilag III skriver Kommissionen, at det sker som følge af den politiske aftale om forenklingsforslaget »AI Omnibus«. Ifølge Kommissionen blev forslaget vedtaget 19. november 2025, der blev opnået politisk enighed 7. maj 2026, og det trådte i kraft 27. juli 2026. Vi giver ikke juridisk rådgivning. Spørg din rådgiver, hvad datoerne betyder for netop din brug.
 
 ## Hvad det betyder for en virksomhed med 10 til 500 ansatte
 
 Dette afsnit er vores læsning af tallene og ikke noget, kilderne selv skriver.
 
-Spørgsmålet er for de fleste ikke længere, om man bruger AI, men hvor dybt. Når 55 pct. af virksomhederne med 10-49 ansatte og 69-79 pct. af dem med 50-249 allerede bruger AI i 2026, er brug i sig selv ikke en forskel. DIs tal peger på, at den største gruppe bruger det ad hoc.
+Spørgsmålet er for de fleste ikke længere, om man bruger AI, men hvor dybt. Når 55 pct. af virksomhederne med 10-49 ansatte og 69-79 pct. af dem med 50-249 allerede bruger AI i 2026, er brugen i sig selv ingen fordel. DIs tal peger på, at den største gruppe bruger det ad hoc.
 
-Tallene viser mest tekstbrug: 45 pct. bruger AI til tekstanalyse og 44 pct. til at skrive tekst, mod 25 pct. til at automatisere arbejdsgange. Vi læser det sådan, at mange har værktøjer til at skrive og læse, men færre har koblet AI til de systemer, arbejdet løber igennem. Det er en slutning, vi trækker, og ikke noget statistikken måler direkte.
+Tallene viser mest tekstbrug: 45 pct. bruger AI til tekstanalyse og 44 pct. til at skrive tekst, mod 25 pct. til at automatisere arbejdsgange. Vi læser det sådan, at mange har værktøjer til at skrive og læse, men færre har koblet AI til de systemer, arbejdet løber igennem. Det er vores egen slutning og ikke noget, statistikken måler direkte.
 
 Blandt danske virksomheder, der har overvejet AI, er manglende viden den hyppigste grund til ikke at bruge det (82,06 pct.), og omkostninger nævnes langt sjældnere (17,99 pct.). Vi tager det som tegn på, at første skridt ofte er at vælge én konkret opgave og få styr på, hvem der ejer den, før man vælger værktøj. Se også, hvordan en [AI-implementering](https://mugishamarketing.com/da/ai-implementering/) typisk forløber.
 
@@ -4456,17 +4456,17 @@ description: Hvad en AI-audit ser på, hvad du får ud af den, forskellen på AI
 
 Opdateret: 21. november 2026 · Gennemgået af [Patrick Mugisha](https://mugishamarketing.com/da/om-os/), stifter
 
-En AI-audit er en struktureret gennemgang af, hvordan din virksomhed faktisk arbejder, så man kan finde ud af, hvilke opgaver AI kan overtage, og hvilke den ikke bør røre. Resultatet er en rangeret køreplan: hvad der bygges først, hvad der lades være, og hvad hvert punkt skal ændre. Ordet bruges også om at teste selve AI-systemet.
+En AI-audit er en struktureret gennemgang af, hvordan din virksomhed faktisk arbejder, så man kan finde ud af, hvilke opgaver AI kan overtage, og hvilke den ikke bør røre. Resultatet er en prioriteret køreplan: hvad der bygges først, hvad der lades være, og hvad hvert punkt skal ændre. Ordet bruges også om at teste selve AI-systemet.
 
 ## Hvad en audit ser på
 
-En god audit begynder med arbejdet, ikke med et værktøj. Den, der gennemgår det, følger virkelige sager gennem virksomheden og kigger på fem ting.
+En god audit begynder med arbejdet, ikke med et værktøj. Den, der gennemgår det, følger konkrete sager gennem virksomheden og kigger på fem ting.
 
 - **Mængde og rytme.** Hvad der gentages, hvor ofte, og hvor mange timer det fylder.
 
-- **Hvordan information bevæger sig.** Hvor den kommer ind, hvem der taster den igen, og hvor den sidder fast mellem systemer.
+- **Hvordan information bevæger sig.** Hvor den kommer ind, hvem der taster den ind igen, og hvor den sidder fast mellem systemer.
 
-- **Regler eller skøn.** Hvilke trin følger en fast regel, og hvilke kræver, at et menneske vejer noget af.
+- **Regler eller skøn.** Hvilke trin følger en fast regel, og hvilke kræver et menneskeligt skøn.
 
 - **Rammerne.** Hvilke data der er i spil, hvilke regler der gælder for dem, og hvor de må ligge.
 
@@ -4474,7 +4474,7 @@ En god audit begynder med arbejdet, ikke med et værktøj. Den, der gennemgår d
 
 ## Hvad du får til sidst
 
-Det vigtigste resultat er en rangeret køreplan. Hvert punkt har en opgave, en begrundelse for placeringen, det, der skal til (adgang, data, en person med tid), det tal, punktet skal flytte, og hvad der kan gå galt. Rangeringen er et skøn. Efter vores mening bør den vægte sparede timer, risiko og indsats sammen, og den bør sige ligeud, hvad der ikke er værd at bygge.
+Det vigtigste resultat er en prioriteret køreplan. Hvert punkt har en opgave, en begrundelse for placeringen, det, der skal til (adgang, data, en person med tid), det tal, punktet skal forbedre, og hvad der kan gå galt. Prioriteringen er et skøn. Efter vores mening bør den vægte sparede timer, risiko og indsats sammen, og den bør sige ligeud, hvad der ikke er værd at bygge.
 
 Nogle gange er det bedste punkt slet ikke AI. Anthropic anbefaler i sin guide til at bygge agenter »finding the simplest solution possible, and only increasing complexity when needed«, altså at finde den enkleste løsning og først gøre det mere komplekst, når det er nødvendigt. En audit, der sender alle opgaver til AI, har ikke gjort sit arbejde.
 
@@ -4484,9 +4484,9 @@ De fire ord overlapper, og leverandører bruger dem løst. Tabellen er vores læ
 
 | | Hvad det er | Det får du | Det passer, når
 
-| AI-audit | En gennemgang af faktisk arbejde og systemer, sag for sag | En rangeret køreplan med et tal at flytte for hvert punkt | Du har gentagne opgaver og vil vide, hvad der skal bygges først
+| AI-audit | En gennemgang af faktisk arbejde og systemer, sag for sag | En prioriteret køreplan med et tal at forbedre for hvert punkt | Du har gentagne opgaver og vil vide, hvad der skal bygges først
 
-| AI-strategi | En retning for hele virksomheden over længere tid | Et dokument om mål, prioriteter og principper | Ledelsen skal blive enig om, hvor AI hører hjemme, før nogen projekter
+| AI-strategi | En retning for hele virksomheden over længere tid | Et dokument om mål, prioriteter og principper | Ledelsen skal blive enig om, hvor AI hører hjemme, før der startes projekter
 
 | AI-workshop | En fælles arbejdssession med dine medarbejdere | Fælles forståelse og en liste med idéer | Holdet har brug for et fælles billede, eller der skal samles idéer
 
@@ -4494,17 +4494,17 @@ De fire ord overlapper, og leverandører bruger dem løst. Tabellen er vores læ
 
 ## Sådan forbereder du dig
 
-Du gør en audit hurtigere og billigere at gennemføre, hvis du møder op med nogle få ting:
+En audit bliver hurtigere og billigere, hvis du har nogle få ting klar:
 
 - Peg på den person, der ved, hvordan arbejdet kører, og kan svare på spørgsmål i løbet af ugen.
 
 - Vælg to eller tre opgaver, der irriterer mest, også selvom du ikke er sikker på, at AI passer.
 
-- Saml eksempler på rigtige input: en håndfuld nyere mails, ordrer eller formularer, så vidt muligt uden personoplysninger.
+- Saml eksempler på rigtigt input: en håndfuld nyere mails, ordrer eller formularer, så vidt muligt uden personoplysninger.
 
-- Skriv de systemer ned, du bruger, og hvem der har adgangen.
+- Skriv de systemer ned, du bruger, og hvem der har adgang til dem.
 
-- Find ét tal, du gerne vil forbedre, for eksempel dage til svar til en kunde.
+- Find ét tal, du gerne vil forbedre, for eksempel svartiden til kunder.
 
 - Beslut, hvem der kan sige ja til en første løsning, når køreplanen er klar.
 
@@ -4516,19 +4516,19 @@ Det er vores egne tommelfingerregler, ikke en standard.
 
 - Den nævner de sager, den fulgte, og viser de trin, den så.
 
-- Hvert punkt har en ejer, et tal at flytte og en begrundelse for sin placering.
+- Hvert punkt har en ejer, et tal at forbedre og en begrundelse for sin placering.
 
 - Den siger, hvad der ikke skal bygges, og hvad der kan rettes uden AI.
 
 - Antagelser og huller er tydeligt markeret.
 
-- Du kan give den til en anden leverandør eller dit eget team, og de kan handle på den.
+- Du kan give den til en anden leverandør eller dit eget team, og de kan arbejde videre med den.
 
 ### Tegn på en svag rapport
 
 - Den er en værktøjsliste uden forbindelse til dine opgaver.
 
-- Gevinster står som store tal uden en måde at tjekke dem på.
+- Gevinsterne står som store tal, der ikke kan tjekkes.
 
 - Alt, den foreslår, kræver tilfældigvis ét produkt eller én leverandør.
 
@@ -4536,11 +4536,11 @@ Det er vores egne tommelfingerregler, ikke en standard.
 
 ## Hvis du allerede bruger AI
 
-Nogle audits ser også på AI-systemer, du allerede kører. Den amerikanske standardiseringsmyndighed NIST skriver, at den »has developed a framework to better manage risks to individuals, organizations, and society associated with artificial intelligence (AI)«, altså en ramme til at styre risici ved AI. Den blev udgivet 26. januar 2023 og er »intended for voluntary use«, altså til frivillig brug. Den er ét mål, en audit kan bruge for risiko. Den er ikke et certifikat, og vi påstår ikke, at et system overholder nogen lov, fordi det følger rammen.
+Nogle audits ser også på AI-systemer, du allerede kører. Den amerikanske standardiseringsmyndighed NIST skriver, at den »has developed a framework to better manage risks to individuals, organizations, and society associated with artificial intelligence (AI)«, altså en ramme til at styre risici ved AI. Den blev udgivet 26. januar 2023 og er »intended for voluntary use«, altså til frivillig brug. Den er én målestok, en audit kan bruge for risiko. Den er ikke et certifikat, og vi påstår ikke, at et system overholder nogen lov, fordi det følger rammen.
 
 ## Det gør du bagefter
 
-- Vælg det første punkt på køreplanen, der er lille, hyppigt og har en ejer med navn.
+- Vælg det første punkt på køreplanen, der er lille, går tit igen og har en navngiven ejer.
 
 - Skriv ned, hvordan et godt resultat ser ud, og hvordan du måler det fra første dag.
 
@@ -4548,7 +4548,7 @@ Nogle audits ser også på AI-systemer, du allerede kører. Den amerikanske stan
 
 - Sammenlign systemets arbejde med det, personen selv ville have gjort, og ret til.
 
-- Gå tilbage til køreplanen og vælg næste punkt først, når det første har vist sit tal.
+- Vælg først næste punkt på køreplanen, når tallet viser, at det første virker.
 
 Vil du have en leverandør til at gennemføre auditten og bygge det første punkt, forklarer vores side om [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/), hvordan vores audit forløber, og hvad vi skal bruge fra dig. Hvad en agent kan tage over, kan du læse om i guiden [Hvad er agentisk AI?](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/)
 
@@ -4556,27 +4556,27 @@ Vil du have en leverandør til at gennemføre auditten og bygge det første punk
 
 ### Hvad er en AI-audit på almindeligt dansk?
 
-Det er en gennemgang af, hvordan din virksomhed arbejder, der ender i en rangeret liste over, hvad AI kan overtage, hvad den ikke bør, og hvad der skal bygges først. Den begynder med dine opgaver og data, ikke med et produkt.
+Det er en gennemgang af, hvordan din virksomhed arbejder, der ender i en prioriteret liste over, hvad AI kan overtage, hvad den ikke bør, og hvad der skal bygges først. Den begynder med dine opgaver og data, ikke med et produkt.
 
 ### Hvad er forskellen på en AI-audit og en AI-strategi?
 
-En audit er konkret: den følger virkeligt arbejde og giver en rangeret liste over punkter at bygge. En strategi er bredere og sætter retning og principper. En strategi uden audit kan blive abstrakt, og en audit uden strategi kan overse det store billede.
+En audit er konkret: den følger virkeligt arbejde og giver en prioriteret liste over, hvad der skal bygges. En strategi er bredere og sætter retning og principper. En strategi uden audit kan blive abstrakt, og en audit uden strategi kan overse det store billede.
 
 ### Er en AI-audit det samme som en AI-readiness-vurdering?
 
-Ikke helt. En readiness-vurdering tjekker, om dine data, systemer og kompetencer er klar til AI, som regel mod en valgt målestok. En audit spørger, hvilket arbejde der skal gives videre, og i hvilken rækkefølge. De to kan laves sammen.
+Ikke helt. En readiness-vurdering tjekker, om dine data, systemer og kompetencer er klar til AI, som regel mod en valgt målestok. En audit spørger, hvilket arbejde AI skal overtage, og i hvilken rækkefølge. De to kan laves sammen.
 
 ### Hvem skal deltage i en AI-audit?
 
-De, der udfører arbejdet, én person, der kan svare om systemer og data, og en beslutningstager, der kan godkende en første løsning. Uden dem, der udfører arbejdet, ser auditten kun den officielle proces.
+De, der udfører arbejdet, én person, der kender systemerne og data, og en beslutningstager, der kan godkende en første løsning. Uden dem, der udfører arbejdet, ser auditten kun den officielle proces.
 
 ### Hvad skal en AI-auditrapport indeholde?
 
-De sager, der er fulgt, en rangeret liste over punkter, det tal hvert punkt skal flytte, hvad hvert kræver, og hvad der kan gå galt. Den bør også nævne, hvad der ikke er værd at bygge, og hvilke antagelser den ikke kunne tjekke.
+De sager, der er fulgt, en prioriteret liste over punkter, det tal, hvert punkt skal forbedre, hvad det kræver, og hvad der kan gå galt. Den bør også nævne, hvad der ikke er værd at bygge, og hvilke antagelser den ikke kunne tjekke.
 
 ### Skal vi bygge hos det samme firma, som lavede auditten?
 
-Nej. En god køreplan virker uden sin forfatter. Du kan give den til dit eget team eller en anden leverandør. Vælger du os, bygger vi det første punkt og følger det aftalte tal efter lanceringen.
+Nej. En god køreplan står på egne ben. Du kan give den til dit eget team eller en anden leverandør. Vælger du os, bygger vi det første punkt og følger det aftalte tal efter lanceringen.
 
 Flere enkle guides finder du under [viden om AI](https://mugishamarketing.com/da/viden/), eller [skriv til os](https://mugishamarketing.com/da/kontakt/) med den opgave, du har i tankerne.
 
@@ -4612,14 +4612,14 @@ Mugisha AI (Mugisha Marketing, CVR 42773786), Hannemanns Allé 44H, 2300 Copenha
 title: RPA eller AI-automatisering: forskellen | Mugisha AI
 url: https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/
 language: da
-description: RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet: hvordan de virker, hvad der vælter dem, fire eksempler og hvornår du skifter.
+description: RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet: hvordan de virker, hvor de fejler, fire eksempler og hvornår du skifter.
 ---
 
 # RPA eller AI-automatisering: hvad er forskellen?
 
 Opdateret: 21. november 2026 · Gennemgået af [Patrick Mugisha](https://mugishamarketing.com/da/om-os/), stifter
 
-RPA gentager faste klik og tastetryk på skærme og virker, så længe input og skærmbilleder er de samme. AI-automatisering bruger en sprogmodel til at læse og vurdere rodet input som mails og dokumenter, og en arbejdsgang handler så på resultatet. De fleste rigtige opgaver bruger begge: regler til trinene, AI til læsningen.
+RPA gentager faste klik og tastetryk på skærme og virker, så længe input og skærmbilleder er de samme. AI-automatisering bruger en sprogmodel til at læse og vurdere rodet input som mails og dokumenter, og en arbejdsgang handler så på resultatet. De fleste opgaver i praksis kræver begge dele: regler til trinene, AI til læsningen.
 
 ## De fire slags side om side
 
@@ -4631,7 +4631,7 @@ RPA gentager faste klik og tastetryk på skærme og virker, så længe input og 
 
 | Hvad den kan tage imod | Struktureret input med samme layout hver gang | Struktureret data fra programmer, formularer og filer | Fri tekst, dokumenter og blandede formater | Åbne opgaver med varierende input
 
-| Hvad der vælter den | En flyttet knap, et nyt skærmlayout, en pop-up | Et ændret felt eller en ændret grænseflade | En forkert læsning af usædvanligt input | Et forkert skridt, den tager på egen hånd
+| Hvor den fejler | En flyttet knap, et nyt skærmlayout, en pop-up | Et ændret felt eller en ændret grænseflade | En forkert læsning af usædvanligt input | Et forkert skridt, den tager på egen hånd
 
 | Typisk brug | Flytte data i et system, der ikke har andre veje ind | Formular til CRM, ordre til faktura, notifikationer | Sortere mail, læse fakturaer, skrive svarudkast | Slå op på tværs af systemer og foreslå næste skridt
 
@@ -4641,7 +4641,7 @@ UiPath, en stor RPA-leverandør, skriver: »Robotic process automation (RPA) use
 
 IBM trækker linjen op mod AI: »The critical difference is that RPA is process-driven, whereas AI is data-driven.« IBM tilføjer: »RPA bots can follow only the processes defined by an end user, while AI bots use machine learning to recognize patterns in data, in particular unstructured data, and learn over time.« Kort sagt følger RPA en proces, som et menneske har defineret, mens AI lærer mønstre i data.
 
-Om den sidste kolonne skriver n8n's dokumentation, at »the agent decides which tools to call to complete a task«. Anthropic skelner mellem workflows, »systems where LLMs and tools are orchestrated through predefined code paths«, og agenter, »systems where LLMs dynamically direct their own processes and tool usage«. Vores [guide til agentisk AI](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/) går længere ind i agentsiden.
+Om den sidste kolonne skriver n8n's dokumentation, at »the agent decides which tools to call to complete a task«. Anthropic skelner mellem workflows, »systems where LLMs and tools are orchestrated through predefined code paths«, og agenter, »systems where LLMs dynamically direct their own processes and tool usage«. Vores [guide til agentisk AI](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/) går mere i dybden med agenter.
 
 ## Fire opgaver, fire svar
 
@@ -4649,7 +4649,7 @@ Det er illustrationer af, hvordan vi ville sortere opgaver, ikke kundeforløb.
 
 ### En leverandørportal uden andre veje ind
 
-Medarbejdere kopierer fakturalinjer fra en portal ind i regnskabssystemet. Portalen har ingen integration, og siderne ser ens ud hver gang. Det er RPA-terræn. Tilbyder portalen en grænseflade til data, er en arbejdsgang mere stabil.
+Medarbejdere kopierer fakturalinjer fra en portal ind i regnskabssystemet. Portalen har ingen integration, og siderne ser ens ud hver gang. Her passer RPA. Tilbyder portalen en grænseflade til data, er en arbejdsgang mere stabil.
 
 ### En formular, der skal oprette en post
 
@@ -4661,11 +4661,11 @@ Der kommer mails om ordrer, forsinkelser og returneringer, hver formuleret forsk
 
 ### En henvendelse, der kræver flere opslag
 
-En leverandør spørger, hvorfor en levering er forsinket. For at svare skal man se i ordresystemet, fragtbeskeden og tidligere mails og så vælge, hvad der skal ske. Det passer til en agent med snævre værktøjer og en log, som starter i forslagstilstand.
+En leverandør spørger, hvorfor en levering er forsinket. For at svare skal man tjekke ordresystemet, fragtbeskeden og tidligere mails og så beslutte, hvad der skal ske. Det passer til en agent med få værktøjer og en log, som i starten kun foreslår.
 
 ## Sådan kombinerer du dem
 
-Efter vores erfaring bruger de stærkeste løsninger hver slags, hvor den er billigst og mest forudsigelig. En arbejdsgang er rygraden og flytter data mellem programmer. Et AI-trin læser rodet input. Et RPA-trin bruges kun, hvor et program ikke har andre døre. En agent sparer vi til den del, der virkelig varierer, og et menneske godkender det, der forlader virksomheden. Anthropics råd gælder: »we recommend finding the simplest solution possible, and only increasing complexity when needed«.
+Efter vores erfaring bruger de stærkeste løsninger hver slags, hvor den er billigst og mest forudsigelig. En arbejdsgang er rygraden og flytter data mellem programmer. Et AI-trin læser rodet input. Et RPA-trin bruges kun, hvor et program ikke kan nås på anden måde. En agent sparer vi til den del, der virkelig varierer, og et menneske godkender det, der forlader virksomheden. Anthropics råd gælder: »we recommend finding the simplest solution possible, and only increasing complexity when needed«.
 
 Vores sider om [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/), [n8n](https://mugishamarketing.com/da/n8n-konsulent/) og [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) beskriver, hvad vi bygger i hvert tilfælde.
 
@@ -4685,7 +4685,7 @@ Det er vores vurdering, ikke en regel. Behold en robot, når den kører stabilt,
 
 Overvej at skifte, når:
 
-- den stopper hver gang skærmlayoutet ændrer sig, og det tager længere at rette end selve opgaven;
+- den stopper, hver gang skærmlayoutet ændrer sig, og det tager længere at rette end selve opgaven;
 
 - input er blevet til fri tekst, som robotten ikke kan læse;
 
@@ -4693,7 +4693,7 @@ Overvej at skifte, når:
 
 - ingen kan sige, hvordan den virker, eller hvem der ejer den.
 
-Også da bør du skifte én opgave ad gangen og køre gammelt og nyt side om side, før robotten slukkes.
+Selv da bør du skifte én opgave ad gangen og køre gammelt og nyt side om side, før robotten slukkes.
 
 ## Ofte stillede spørgsmål
 
@@ -4715,7 +4715,7 @@ Nogle gange, delvist. Hvor en robot fejler, fordi input varierer, kan et AI-trin
 
 ### Har vi brug for RPA, hvis vi bruger n8n, Make eller Zapier?
 
-Ofte ikke. Har programmerne grænseflader, når arbejdsgangsværktøjerne dem direkte. RPA er mest nyttig, hvor et program kun kan bruges gennem skærmen.
+Ofte ikke. Har programmerne grænseflader, kan værktøjerne koble direkte på dem. RPA er mest nyttig, hvor et program kun kan bruges gennem skærmen.
 
 ### Hvor starter vi, hvis vi er i tvivl om, hvad der passer?
 
@@ -4749,7 +4749,7 @@ Sider vi har læst, tjekket 20. november 2026:
 
 ## Hvilken slags passer til dig?
 
-Fortæl os opgaven og hvad den tager imod. Vi siger, om RPA, en arbejdsgang, AI eller en agent passer.
+Fortæl os om opgaven, og hvad den tager imod. Vi siger, om RPA, en arbejdsgang, AI eller en agent passer.
 
 [Kontakt os](https://mugishamarketing.com/da/kontakt/)
 

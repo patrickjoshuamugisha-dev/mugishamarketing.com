@@ -13,7 +13,7 @@ Vi finder det arbejde, der sluger dit teams tid, og bygger løsninger, der overt
 
 01, AI-agenter og automatisering
 
-## Overlad det rutinemæssige arbejde til AI.
+## Overlad rutinearbejdet til AI.
 
 Vi bygger [AI-agenter](https://mugishamarketing.com/da/ai-agenter/) og [automatisering af arbejdsgange](https://mugishamarketing.com/da/ai-automatisering/), der fører en opgave fra start til slut. De læser det, der kommer ind, finder ud af, hvad det er, og tager det næste skridt.
 
@@ -25,7 +25,7 @@ At rykke for status, kopiere oplysninger fra ét system til et andet og svare p�
 
 ### Det får du
 
-Et fungerende system med ét klart mål, som måles fra dagen, det går live. Du bestemmer, hvilke trin et menneske tjekker, før noget sendes ud. Til din hjemmeside bygger vi en [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/), og mange arbejdsgange bygger vi i [n8n](https://mugishamarketing.com/da/n8n-konsulent/).
+Et fungerende system med ét klart mål, som måles fra den dag, det går live. Du bestemmer, hvilke trin et menneske tjekker, før noget sendes ud. Til din hjemmeside bygger vi en [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/), og mange arbejdsgange bygger vi i [n8n](https://mugishamarketing.com/da/n8n-konsulent/).
 
 ### For eksempel
 
@@ -33,7 +33,7 @@ En ny henvendelse kommer ind via mail, formular eller chat. Agenten læser den, 
 
 02, AI-audit
 
-## Vil du have AI, men ved ikke, hvor du skal starte?
+## Vil du i gang med AI, men ved ikke, hvor du skal starte?
 
 Vores AI-rådgivning begynder hos dem, der udfører arbejdet. Vi følger hver proces fra start til slut og finder ud af, hvor AI gør mest gavn for dig.
 
@@ -43,7 +43,7 @@ At gætte på, hvilket værktøj du skal købe, og hvilken proces du skal begynd
 
 ### Det får du
 
-En prioriteret køreplan: hvad der skal bygges først, hvad der kommer bagefter, og hvilket afkast du kan forvente på hvert trin. Læs mere om at arbejde med en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/), eller om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/), hvis vi også skal bygge det første punkt.
+En prioriteret køreplan: hvad der skal bygges først, hvad der kommer bagefter, og hvilket afkast du kan forvente på hvert trin. Læs mere om at arbejde med en [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/) eller om [AI-implementering](https://mugishamarketing.com/da/ai-implementering/), hvis vi også skal bygge det første punkt.
 
 ### For eksempel
 

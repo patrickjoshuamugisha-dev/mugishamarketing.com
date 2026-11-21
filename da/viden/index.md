@@ -15,7 +15,7 @@ Enkle guides til ejere og ledere i virksomheder med 10 til 500 ansatte, som vil 
 
 ### [Hvad er agentisk AI?](https://mugishamarketing.com/da/viden/hvad-er-agentisk-ai/)
 
-Hvad agentisk AI betyder, og hvordan det adskiller sig fra en chatbot, fast automatisering og en enkelt AI-agent, med eksempler, sikkerhedstrin, EU-regler og hvornår du lader være.
+Hvad agentisk AI betyder, og hvordan det adskiller sig fra en chatbot, fast automatisering og en enkelt AI-agent, med eksempler, sikkerhedstrin, EU-regler og hvornår du skal lade være.
 
 ### [AI i danske virksomheder: tal og kilder 2026](https://mugishamarketing.com/da/viden/ai-i-danske-virksomheder/)
 
@@ -27,21 +27,21 @@ En sammenligning af hosting, prismodel, AI-funktioner og placering af data for d
 
 ### [Hvad er en AI-audit?](https://mugishamarketing.com/da/viden/hvad-er-en-ai-audit/)
 
-Hvad en AI-audit ser på, hvad du får til sidst, forskellen på AI-strategi, AI-workshop og AI-readiness, og hvordan du vurderer rapporten.
+Hvad en AI-audit ser på, hvad du får ud af den, forskellen på AI-strategi, AI-workshop og AI-readiness, og hvordan du vurderer rapporten.
 
 ### [RPA eller AI-automatisering: hvad er forskellen?](https://mugishamarketing.com/da/viden/rpa-eller-ai-automatisering/)
 
-RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet på, hvordan de virker, hvad de kan læse, og hvad der vælter dem, med fire eksempler.
+RPA, workflow-automatisering, AI-automatisering og AI-agenter sammenlignet på, hvordan de virker, hvad de kan læse, og hvor de fejler, med fire eksempler.
 
 ## Vores ydelser
 
-Når du er klar til at gå fra at læse til at bygge, er det de seks ydelser, guiderne fører til.
+Når du er klar til at bygge, er det disse seks ydelser, guiderne peger på.
 
 - [AI-konsulent](https://mugishamarketing.com/da/ai-konsulent/): hjælp til at vælge, hvor AI passer i din virksomhed, og hvad du gør først.
 
 - [AI-automatisering](https://mugishamarketing.com/da/ai-automatisering/): arbejdsgange, der flytter arbejde og data mellem dine systemer.
 
-- [AI-agenter](https://mugishamarketing.com/da/ai-agenter/): AI, der tager en afgrænset opgave med grænser og et menneske i løkken.
+- [AI-agenter](https://mugishamarketing.com/da/ai-agenter/): AI, der løser en afgrænset opgave inden for klare grænser, mens et menneske godkender.
 
 - [n8n-konsulent](https://mugishamarketing.com/da/n8n-konsulent/): arbejdsgange i n8n, bygget, overtaget og afleveret til dit team.
 
@@ -49,7 +49,7 @@ Når du er klar til at gå fra at læse til at bygge, er det de seks ydelser, gu
 
 - [AI-chatbot](https://mugishamarketing.com/da/ai-chatbot/): en chatbot på din hjemmeside, der svarer ud fra dit eget materiale.
 
-## Ikke sikker på, hvor du starter?
+## I tvivl om, hvor du skal starte?
 
 Fortæl os, hvad der tager mest af dit teams tid. Vi siger, om AI kan hjælpe, og hvor vi ville begynde.
 
