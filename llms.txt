@@ -1,6 +1,6 @@
 # Mugisha AI
 
-> Mugisha AI (legal name Mugisha Marketing, CVR 42773786) is an AI automation agency in Copenhagen, Denmark. We build AI agents and automations, run AI audits with a roadmap, and build custom software and websites for businesses of about 10 to 500 staff. The site is in English and Danish.
+> Mugisha AI (legal name Mugisha Marketing, CVR 42773786) is an AI agency in Copenhagen, Denmark. We build AI agents and automations, run AI audits with a roadmap, and build custom software and websites for businesses of about 10 to 500 staff. The site is in English and Danish.
 
 ## English
 - [Home](https://mugishamarketing.com/): what we do and who we help
